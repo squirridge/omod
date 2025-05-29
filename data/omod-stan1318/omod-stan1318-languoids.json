@@ -1,0 +1,42 @@
+[
+  {
+    "glottocode": "stan1318",
+    "name": "Standard Arabic",
+    "endonym": "العربية الفصحى",
+    "iso639_3": "arb",
+    "family": "Afro-Asiatic",
+    "subfamily": "Semitic",
+    "region": "Middle East and North Africa",
+    "countries": [
+      "Saudi Arabia",
+      "Egypt",
+      "Iraq",
+      "Syria",
+      "Jordan",
+      "Lebanon",
+      "Kuwait",
+      "United Arab Emirates",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Yemen",
+      "Libya",
+      "Tunisia",
+      "Algeria",
+      "Morocco",
+      "Sudan",
+      "Somalia",
+      "Djibouti",
+      "Comoros",
+      "Chad",
+      "Mauritania"
+    ],
+    "population": 400000000,
+    "status": "Not endangered",
+    "writing_systems": [
+      "Arabic",
+      "Latin"
+    ],
+    "description": "Standard Arabic is the literary and formal register of Arabic, used in writing, formal speech, news broadcasts, and religious contexts across the Arab world. It serves as the liturgical language of Islam and is the basis for Modern Standard Arabic used in contemporary media and education. While regional spoken dialects vary significantly, Standard Arabic provides a unified written form understood across Arabic-speaking regions."
+  }
+]
