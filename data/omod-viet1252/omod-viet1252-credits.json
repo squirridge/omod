@@ -1,0 +1,55 @@
+{
+  "primary_contributor": {
+    "name": "Vincent Nguyen",
+    "github": "vinny-nguyen",
+    "role": "Data Creator and Linguistic Researcher",
+    "contribution": "Created comprehensive Vietnamese orthographic-phonetic mappings for the Saigon dialect, including all vowel tone variations and consonant realizations. Compiled 99 orthogon entries with example words, pronunciations, and contextual usage patterns.",
+    "date": "2025"
+  },
+  "contributors": [
+    {
+      "name": "Claude (Anthropic)",
+      "role": "Data Formatter and Schema Validator", 
+      "contribution": "Reformatted data for OMOD schema compliance, completed example pronunciations and meanings, standardized IPA notation, and provided linguistic annotations.",
+      "date": "2025-05-28"
+    }
+  ],
+  "sources": [
+    {
+      "type": "reference",
+      "title": "Vietnamese alphabet",
+      "author": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_alphabet",
+      "notes": "General reference for Vietnamese orthography and pronunciation patterns"
+    },
+    {
+      "type": "reference", 
+      "title": "Vietnamese Typography",
+      "url": "https://vietnamesetypography.com/alphabet/",
+      "notes": "Specialized resource for Vietnamese alphabet and typography"
+    },
+    {
+      "type": "tool",
+      "title": "vPhon",
+      "author": "James Kirby",
+      "url": "https://github.com/kirbyj/vPhon",
+      "notes": "Vietnamese phonetization tool and reference for IPA transcription patterns"
+    },
+    {
+      "type": "reference",
+      "title": "Glottolog: Vietnamese",
+      "author": "Max Planck Institute for Evolutionary Anthropology",
+      "url": "https://glottolog.org/resource/languoid/id/viet1252",
+      "notes": "Authoritative language classification and metadata"
+    },
+    {
+      "type": "fieldwork",
+      "title": "Saigon Dialect Documentation",
+      "author": "Vincent Nguyen",
+      "notes": "Original fieldwork and documentation of Southern Vietnamese pronunciation patterns"
+    }
+  ],
+  "license": "CC BY-SA 4.0",
+  "version": "1.0.0",
+  "notes": "This dataset represents the Saigon (Southern Vietnamese) dialect specifically. Pronunciation patterns may differ significantly from Northern (Hanoi) and Central (Huế) dialects. Data excludes English loanwords and focuses on traditional Vietnamese vocabulary. Future versions may include additional dialectal variants and expanded contextual information."
+}
