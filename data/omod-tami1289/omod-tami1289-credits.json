@@ -1,0 +1,49 @@
+{
+  "primary_contributor": {
+    "name": "Jaathavan Ranjanathan",
+    "github": "jaathavan",
+    "role": "Linguist and Dataset Creator",
+    "contribution": "Initial compilation and validation of Tamil orthographic-phonetic mappings covering all 247 Tamil characters including vowels, consonants, and vowel-consonant combinations",
+    "date": "2025"
+  },
+  "contributors": [
+    {
+      "name": "Claude (Anthropic)",
+      "role": "Data Formatter and Schema Validator",
+      "contribution": "Reformatted data for OMOD schema compliance, standardized IPA notation, and provided systematic organization of Tamil orthogons",
+      "date": "2025-05-28"
+    }
+  ],
+  "sources": [
+    {
+      "type": "reference",
+      "title": "Tamil",
+      "author": "T. Lehmann",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5BE3F9D1C8291CDA6B3610F0E1079C02/S0025100304001549a.pdf/tamil.pdf",
+      "notes": "Cambridge University Press reference for Tamil phonology and IPA notation"
+    },
+    {
+      "type": "reference",
+      "title": "Tamil Script Notes",
+      "author": "Richard Ishida",
+      "url": "https://r12a.github.io/scripts/taml/ta.html",
+      "notes": "Comprehensive documentation of Tamil script and orthography"
+    },
+    {
+      "type": "reference",
+      "title": "Glottolog: Tamil",
+      "author": "Max Planck Institute for Evolutionary Anthropology",
+      "url": "https://glottolog.org/resource/languoid/id/tami1289",
+      "notes": "Authoritative language classification and metadata"
+    },
+    {
+      "type": "fieldwork",
+      "title": "Tamil Orthographic Analysis",
+      "author": "Jaathavan Ranjanathan",
+      "notes": "Original analysis and documentation of Tamil orthographic-phonetic mappings with contextual usage patterns"
+    }
+  ],
+  "license": "MIT License",
+  "version": "1.0.0",
+  "notes": "This dataset provides comprehensive coverage of Tamil script including all 12 vowels, 18 consonants, 216 vowel-consonant combinations, and the special āytam character. The phonetic transcriptions follow standard IPA conventions for Tamil as documented in linguistic literature."
+}
