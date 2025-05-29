@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OMOD Orthosets",
+  "description": "Orthographic set definitions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z]{3,4}-[a-z0-9-]+$",
+        "description": "Unique identifier for this orthoset"
+      },
+      "name": {
+        "type": "string",
+        "description": "Human-readable name"
+      },
+      "script": {
+        "type": "string",
+        "enum": ["Arabic", "Latin", "Tamil", "Devanagari", "Thai", "Cyrillic", "Greek", "Hebrew", "Chinese", "Japanese", "Korean", "Other"],
+        "description": "Writing system used"
+      },
+      "direction": {
+        "type": "string",
+        "enum": ["ltr", "rtl", "ttb", "btt"],
+        "description": "Text direction: left-to-right, right-to-left, top-to-bottom, bottom-to-top"
+      },
+      "status": {
+        "type": "string",
+        "enum": ["current", "historical", "informal", "regional", "standardized"],
+        "description": "Usage status of this orthographic system"
+      },
+      "period": {
+        "type": "object",
+        "properties": {
+          "from": { 
+            "type": ["string", "integer"],
+            "description": "Start date/year (can be 'ancient', year, or ISO date)"
+          },
+          "to": { 
+            "type": ["string", "integer", "null"],
+            "description": "End date/year (null for current)"
+          }
+        },
+        "description": "Time period when this orthoset was/is used"
+      },
+      "region": {
+        "type": "string",
+        "description": "Geographic region or country where used"
+      },
+      "description": {
+        "type": "string",
+        "description": "Detailed description of this orthographic set"
+      },
+      "source": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "author": { "type": "string" },
+          "year": { "type": "integer" },
+          "url": { "type": "string", "format": "uri" }
+        },
+        "description": "Primary source documenting this orthoset"
+      },
+      "parent": {
+        "type": "string",
+        "description": "ID of parent orthoset if this is a variant"
+      }
+    },
+    "required": ["id", "name", "script", "direction", "status", "description"],
+    "additionalProperties": false
+  },
+  "minItems": 1
+}
