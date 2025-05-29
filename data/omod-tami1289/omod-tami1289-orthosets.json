@@ -1,18 +1,15 @@
 [
   {
     "id": "tami1289-modern",
-    "orthoset": "Modern Tamil",
-    "endonym": "",
+    "name": "Modern Tamil",
     "script": "Tamil",
     "direction": "ltr",
-    "description": "Contemporary Tamil script used in Tamil Nadu, India"
-  },
-  {
-    "id": "sril1244-srilankan",
-    "orthoset": "Sri Lankan Tamil",
-    "endonym": "",
-    "script": "Tamil",
-    "direction": "ltr",
-    "description": "Tamil script variant used in Sri Lanka"
+    "status": "current",
+    "period": {
+      "from": 1800,
+      "to": null
+    },
+    "region": "South Asia",
+    "description": "Contemporary Tamil script used in Tamil Nadu, India, Sri Lanka, Singapore, and other Tamil-speaking regions. This is the standardized form of Tamil script used in modern education, media, and official documents."
   }
 ]
