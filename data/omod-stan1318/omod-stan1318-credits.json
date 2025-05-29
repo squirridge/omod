@@ -1,0 +1,20 @@
+{
+  "primary_contributor": {
+    "name": "Anas Ramadan",
+    "github": "anram61",
+    "website": "https://squirrelridge.org/",
+    "role": "Linguist and Dataset Creator",
+    "contribution": "Compilation and validation of Arabic orthographic-phonetic mappings across multiple writing systems",
+    "date": "2025-05-28"
+  },
+  "sources": [
+    {
+      "type": "fieldwork",
+      "title": "Original Arabic orthographic-phonetic mapping compilation",
+      "author": "Anas Ramadan"
+    }
+  ],
+  "license": "MIT License",
+  "version": "1.0.0",
+  "notes": "Standard Arabic orthographic-phonetic mappings compiled by Anas Ramadan covering traditional script, chat alphabet, and romanization systems."
+}
