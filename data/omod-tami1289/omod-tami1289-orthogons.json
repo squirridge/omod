@@ -1,0 +1,2492 @@
+[
+  {
+    "glyphon": "அ",
+    "interphon": "a",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "standalone"],
+    "examples": [
+      { "word": "அப்பா", "pronunciation": "appaː", "meaning": "father" },
+      { "word": "மரம்", "pronunciation": "maɾam", "meaning": "tree" },
+      { "word": "அ", "pronunciation": "a", "meaning": "the letter 'a'" }
+    ]
+  },
+  {
+    "glyphon": "ஆ",
+    "interphon": "aː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      { "word": "ஆடு", "pronunciation": "aːɖu", "meaning": "goat" },
+      { "word": "காடு", "pronunciation": "kaːɖu", "meaning": "forest" },
+      { "word": "வா", "pronunciation": "ʋaː", "meaning": "come" }
+    ]
+  },
+  {
+    "glyphon": "இ",
+    "interphon": "i",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "standalone"],
+    "examples": [
+      { "word": "இலை", "pronunciation": "ilai̯", "meaning": "leaf" },
+      { "word": "விழி", "pronunciation": "ʋiɻi", "meaning": "eye" },
+      { "word": "இ", "pronunciation": "i", "meaning": "the letter 'i'" }
+    ]
+  },
+  {
+    "glyphon": "ஈ",
+    "interphon": "iː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      { "word": "ஈடு", "pronunciation": "iːɖu", "meaning": "equal" },
+      { "word": "வீடு", "pronunciation": "ʋiːɖu", "meaning": "house" },
+      { "word": "தீ", "pronunciation": "t̪iː", "meaning": "fire" }
+    ]
+  },
+  {
+    "glyphon": "உ",
+    "interphon": "u",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "standalone"],
+    "examples": [
+      { "word": "உடல்", "pronunciation": "uɖal", "meaning": "body" },
+      { "word": "முகம்", "pronunciation": "muɣam", "meaning": "face" },
+      { "word": "உ", "pronunciation": "u", "meaning": "the letter 'u'" }
+    ]
+  },
+  {
+    "glyphon": "ஊ",
+    "interphon": "uː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      { "word": "ஊர்", "pronunciation": "uːr", "meaning": "town/village" },
+      { "word": "பூ", "pronunciation": "puː", "meaning": "flower" },
+      { "word": "வரவூர்", "pronunciation": "ʋaɾaʋuːr", "meaning": "to welcome" }
+    ]
+  },
+  {
+    "glyphon": "எ",
+    "interphon": "e",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "standalone"],
+    "examples": [
+      { "word": "எல்லாம்", "pronunciation": "ellaːm", "meaning": "all" },
+      { "word": "செய்", "pronunciation": "t͡ʃej", "meaning": "do" },
+      { "word": "எ", "pronunciation": "e", "meaning": "the letter 'e'" }
+    ]
+  },
+  {
+    "glyphon": "ஏ",
+    "interphon": "eː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      { "word": "ஏன்", "pronunciation": "eːn", "meaning": "why" },
+      { "word": "தேன்", "pronunciation": "t̪eːn", "meaning": "honey" },
+      { "word": "கதவே", "pronunciation": "kat̪aʋeː", "meaning": "door (emphatic)" }
+    ]
+  },
+  {
+    "glyphon": "ஐ",
+    "interphon": "ai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      { "word": "ஐந்து", "pronunciation": "ai̯n̪t̪u", "meaning": "five" },
+      { "word": "பை", "pronunciation": "pai̯", "meaning": "bag" },
+      { "word": "ஐ", "pronunciation": "ai̯", "meaning": "the letter 'ai'" }
+    ]
+  },
+  {
+    "glyphon": "ஒ",
+    "interphon": "o",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "standalone"],
+    "examples": [
+      { "word": "ஒரு", "pronunciation": "oɾu", "meaning": "one" },
+      { "word": "கொடி", "pronunciation": "koɖi", "meaning": "flag" },
+      { "word": "ஒ", "pronunciation": "o", "meaning": "the letter 'o'" }
+    ]
+  },
+  {
+    "glyphon": "ஓ",
+    "interphon": "oː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      { "word": "ஓடு", "pronunciation": "oːɖu", "meaning": "run" },
+      { "word": "போ", "pronunciation": "poː", "meaning": "go" },
+      { "word": "சோறு", "pronunciation": "t͡ʃoːru", "meaning": "cooked rice" }
+    ]
+  },
+  {
+    "glyphon": "ஔ",
+    "interphon": "au̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "standalone"],
+    "examples": [
+      { "word": "ஔவை", "pronunciation": "au̯vai̯", "meaning": "Avvaiyar (name)" },
+      { "word": "கௌரவம்", "pronunciation": "kau̯ɾaʋam", "meaning": "honor/respect" },
+      { "word": "ஔ", "pronunciation": "au̯", "meaning": "the letter 'au'" }
+    ]
+  },
+  {
+    "glyphon": "ஃ",
+    "interphon": "ˑ",
+    "orthoset": "tami1289-modern",
+    "context": ["medial"],
+    "examples": [
+      { "word": "வஃக", "pronunciation": "vaˑka", "meaning": "to bend (archaic)" },
+      { "word": "அஃது", "pronunciation": "aˑt̪u", "meaning": "that thing (archaic)" }
+    ],
+    "notes": "Āytam: rare archaic character used between certain consonants"
+  },
+  {
+    "glyphon": "க்",
+    "interphon": "k",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "கல்", "pronunciation": "kal", "meaning": "stone" },
+      { "word": "பக்கம்", "pronunciation": "pakkam", "meaning": "side/page" },
+      { "word": "மரக்", "pronunciation": "maɾak", "meaning": "wooden (as prefix)" }
+    ]
+  },
+  {
+    "glyphon": "ங்",
+    "interphon": "ŋ",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "அங்கே", "pronunciation": "aŋgeː", "meaning": "there" },
+      { "word": "பொங்கல்", "pronunciation": "poŋgal", "meaning": "a harvest festival/dish" },
+      { "word": "மரங்", "pronunciation": "maɾaŋ", "meaning": "trees (as prefix)" }
+    ]
+  },
+  {
+    "glyphon": "ச்",
+    "interphon": "t͡ʃ",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "சட்டை", "pronunciation": "t͡ʃaʈʈai̯", "meaning": "shirt" },
+      { "word": "அச்சம்", "pronunciation": "at͡ʃt͡ʃam", "meaning": "fear" },
+      { "word": "மரச்", "pronunciation": "maɾat͡ʃ", "meaning": "wooden (as prefix)" }
+    ]
+  },
+  {
+    "glyphon": "ஞ்",
+    "interphon": "ɲ",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "பஞ்சு", "pronunciation": "paɲt͡ʃu", "meaning": "cotton" },
+      { "word": "ஆஞ்சனேயர்", "pronunciation": "aːɲt͡ʃaneːjar", "meaning": "Hanuman" },
+      { "word": "எஞ்", "pronunciation": "eɲ", "meaning": "remain (as prefix)" }
+    ]
+  },
+  {
+    "glyphon": "ட்",
+    "interphon": "ʈ",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "வீட்டு", "pronunciation": "ʋiːʈʈu", "meaning": "of the house" },
+      { "word": "கட்டம்", "pronunciation": "kaʈʈam", "meaning": "stage/phase" },
+      { "word": "வீட்", "pronunciation": "ʋiːʈ", "meaning": "house (as prefix)" }
+    ]
+  },
+  {
+    "glyphon": "ண்",
+    "interphon": "ɳ",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "கண்", "pronunciation": "kaɳ", "meaning": "eye" },
+      { "word": "பண்பு", "pronunciation": "paɳpu", "meaning": "culture/quality" },
+      { "word": "மண்", "pronunciation": "maɳ", "meaning": "soil/earth" }
+    ]
+  },
+  {
+    "glyphon": "த்",
+    "interphon": "t̪",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "பத்து", "pronunciation": "pat̪t̪u", "meaning": "ten" },
+      { "word": "சித்தம்", "pronunciation": "t͡ʃit̪t̪am", "meaning": "mind" },
+      { "word": "வித்", "pronunciation": "ʋit̪", "meaning": "seed (as prefix)" }
+    ]
+  },
+  {
+    "glyphon": "ந்",
+    "interphon": "n̪",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "அந்த", "pronunciation": "an̪t̪a", "meaning": "that" },
+      { "word": "மந்தி", "pronunciation": "man̪t̪i", "meaning": "monkey" },
+      { "word": "என்", "pronunciation": "en̪", "meaning": "my" }
+    ]
+  },
+  {
+    "glyphon": "ப்",
+    "interphon": "p",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "புத்தகம்", "pronunciation": "put̪t̪akam", "meaning": "book" },
+      { "word": "அப்பா", "pronunciation": "appaː", "meaning": "father" },
+      { "word": "தாப்", "pronunciation": "t̪aːp", "meaning": "jump (as prefix)" }
+    ]
+  },
+  {
+    "glyphon": "ம்",
+    "interphon": "m",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "அம்மா", "pronunciation": "ammaː", "meaning": "mother" },
+      { "word": "நம்பு", "pronunciation": "nambu", "meaning": "believe" },
+      { "word": "மரம்", "pronunciation": "maɾam", "meaning": "tree" }
+    ]
+  },
+  {
+    "glyphon": "ய்",
+    "interphon": "j",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "ஐயா", "pronunciation": "ai̯jaː", "meaning": "sir" },
+      { "word": "செய்தி", "pronunciation": "t͡ʃejt̪i", "meaning": "news" },
+      { "word": "பொய்", "pronunciation": "poj", "meaning": "lie/falsehood" }
+    ]
+  },
+  {
+    "glyphon": "ர்",
+    "interphon": "ɾ",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "அர்த்தம்", "pronunciation": "aɾt̪t̪am", "meaning": "meaning" },
+      { "word": "பர்வதம்", "pronunciation": "paɾʋat̪am", "meaning": "mountain" },
+      { "word": "ஊர்", "pronunciation": "uːɾ", "meaning": "town/village" }
+    ]
+  },
+  {
+    "glyphon": "ல்",
+    "interphon": "l",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "கல்", "pronunciation": "kal", "meaning": "stone" },
+      { "word": "பல்", "pronunciation": "pal", "meaning": "tooth" },
+      { "word": "நல்ல", "pronunciation": "nalla", "meaning": "good" }
+    ]
+  },
+  {
+    "glyphon": "வ்",
+    "interphon": "ʋ",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "வீடு", "pronunciation": "ʋiːɖu", "meaning": "house" },
+      { "word": "அவன்", "pronunciation": "aʋan", "meaning": "he" },
+      { "word": "தெய்வ்", "pronunciation": "t̪ei̯ʋ", "meaning": "divine (as prefix)" }
+    ]
+  },
+  {
+    "glyphon": "ழ்",
+    "interphon": "ɻ",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "வாழ்க்கை", "pronunciation": "ʋaːɻkkai̯", "meaning": "life" },
+      { "word": "பழம்", "pronunciation": "paɻam", "meaning": "fruit" },
+      { "word": "தமிழ்", "pronunciation": "t̪amiɻ", "meaning": "Tamil" }
+    ]
+  },
+  {
+    "glyphon": "ள்",
+    "interphon": "ɭ",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "களம்", "pronunciation": "kaɭam", "meaning": "field" },
+      { "word": "பள்ளி", "pronunciation": "paɭɭi", "meaning": "school" },
+      { "word": "கோள்", "pronunciation": "koːɭ", "meaning": "planet" }
+    ]
+  },
+  {
+    "glyphon": "ற்",
+    "interphon": "r",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "கற்றல்", "pronunciation": "karral", "meaning": "learning" },
+      { "word": "பற்று", "pronunciation": "parru", "meaning": "attachment" },
+      { "word": "நூற்", "pronunciation": "nuːr", "meaning": "hundred (as prefix)" }
+    ]
+  },
+  {
+    "glyphon": "ன்",
+    "interphon": "n",
+    "orthoset": "tami1289-modern",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "மன்னன்", "pronunciation": "mannan", "meaning": "king" },
+      { "word": "கன்னம்", "pronunciation": "kannam", "meaning": "cheek" },
+      { "word": "அவன்", "pronunciation": "aʋan", "meaning": "he" }
+    ]
+  },
+  {
+    "glyphon": "க",
+    "interphon": "ka",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "கதவு", "pronunciation": "kat̪aʋu", "meaning": "door" },
+      { "word": "மகன்", "pronunciation": "mahan", "meaning": "son" }
+    ]
+  },
+  {
+    "glyphon": "கா",
+    "interphon": "kaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "காடு", "pronunciation": "kaːɖu", "meaning": "forest" },
+      { "word": "மகா", "pronunciation": "mahaː", "meaning": "great" }
+    ]
+  },
+  {
+    "glyphon": "கி",
+    "interphon": "ki",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "கிளி", "pronunciation": "kiɭi", "meaning": "parrot" },
+      { "word": "மகிழ்", "pronunciation": "mahiɻ", "meaning": "happiness" }
+    ]
+  },
+  {
+    "glyphon": "கீ",
+    "interphon": "kiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "கீரை", "pronunciation": "kiːɾai̯", "meaning": "spinach" },
+      { "word": "மகீந்திரன்", "pronunciation": "mahiːn̪t̪iɾan", "meaning": "Mahindra (name)" }
+    ]
+  },
+  {
+    "glyphon": "கு",
+    "interphon": "ku",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "குதிரை", "pronunciation": "kut̪iɾai̯", "meaning": "horse" },
+      { "word": "மகுடம்", "pronunciation": "makuɖam", "meaning": "crown" }
+    ]
+  },
+  {
+    "glyphon": "கூ",
+    "interphon": "kuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "கூடை", "pronunciation": "kuːɖai̯", "meaning": "basket" },
+      { "word": "மகூடம்", "pronunciation": "makuːɖam", "meaning": "headdress" }
+    ]
+  },
+  {
+    "glyphon": "கெ",
+    "interphon": "ke",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "கெட்ட", "pronunciation": "keʈʈa", "meaning": "bad" },
+      { "word": "மகெந்திரன்", "pronunciation": "mahen̪t̪iɾan", "meaning": "Mahendran (name)" }
+    ]
+  },
+  {
+    "glyphon": "கே",
+    "interphon": "keː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "கேள்வி", "pronunciation": "keːɭʋi", "meaning": "question" },
+      { "word": "மகேசன்", "pronunciation": "makeːt͡ʃan", "meaning": "Mahesan (name)" }
+    ]
+  },
+  {
+    "glyphon": "கை",
+    "interphon": "kai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "கை", "pronunciation": "kai̯", "meaning": "hand" },
+      { "word": "மகைமை", "pronunciation": "makai̯mai̯", "meaning": "greatness" }
+    ]
+  },
+  {
+    "glyphon": "கொ",
+    "interphon": "ko",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "கொடி", "pronunciation": "koɖi", "meaning": "flag" },
+      { "word": "மகொடி", "pronunciation": "makoɖi", "meaning": "great flag (rare)" }
+    ]
+  },
+  {
+    "glyphon": "கோ",
+    "interphon": "koː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "கோடு", "pronunciation": "koːɖu", "meaning": "line" },
+      { "word": "மகோதி", "pronunciation": "makoːt̪i", "meaning": "great ending (rare)" }
+    ]
+  },
+  {
+    "glyphon": "கௌ",
+    "interphon": "kau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "கௌரவம்", "pronunciation": "kau̯ɾaʋam", "meaning": "honor" },
+      { "word": "மகௌதம்", "pronunciation": "makau̯t̪am", "meaning": "Magautham (rare)" }
+    ]
+  },
+  {
+    "glyphon": "ங",
+    "interphon": "ŋa",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙனம்", "pronunciation": "ŋanam", "meaning": "manner (archaic)" },
+      { "word": "அஙகம்", "pronunciation": "aŋakam", "meaning": "body part (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஙா",
+    "interphon": "ŋaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙாயம்", "pronunciation": "ŋaːjam", "meaning": "benefit (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஙி",
+    "interphon": "ŋi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "திருஙிலம்", "pronunciation": "t̪iɾuŋilam", "meaning": "holy land (rare)" }
+    ]
+  },
+  {
+    "glyphon": "ஙீ",
+    "interphon": "ŋiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙீனம்", "pronunciation": "ŋiːnam", "meaning": "diminished (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஙு",
+    "interphon": "ŋu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙுவல்", "pronunciation": "ŋuʋal", "meaning": "to say (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஙூ",
+    "interphon": "ŋuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙூழி", "pronunciation": "ŋuːɻi", "meaning": "very long time (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஙெ",
+    "interphon": "ŋe",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙெகிழ்", "pronunciation": "ŋeɣiɻ", "meaning": "to move (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஙே",
+    "interphon": "ŋeː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙேயம்", "pronunciation": "ŋeːjam", "meaning": "friendship (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஙை",
+    "interphon": "ŋai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙைமை", "pronunciation": "ŋai̯mai̯", "meaning": "characteristics (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஙொ",
+    "interphon": "ŋo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙொள்ளுதல்", "pronunciation": "ŋoɭɭut̪al", "meaning": "to take (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஙோ",
+    "interphon": "ŋoː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙோதல்", "pronunciation": "ŋoːt̪al", "meaning": "to hit (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஙௌ",
+    "interphon": "ŋau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஙௌவியம்", "pronunciation": "ŋau̯vijam", "meaning": "newness (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ச",
+    "interphon": "t͡ʃa",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "சரம்", "pronunciation": "t͡ʃaɾam", "meaning": "garland" },
+      { "word": "அசல்", "pronunciation": "at͡ʃal", "meaning": "original" }
+    ]
+  },
+  {
+    "glyphon": "சா",
+    "interphon": "t͡ʃaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "சாலை", "pronunciation": "t͡ʃaːlai̯", "meaning": "road" },
+      { "word": "பசார்", "pronunciation": "pat͡ʃaːr", "meaning": "bazaar" }
+    ]
+  },
+  {
+    "glyphon": "சி",
+    "interphon": "t͡ʃi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "சிவப்பு", "pronunciation": "t͡ʃivappu", "meaning": "red" },
+      { "word": "கசிவு", "pronunciation": "kat͡ʃivu", "meaning": "leakage" }
+    ]
+  },
+  {
+    "glyphon": "சீ",
+    "interphon": "t͡ʃiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "சீக்கிரம்", "pronunciation": "t͡ʃiːkkiɾam", "meaning": "quickly" },
+      { "word": "நசீம்", "pronunciation": "nat͡ʃiːm", "meaning": "Naseem (name)" }
+    ]
+  },
+  {
+    "glyphon": "சு",
+    "interphon": "t͡ʃu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "சுவர்", "pronunciation": "t͡ʃuvar", "meaning": "wall" },
+      { "word": "பசும்", "pronunciation": "pat͡ʃum", "meaning": "green/fresh" }
+    ]
+  },
+  {
+    "glyphon": "சூ",
+    "interphon": "t͡ʃuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "சூரியன்", "pronunciation": "t͡ʃuːrijan", "meaning": "sun" },
+      { "word": "கசூரம்", "pronunciation": "kat͡ʃuːɾam", "meaning": "defective (rare)" }
+    ]
+  },
+  {
+    "glyphon": "செ",
+    "interphon": "t͡ʃe",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "செய்தி", "pronunciation": "t͡ʃejt̪i", "meaning": "news" },
+      { "word": "அசெளகரியம்", "pronunciation": "at͡ʃeau̯kaɾijam", "meaning": "inconvenience" }
+    ]
+  },
+  {
+    "glyphon": "சே",
+    "interphon": "t͡ʃeː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "சேவல்", "pronunciation": "t͡ʃeːval", "meaning": "rooster" },
+      { "word": "அசேதனம்", "pronunciation": "at͡ʃeːt̪anam", "meaning": "inanimate" }
+    ]
+  },
+  {
+    "glyphon": "சை",
+    "interphon": "t͡ʃai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "சைவம்", "pronunciation": "t͡ʃai̯vam", "meaning": "Shaivism" },
+      { "word": "அசைவு", "pronunciation": "at͡ʃai̯vu", "meaning": "movement" }
+    ]
+  },
+  {
+    "glyphon": "சொ",
+    "interphon": "t͡ʃo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "சொல்", "pronunciation": "t͡ʃol", "meaning": "word" },
+      { "word": "அசொகன்", "pronunciation": "at͡ʃokan", "meaning": "Ashoka (name)" }
+    ]
+  },
+  {
+    "glyphon": "சோ",
+    "interphon": "t͡ʃoː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "சோறு", "pronunciation": "t͡ʃoːru", "meaning": "cooked rice" },
+      { "word": "அசோகன்", "pronunciation": "at͡ʃoːkan", "meaning": "Ashoka (name)" }
+    ]
+  },
+  {
+    "glyphon": "சௌ",
+    "interphon": "t͡ʃau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "சௌகரியம்", "pronunciation": "t͡ʃau̯kaɾijam", "meaning": "convenience" },
+      { "word": "அசௌகரியம்", "pronunciation": "at͡ʃau̯kaɾijam", "meaning": "inconvenience" }
+    ]
+  },
+  {
+    "glyphon": "ஞ",
+    "interphon": "ɲa",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞானம்", "pronunciation": "ɲaːnam", "meaning": "wisdom" },
+      { "word": "அஞலி", "pronunciation": "aɲali", "meaning": "offering" }
+    ]
+  },
+  {
+    "glyphon": "ஞா",
+    "interphon": "ɲaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞாயிறு", "pronunciation": "ɲaːjiɾu", "meaning": "sun" },
+      { "word": "அஞாதை", "pronunciation": "aɲaːt̪ai̯", "meaning": "orphan (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஞி",
+    "interphon": "ɲi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞிமிறு", "pronunciation": "ɲimiɾu", "meaning": "to stretch (archaic)" },
+      { "word": "அஞிதம்", "pronunciation": "aɲit̪am", "meaning": "clean (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஞீ",
+    "interphon": "ɲiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞீலி", "pronunciation": "ɲiːli", "meaning": "blue (archaic)" },
+      { "word": "அஞீரகம்", "pronunciation": "aɲiːɾakam", "meaning": "fig plant (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஞு",
+    "interphon": "ɲu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞுவல்", "pronunciation": "ɲuval", "meaning": "to say (archaic)" },
+      { "word": "அஞுகம்", "pronunciation": "aɲukam", "meaning": "accessibility (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஞூ",
+    "interphon": "ɲuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞூழி", "pronunciation": "ɲuːɻi", "meaning": "ancient time (archaic)" },
+      { "word": "அஞூகம்", "pronunciation": "aɲuːkam", "meaning": "inaccessibility (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஞெ",
+    "interphon": "ɲe",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞெகிழி", "pronunciation": "ɲekiɻi", "meaning": "plastic (archaic)" },
+      { "word": "அஞெள்ளல்", "pronunciation": "aɲeɭɭal", "meaning": "control (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஞே",
+    "interphon": "ɲeː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞேயம்", "pronunciation": "ɲeːjam", "meaning": "knowable (archaic)" },
+      { "word": "அஞேயம்", "pronunciation": "aɲeːjam", "meaning": "unknowable (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஞை",
+    "interphon": "ɲai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞைமிரம்", "pronunciation": "ɲai̯miɾam", "meaning": "bent grass (archaic)" },
+      { "word": "அஞைவு", "pronunciation": "aɲai̯vu", "meaning": "invitation (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஞொ",
+    "interphon": "ɲo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞொள்ளல்", "pronunciation": "ɲoɭɭal", "meaning": "to gather (archaic)" },
+      { "word": "அஞொறி", "pronunciation": "aɲoɾi", "meaning": "miserable person (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஞோ",
+    "interphon": "ɲoː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞோதை", "pronunciation": "ɲoːt̪ai̯", "meaning": "anger (archaic)" },
+      { "word": "அஞோசை", "pronunciation": "aɲoːsai̯", "meaning": "silence (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ஞௌ",
+    "interphon": "ɲau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ஞௌவியம்", "pronunciation": "ɲau̯vijam", "meaning": "newness (archaic)" },
+      { "word": "அஞௌவனம்", "pronunciation": "aɲau̯vanam", "meaning": "old age (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ட",
+    "interphon": "ʈa",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "டமாரம்", "pronunciation": "ʈamaːɾam", "meaning": "drum" },
+      { "word": "கடகம்", "pronunciation": "kaʈakam", "meaning": "Cancer (zodiac)" }
+    ]
+  },
+  {
+    "glyphon": "டா",
+    "interphon": "ʈaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "டாக்டர்", "pronunciation": "ʈaːkʈar", "meaning": "doctor" },
+      { "word": "படாடோபம்", "pronunciation": "paʈaːʈoːpam", "meaning": "grandeur" }
+    ]
+  },
+  {
+    "glyphon": "டி",
+    "interphon": "ʈi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "டிக்கெட்", "pronunciation": "ʈikkeʈ", "meaning": "ticket" },
+      { "word": "படிப்பு", "pronunciation": "paʈippu", "meaning": "education" }
+    ]
+  },
+  {
+    "glyphon": "டீ",
+    "interphon": "ʈiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "டீ", "pronunciation": "ʈiː", "meaning": "tea" },
+      { "word": "கடீல்", "pronunciation": "kaʈiːl", "meaning": "cruel (rare)" }
+    ]
+  },
+  {
+    "glyphon": "டு",
+    "interphon": "ʈu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "டும்", "pronunciation": "ʈum", "meaning": "sound (onomatopoeic)" },
+      { "word": "படுக்கை", "pronunciation": "paʈukkai̯", "meaning": "bed" }
+    ]
+  },
+  {
+    "glyphon": "டூ",
+    "interphon": "ʈuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "டூப்", "pronunciation": "ʈuːp", "meaning": "tube" },
+      { "word": "படூஉம்", "pronunciation": "paʈuːum", "meaning": "form (rare)" }
+    ]
+  },
+  {
+    "glyphon": "டெ",
+    "interphon": "ʈe",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "டெலிபோன்", "pronunciation": "ʈelipoːn", "meaning": "telephone" },
+      { "word": "படெக்", "pronunciation": "paʈek", "meaning": "Patek (brand)" }
+    ]
+  },
+  {
+    "glyphon": "டே",
+    "interphon": "ʈeː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "டேபிள்", "pronunciation": "ʈeːpiɭ", "meaning": "table" },
+      { "word": "வேடே", "pronunciation": "veːʈeː", "meaning": "hunting (vocative)" }
+    ]
+  },
+  {
+    "glyphon": "டை",
+    "interphon": "ʈai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "டைம்", "pronunciation": "ʈai̯m", "meaning": "time" },
+      { "word": "கடைசி", "pronunciation": "kaʈai̯si", "meaning": "last" }
+    ]
+  },
+  {
+    "glyphon": "டொ",
+    "interphon": "ʈo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "டொலர்", "pronunciation": "ʈolar", "meaning": "dollar" },
+      { "word": "படொக்", "pronunciation": "paʈok", "meaning": "thud (sound)" }
+    ]
+  },
+  {
+    "glyphon": "டோ",
+    "interphon": "ʈoː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "டோன்", "pronunciation": "ʈoːn", "meaning": "tone" },
+      { "word": "கடோரம்", "pronunciation": "kaʈoːɾam", "meaning": "harshness" }
+    ]
+  },
+  {
+    "glyphon": "டௌ",
+    "interphon": "ʈau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "டௌன்", "pronunciation": "ʈau̯n", "meaning": "town" },
+      { "word": "படௌசு", "pronunciation": "paʈau̯su", "meaning": "blouse (colloquial)" }
+    ]
+  },
+  {
+    "glyphon": "ண",
+    "interphon": "ɳa",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணகாரம்", "pronunciation": "ɳakaːɾam", "meaning": "the letter ண" },
+      { "word": "மணம்", "pronunciation": "maɳam", "meaning": "smell/marriage" }
+    ]
+  },
+  {
+    "glyphon": "ணா",
+    "interphon": "ɳaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணாதம்", "pronunciation": "ɳaːt̪am", "meaning": "sound (archaic)" },
+      { "word": "கணாதிபதி", "pronunciation": "kaɳaːt̪ipat̪i", "meaning": "treasurer (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ணி",
+    "interphon": "ɳi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணிக்கம்", "pronunciation": "ɳikkam", "meaning": "smallness (archaic)" },
+      { "word": "மணிக்கூடு", "pronunciation": "maɳikkuːɖu", "meaning": "clock" }
+    ]
+  },
+  {
+    "glyphon": "ணீ",
+    "interphon": "ɳiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணீர்", "pronunciation": "ɳiːr", "meaning": "water (archaic)" },
+      { "word": "பணீகரம்", "pronunciation": "paɳiːkaɾam", "meaning": "service (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ணு",
+    "interphon": "ɳu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணுங்கு", "pronunciation": "ɳuŋgu", "meaning": "to tremble (archaic)" },
+      { "word": "கணுக்கால்", "pronunciation": "kaɳukkaːl", "meaning": "ankle" }
+    ]
+  },
+  {
+    "glyphon": "ணூ",
+    "interphon": "ɳuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணூகம்", "pronunciation": "ɳuːkam", "meaning": "smallness (archaic)" },
+      { "word": "தணூசு", "pronunciation": "t̪aɳuːsu", "meaning": "thin (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ணெ",
+    "interphon": "ɳe",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணெகிழ்", "pronunciation": "ɳekiɻ", "meaning": "to loosen (archaic)" },
+      { "word": "கணெதி", "pronunciation": "kaɳet̪i", "meaning": "calculation (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ணே",
+    "interphon": "ɳeː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணேசன்", "pronunciation": "ɳeːsan", "meaning": "friend (archaic)" },
+      { "word": "மணேசன்", "pronunciation": "maɳeːsan", "meaning": "an epithet (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ணை",
+    "interphon": "ɳai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணைந்து", "pronunciation": "ɳai̯n̪t̪u", "meaning": "joined (archaic)" },
+      { "word": "மணை", "pronunciation": "maɳai̯", "meaning": "seat (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ணொ",
+    "interphon": "ɳo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணொதல்", "pronunciation": "ɳot̪al", "meaning": "to be perplexed (archaic)" },
+      { "word": "வணொசை", "pronunciation": "vaɳosai̯", "meaning": "praise (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ணோ",
+    "interphon": "ɳoː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணோக்கு", "pronunciation": "ɳoːkku", "meaning": "to look (archaic)" },
+      { "word": "வணோபா", "pronunciation": "vaɳoːpaː", "meaning": "sky (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ணௌ",
+    "interphon": "ɳau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ணௌகம்", "pronunciation": "ɳau̯kam", "meaning": "boat (archaic)" },
+      { "word": "தணௌரி", "pronunciation": "t̪aɳau̯ɾi", "meaning": "cool (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "த",
+    "interphon": "t̪a",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "தலை", "pronunciation": "t̪alai̯", "meaning": "head" },
+      { "word": "மதம்", "pronunciation": "mat̪am", "meaning": "religion" }
+    ]
+  },
+  {
+    "glyphon": "தா",
+    "interphon": "t̪aː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "தாய்", "pronunciation": "t̪aːj", "meaning": "mother" },
+      { "word": "மதாபிமானம்", "pronunciation": "mat̪aːpimaanam", "meaning": "religious pride" }
+    ]
+  },
+  {
+    "glyphon": "தி",
+    "interphon": "t̪i",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "திசை", "pronunciation": "t̪isai̯", "meaning": "direction" },
+      { "word": "பதி", "pronunciation": "pat̪i", "meaning": "register" }
+    ]
+  },
+  {
+    "glyphon": "தீ",
+    "interphon": "t̪iː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "தீ", "pronunciation": "t̪iː", "meaning": "fire" },
+      { "word": "பதீ", "pronunciation": "pat̪iː", "meaning": "lady (Urdu)" }
+    ]
+  },
+  {
+    "glyphon": "து",
+    "interphon": "t̪u",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "துணி", "pronunciation": "t̪uɳi", "meaning": "cloth" },
+      { "word": "மது", "pronunciation": "mat̪u", "meaning": "alcohol" }
+    ]
+  },
+  {
+    "glyphon": "தூ",
+    "interphon": "t̪uː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "தூக்கம்", "pronunciation": "t̪uːkkam", "meaning": "sleep" },
+      { "word": "மதூகம்", "pronunciation": "mat̪uːkam", "meaning": "honey tree" }
+    ]
+  },
+  {
+    "glyphon": "தெ",
+    "interphon": "t̪e",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "தெரு", "pronunciation": "t̪eɾu", "meaning": "street" },
+      { "word": "கதெ", "pronunciation": "kat̪e", "meaning": "tale (rare)" }
+    ]
+  },
+  {
+    "glyphon": "தே",
+    "interphon": "t̪eː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "தேன்", "pronunciation": "t̪eːn", "meaning": "honey" },
+      { "word": "மதேன்", "pronunciation": "mat̪eːn", "meaning": "from the religion (rare)" }
+    ]
+  },
+  {
+    "glyphon": "தை",
+    "interphon": "t̪ai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "தை", "pronunciation": "t̪ai̯", "meaning": "Tamil month" },
+      { "word": "விதை", "pronunciation": "vit̪ai̯", "meaning": "seed" }
+    ]
+  },
+  {
+    "glyphon": "தொ",
+    "interphon": "t̪o",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "தொழில்", "pronunciation": "t̪oɻil", "meaning": "profession" },
+      { "word": "கதொனி", "pronunciation": "kat̪oni", "meaning": "musical instrument (rare)" }
+    ]
+  },
+  {
+    "glyphon": "தோ",
+    "interphon": "t̪oː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "தோல்", "pronunciation": "t̪oːl", "meaning": "skin" },
+      { "word": "மதோன்மத்தம்", "pronunciation": "mat̪oːnmat̪t̪am", "meaning": "religious pride" }
+    ]
+  },
+  {
+    "glyphon": "தௌ",
+    "interphon": "t̪au̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "தௌஹீத்", "pronunciation": "t̪au̯hiːt̪", "meaning": "monotheism" },
+      { "word": "கதௌரி", "pronunciation": "kat̪au̯ɾi", "meaning": "type of poem (rare)" }
+    ]
+  },
+  {
+    "glyphon": "ந",
+    "interphon": "n̪a",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "நகம்", "pronunciation": "n̪akam", "meaning": "nail" },
+      { "word": "மனம்", "pronunciation": "man̪am", "meaning": "mind" }
+    ]
+  },
+  {
+    "glyphon": "நா",
+    "interphon": "n̪aː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "நாடு", "pronunciation": "n̪aːɖu", "meaning": "country" },
+      { "word": "மனாதிபதி", "pronunciation": "man̪aːt̪ipat̪i", "meaning": "chief" }
+    ]
+  },
+  {
+    "glyphon": "நி",
+    "interphon": "n̪i",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "நிலம்", "pronunciation": "n̪ilam", "meaning": "land" },
+      { "word": "மனிதன்", "pronunciation": "man̪it̪an", "meaning": "human" }
+    ]
+  },
+  {
+    "glyphon": "நீ",
+    "interphon": "n̪iː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "நீர்", "pronunciation": "n̪iːr", "meaning": "water" },
+      { "word": "தனீசா", "pronunciation": "t̪an̪iːsaː", "meaning": "alone (rare)" }
+    ]
+  },
+  {
+    "glyphon": "நு",
+    "interphon": "n̪u",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "நுரை", "pronunciation": "n̪uɾai̯", "meaning": "foam" },
+      { "word": "மனுஷன்", "pronunciation": "man̪uʂan", "meaning": "man" }
+    ]
+  },
+  {
+    "glyphon": "நூ",
+    "interphon": "n̪uː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "நூல்", "pronunciation": "n̪uːl", "meaning": "thread/book" },
+      { "word": "தநூல்", "pronunciation": "t̪an̪uːl", "meaning": "personal book (uncommon)" }
+    ]
+  },
+  {
+    "glyphon": "நெ",
+    "interphon": "n̪e",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "நெல்", "pronunciation": "n̪el", "meaning": "paddy" },
+      { "word": "மநெறி", "pronunciation": "man̪eɾi", "meaning": "a righteous path (rare)" }
+    ]
+  },
+  {
+    "glyphon": "நே",
+    "interphon": "n̪eː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "நேரம்", "pronunciation": "n̪eːɾam", "meaning": "time" },
+      { "word": "மநேகம்", "pronunciation": "man̪eːkam", "meaning": "many (rare)" }
+    ]
+  },
+  {
+    "glyphon": "நை",
+    "interphon": "n̪ai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "நைந்து", "pronunciation": "n̪ai̯n̪t̪u", "meaning": "worn out" },
+      { "word": "தநைத்யம்", "pronunciation": "t̪an̪ai̯t̪jam", "meaning": "courage (rare)" }
+    ]
+  },
+  {
+    "glyphon": "நொ",
+    "interphon": "n̪o",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "நொய்ம்மை", "pronunciation": "n̪oimmai̯", "meaning": "delicacy" },
+      { "word": "கநொசை", "pronunciation": "kan̪osai̯", "meaning": "dream (rare)" }
+    ]
+  },
+  {
+    "glyphon": "நோ",
+    "interphon": "n̪oː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "நோய்", "pronunciation": "n̪oːj", "meaning": "disease" },
+      { "word": "மநோபாவம்", "pronunciation": "man̪oːpaːvam", "meaning": "attitude" }
+    ]
+  },
+  {
+    "glyphon": "நௌ",
+    "interphon": "n̪au̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "நௌகா", "pronunciation": "n̪au̯kaː", "meaning": "boat (Sanskrit)" },
+      { "word": "மநௌகபதி", "pronunciation": "man̪au̯kapat̪i", "meaning": "navy chief (rare)" }
+    ]
+  },
+  {
+    "glyphon": "ப",
+    "interphon": "pa",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "பலம்", "pronunciation": "palam", "meaning": "strength" },
+      { "word": "அபயம்", "pronunciation": "apajam", "meaning": "refuge" }
+    ]
+  },
+  {
+    "glyphon": "பா",
+    "interphon": "paː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "பாடம்", "pronunciation": "paːɖam", "meaning": "lesson" },
+      { "word": "அபார", "pronunciation": "apaːɾa", "meaning": "wonderful" }
+    ]
+  },
+  {
+    "glyphon": "பி",
+    "interphon": "pi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "பிறகு", "pronunciation": "piɾaɣu", "meaning": "later" },
+      { "word": "தபிக்க", "pronunciation": "t̪apikka", "meaning": "to yearn" }
+    ]
+  },
+  {
+    "glyphon": "பீ",
+    "interphon": "piː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "பீடம்", "pronunciation": "piːɖam", "meaning": "pedestal" },
+      { "word": "அபீல்", "pronunciation": "apiːl", "meaning": "appeal" }
+    ]
+  },
+  {
+    "glyphon": "பு",
+    "interphon": "pu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "புலி", "pronunciation": "puli", "meaning": "tiger" },
+      { "word": "அபுரூபம்", "pronunciation": "apuɾuːpam", "meaning": "rare" }
+    ]
+  },
+  {
+    "glyphon": "பூ",
+    "interphon": "puː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "பூமி", "pronunciation": "puːmi", "meaning": "earth" },
+      { "word": "அபூர்வம்", "pronunciation": "apuːɾʋam", "meaning": "unique" }
+    ]
+  },
+  {
+    "glyphon": "பெ",
+    "interphon": "pe",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "பெரிய", "pronunciation": "peɾija", "meaning": "big" },
+      { "word": "அபெரித்தம்", "pronunciation": "apeɾit̪t̪am", "meaning": "misfortune (rare)" }
+    ]
+  },
+  {
+    "glyphon": "பே",
+    "interphon": "peː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "பேச்சு", "pronunciation": "peːt͡ʃt͡ʃu", "meaning": "speech" },
+      { "word": "அபேதம்", "pronunciation": "apeːt̪am", "meaning": "undifferentiated" }
+    ]
+  },
+  {
+    "glyphon": "பை",
+    "interphon": "pai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "பை", "pronunciation": "pai̯", "meaning": "bag" },
+      { "word": "அபையம்", "pronunciation": "apai̯jam", "meaning": "danger (rare)" }
+    ]
+  },
+  {
+    "glyphon": "பொ",
+    "interphon": "po",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "பொன்", "pronunciation": "pon", "meaning": "gold" },
+      { "word": "அபொருள்", "pronunciation": "apoɾuɭ", "meaning": "meaningless thing" }
+    ]
+  },
+  {
+    "glyphon": "போ",
+    "interphon": "poː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "போர்", "pronunciation": "poːr", "meaning": "war" },
+      { "word": "தபோதனம்", "pronunciation": "t̪apoːt̪anam", "meaning": "penance power" }
+    ]
+  },
+  {
+    "glyphon": "பௌ",
+    "interphon": "pau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "பௌர்ணமி", "pronunciation": "pau̯ɾɳami", "meaning": "full moon" },
+      { "word": "அபௌரேயம்", "pronunciation": "apau̯ɾeːjam", "meaning": "unrestrained (rare)" }
+    ]
+  },
+  {
+    "glyphon": "ம",
+    "interphon": "ma",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "மரம்", "pronunciation": "maɾam", "meaning": "tree" },
+      { "word": "அமைதி", "pronunciation": "amai̯t̪i", "meaning": "peace" }
+    ]
+  },
+  {
+    "glyphon": "மா",
+    "interphon": "maː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "மாலை", "pronunciation": "maːlai̯", "meaning": "evening/garland" },
+      { "word": "சமாதானம்", "pronunciation": "samaːt̪aːnam", "meaning": "peace" }
+    ]
+  },
+  {
+    "glyphon": "மி",
+    "interphon": "mi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "மிளகு", "pronunciation": "miɭaɣu", "meaning": "pepper" },
+      { "word": "சமிக்ஞை", "pronunciation": "samikɲai̯", "meaning": "signal" }
+    ]
+  },
+  {
+    "glyphon": "மீ",
+    "interphon": "miː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "மீன்", "pronunciation": "miːn", "meaning": "fish" },
+      { "word": "சமீபம்", "pronunciation": "samiːpam", "meaning": "nearby" }
+    ]
+  },
+  {
+    "glyphon": "மு",
+    "interphon": "mu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "முகம்", "pronunciation": "muɣam", "meaning": "face" },
+      { "word": "அமுதம்", "pronunciation": "amut̪am", "meaning": "nectar" }
+    ]
+  },
+  {
+    "glyphon": "மூ",
+    "interphon": "muː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "மூன்று", "pronunciation": "muːnɾu", "meaning": "three" },
+      { "word": "அமூர்த்தம்", "pronunciation": "amuːɾt̪t̪am", "meaning": "shapeless" }
+    ]
+  },
+  {
+    "glyphon": "மெ",
+    "interphon": "me",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "மெல்ல", "pronunciation": "mella", "meaning": "slowly" },
+      { "word": "அமெரிக்கா", "pronunciation": "ameɾikkaː", "meaning": "America" }
+    ]
+  },
+  {
+    "glyphon": "மே",
+    "interphon": "meː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "மேகம்", "pronunciation": "meːɣam", "meaning": "cloud" },
+      { "word": "நமேது", "pronunciation": "nameːt̪u", "meaning": "ours" }
+    ]
+  },
+  {
+    "glyphon": "மை",
+    "interphon": "mai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "மைதானம்", "pronunciation": "mai̯t̪aːnam", "meaning": "field" },
+      { "word": "கருமை", "pronunciation": "kaɾumai̯", "meaning": "blackness" }
+    ]
+  },
+  {
+    "glyphon": "மொ",
+    "interphon": "mo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "மொழி", "pronunciation": "moɻi", "meaning": "language" },
+      { "word": "சமொதயம்", "pronunciation": "samot̪ajam", "meaning": "creation (rare)" }
+    ]
+  },
+  {
+    "glyphon": "மோ",
+    "interphon": "moː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "மோகம்", "pronunciation": "moːɣam", "meaning": "desire" },
+      { "word": "அமோகம்", "pronunciation": "amoːɣam", "meaning": "extraordinary" }
+    ]
+  },
+  {
+    "glyphon": "மௌ",
+    "interphon": "mau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "மௌனம்", "pronunciation": "mau̯nam", "meaning": "silence" },
+      { "word": "சமௌக்கியம்", "pronunciation": "samau̯kkijam", "meaning": "comfort (rare)" }
+    ]
+  },
+  {
+    "glyphon": "ய",
+    "interphon": "ja",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யமன்", "pronunciation": "jaman", "meaning": "god of death" },
+      { "word": "வியாபாரம்", "pronunciation": "vijaːpaːɾam", "meaning": "business" }
+    ]
+  },
+  {
+    "glyphon": "யா",
+    "interphon": "jaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யாழ்", "pronunciation": "jaːɻ", "meaning": "stringed instrument" },
+      { "word": "கயாத்ரி", "pronunciation": "kajaːt̪ɾi", "meaning": "Gayatri" }
+    ]
+  },
+  {
+    "glyphon": "யி",
+    "interphon": "ji",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யிருக்க", "pronunciation": "jiɾukka", "meaning": "to be (dialect)" },
+      { "word": "வயிறு", "pronunciation": "vajiɾu", "meaning": "stomach" }
+    ]
+  },
+  {
+    "glyphon": "யீ",
+    "interphon": "jiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யீனம்", "pronunciation": "jiːnam", "meaning": "base (rare)" },
+      { "word": "தயீர்", "pronunciation": "t̪ajiːr", "meaning": "yogurt (dialect)" }
+    ]
+  },
+  {
+    "glyphon": "யு",
+    "interphon": "ju",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யுகம்", "pronunciation": "juɣam", "meaning": "era" },
+      { "word": "வயுரம்", "pronunciation": "vajuɾam", "meaning": "beauty (rare)" }
+    ]
+  },
+  {
+    "glyphon": "யூ",
+    "interphon": "juː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யூகம்", "pronunciation": "juːɣam", "meaning": "guess" },
+      { "word": "மயூரம்", "pronunciation": "majuːɾam", "meaning": "peacock" }
+    ]
+  },
+  {
+    "glyphon": "யெ",
+    "interphon": "je",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யெருசலேம்", "pronunciation": "jeɾusaleːm", "meaning": "Jerusalem" },
+      { "word": "வயெல்", "pronunciation": "vajel", "meaning": "field (dialect)" }
+    ]
+  },
+  {
+    "glyphon": "யே",
+    "interphon": "jeː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யேசு", "pronunciation": "jeːsu", "meaning": "Jesus" },
+      { "word": "வயேதன்", "pronunciation": "vajeːt̪an", "meaning": "wise man (rare)" }
+    ]
+  },
+  {
+    "glyphon": "யை",
+    "interphon": "jai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யையன்", "pronunciation": "jai̯jan", "meaning": "lord (archaic)" },
+      { "word": "வயைகம்", "pronunciation": "vai̯ɣam", "meaning": "world (rare)" }
+    ]
+  },
+  {
+    "glyphon": "யொ",
+    "interphon": "jo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யொகம்", "pronunciation": "joɣam", "meaning": "yoga (dialectal)" },
+      { "word": "வயொரசன்", "pronunciation": "vajoɾasan", "meaning": "king (rare)" }
+    ]
+  },
+  {
+    "glyphon": "யோ",
+    "interphon": "joː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யோகம்", "pronunciation": "joːɣam", "meaning": "yoga" },
+      { "word": "வயோதிகம்", "pronunciation": "vajoːt̪iɣam", "meaning": "old age" }
+    ]
+  },
+  {
+    "glyphon": "யௌ",
+    "interphon": "jau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "யௌவனம்", "pronunciation": "jau̯vanam", "meaning": "youth" },
+      { "word": "வயௌகம்", "pronunciation": "vajau̯ɣam", "meaning": "sailing (rare)" }
+    ]
+  },
+  {
+    "glyphon": "ர",
+    "interphon": "ɾa",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ரசம்", "pronunciation": "ɾasam", "meaning": "juice/essence" },
+      { "word": "பரம்", "pronunciation": "paɾam", "meaning": "supreme" }
+    ]
+  },
+  {
+    "glyphon": "ரா",
+    "interphon": "ɾaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ராஜா", "pronunciation": "ɾaːd͡ʒaː", "meaning": "king" },
+      { "word": "பராமரிப்பு", "pronunciation": "paɾaːmaɾippu", "meaning": "maintenance" }
+    ]
+  },
+  {
+    "glyphon": "ரி",
+    "interphon": "ɾi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ரிஷி", "pronunciation": "ɾiʂi", "meaning": "sage" },
+      { "word": "பரிசு", "pronunciation": "paɾisu", "meaning": "gift" }
+    ]
+  },
+  {
+    "glyphon": "ரீ",
+    "interphon": "ɾiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ரீங்காரம்", "pronunciation": "ɾiːŋkaːɾam", "meaning": "buzzing sound" },
+      { "word": "பரீட்சை", "pronunciation": "paɾiːʈsai̯", "meaning": "exam" }
+    ]
+  },
+  {
+    "glyphon": "ரு",
+    "interphon": "ɾu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ருசி", "pronunciation": "ɾusi", "meaning": "taste" },
+      { "word": "குரு", "pronunciation": "kuɾu", "meaning": "teacher" }
+    ]
+  },
+  {
+    "glyphon": "ரூ",
+    "interphon": "ɾuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ரூபாய்", "pronunciation": "ɾuːpaːj", "meaning": "rupee" },
+      { "word": "உரூபம்", "pronunciation": "uɾuːpam", "meaning": "form" }
+    ]
+  },
+  {
+    "glyphon": "ரெ",
+    "interphon": "ɾe",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ரெட்டி", "pronunciation": "ɾeʈʈi", "meaning": "Reddy (surname)" },
+      { "word": "பரெளவு", "pronunciation": "paɾeu̯vu", "meaning": "reaching (dialectal)" }
+    ]
+  },
+  {
+    "glyphon": "ரே",
+    "interphon": "ɾeː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ரேடியோ", "pronunciation": "ɾeːɖijoː", "meaning": "radio" },
+      { "word": "நேரேந்திரன்", "pronunciation": "neːɾeːn̪t̪iɾan", "meaning": "Narendran (name variant)" }
+    ]
+  },
+  {
+    "glyphon": "ரை",
+    "interphon": "ɾai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ரைல்", "pronunciation": "ɾai̯l", "meaning": "rail" },
+      { "word": "அரைத்தல்", "pronunciation": "aɾai̯t̪t̪al", "meaning": "grinding" }
+    ]
+  },
+  {
+    "glyphon": "ரொ",
+    "interphon": "ɾo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ரொம்ப", "pronunciation": "ɾomba", "meaning": "very/much" },
+      { "word": "பரொபகாரி", "pronunciation": "paɾopakaːɾi", "meaning": "benevolent person" }
+    ]
+  },
+  {
+    "glyphon": "ரோ",
+    "interphon": "ɾoː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ரோஜா", "pronunciation": "ɾoːd͡ʒaː", "meaning": "rose" },
+      { "word": "பரோபகாரம்", "pronunciation": "paɾoːpakaːɾam", "meaning": "benevolence" }
+    ]
+  },
+  {
+    "glyphon": "ரௌ",
+    "interphon": "ɾau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ரௌத்திரம்", "pronunciation": "ɾau̯t̪t̪iɾam", "meaning": "ferocity" },
+      { "word": "பரௌனி", "pronunciation": "paɾau̯ni", "meaning": "brownie" }
+    ]
+  },
+  {
+    "glyphon": "ல",
+    "interphon": "la",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "லட்சியம்", "pronunciation": "laʈsijam", "meaning": "goal/ambition" },
+      { "word": "பலம்", "pronunciation": "palam", "meaning": "strength" }
+    ]
+  },
+  {
+    "glyphon": "லா",
+    "interphon": "laː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "லாபம்", "pronunciation": "laːpam", "meaning": "profit" },
+      { "word": "கலாம்", "pronunciation": "kalaːm", "meaning": "Kalam (name)" }
+    ]
+  },
+  {
+    "glyphon": "லி",
+    "interphon": "li",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "லிங்கம்", "pronunciation": "liŋgam", "meaning": "lingam (symbol)" },
+      { "word": "வலிமை", "pronunciation": "valimai̯", "meaning": "strength" }
+    ]
+  },
+  {
+    "glyphon": "லீ",
+    "interphon": "liː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "லீலை", "pronunciation": "liːlai̯", "meaning": "play/sport" },
+      { "word": "சலீம்", "pronunciation": "saliːm", "meaning": "Saleem (name)" }
+    ]
+  },
+  {
+    "glyphon": "லு",
+    "interphon": "lu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "லுங்கி", "pronunciation": "luŋgi", "meaning": "lungi (garment)" },
+      { "word": "தலுக்கு", "pronunciation": "t̪alukku", "meaning": "glamour (colloquial)" }
+    ]
+  },
+  {
+    "glyphon": "லூ",
+    "interphon": "luː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "லூட்டி", "pronunciation": "luːʈʈi", "meaning": "Ooty (place)" },
+      { "word": "தலூகா", "pronunciation": "t̪aluːkaː", "meaning": "taluk (administrative division)" }
+    ]
+  },
+  {
+    "glyphon": "லெ",
+    "interphon": "le",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "லெட்டர்", "pronunciation": "leʈʈar", "meaning": "letter" },
+      { "word": "கலெக்டர்", "pronunciation": "kalekʈar", "meaning": "collector (official)" }
+    ]
+  },
+  {
+    "glyphon": "லே",
+    "interphon": "leː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "லேசான", "pronunciation": "leːsaːna", "meaning": "light/easy" },
+      { "word": "கலேபரம்", "pronunciation": "kaleːpaɾam", "meaning": "dispute" }
+    ]
+  },
+  {
+    "glyphon": "லை",
+    "interphon": "lai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "லைலா", "pronunciation": "lai̯laː", "meaning": "Laila (name)" },
+      { "word": "மலைதேயம்", "pronunciation": "malai̯t̪eːjam", "meaning": "hill country" }
+    ]
+  },
+  {
+    "glyphon": "லொ",
+    "interphon": "lo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "லொட்டு", "pronunciation": "loʈʈu", "meaning": "spot/dot" },
+      { "word": "கலொரி", "pronunciation": "kaloɾi", "meaning": "calorie" }
+    ]
+  },
+  {
+    "glyphon": "லோ",
+    "interphon": "loː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "லோகம்", "pronunciation": "loːɣam", "meaning": "metal/world" },
+      { "word": "வலோபம்", "pronunciation": "valoːpam", "meaning": "greed (Sanskrit)" }
+    ]
+  },
+  {
+    "glyphon": "லௌ",
+    "interphon": "lau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "லௌகிகம்", "pronunciation": "lau̯kiɣam", "meaning": "worldly" },
+      { "word": "அலௌகிகம்", "pronunciation": "alau̯kiɣam", "meaning": "supernatural" }
+    ]
+  },
+  {
+    "glyphon": "வ",
+    "interphon": "ʋa",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "வயல்", "pronunciation": "ʋajal", "meaning": "field" },
+      { "word": "அவன்", "pronunciation": "aʋan", "meaning": "he" }
+    ]
+  },
+  {
+    "glyphon": "வா",
+    "interphon": "ʋaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "வாழ்க்கை", "pronunciation": "ʋaːɻkkai̯", "meaning": "life" },
+      { "word": "கவாத்து", "pronunciation": "kaʋaːt̪t̪u", "meaning": "parade/drill" }
+    ]
+  },
+  {
+    "glyphon": "வி",
+    "interphon": "ʋi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "விளக்கு", "pronunciation": "ʋiɭakku", "meaning": "lamp" },
+      { "word": "கவிதை", "pronunciation": "kaʋit̪ai̯", "meaning": "poem" }
+    ]
+  },
+  {
+    "glyphon": "வீ",
+    "interphon": "ʋiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "வீடு", "pronunciation": "ʋiːɖu", "meaning": "house" },
+      { "word": "தவீர", "pronunciation": "t̪aʋiːɾa", "meaning": "except" }
+    ]
+  },
+  {
+    "glyphon": "வு",
+    "interphon": "ʋu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "வுத்து", "pronunciation": "ʋut̪t̪u", "meaning": "caste mark (dialectal)" },
+      { "word": "பரவுதல்", "pronunciation": "paɾaʋut̪al", "meaning": "spreading" }
+    ]
+  },
+  {
+    "glyphon": "வூ",
+    "interphon": "ʋuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "வூகம்", "pronunciation": "ʋuːɣam", "meaning": "formation (rare)" },
+      { "word": "தவூசு", "pronunciation": "t̪aʋuːsu", "meaning": "thin (dialectal)" }
+    ]
+  },
+  {
+    "glyphon": "வெ",
+    "interphon": "ʋe",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "வெள்ளி", "pronunciation": "ʋeɭɭi", "meaning": "silver/Friday" },
+      { "word": "அவெனியூ", "pronunciation": "aʋenijuː", "meaning": "avenue" }
+    ]
+  },
+  {
+    "glyphon": "வே",
+    "interphon": "ʋeː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "வேகம்", "pronunciation": "ʋeːɣam", "meaning": "speed" },
+      { "word": "தவேசி", "pronunciation": "t̪aʋeːsi", "meaning": "prostitute (derogatory)" }
+    ]
+  },
+  {
+    "glyphon": "வை",
+    "interphon": "ʋai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "வைரம்", "pronunciation": "ʋai̯ɾam", "meaning": "diamond" },
+      { "word": "அவைகள்", "pronunciation": "aʋai̯ɣaɭ", "meaning": "assemblies" }
+    ]
+  },
+  {
+    "glyphon": "வொ",
+    "interphon": "ʋo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "வொற்றார்", "pronunciation": "ʋotraːr", "meaning": "Wothar (place, dialectal)" },
+      { "word": "தவொலி", "pronunciation": "t̪aʋoli", "meaning": "prayer sound (dialectal)" }
+    ]
+  },
+  {
+    "glyphon": "வோ",
+    "interphon": "ʋoː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "வோட்டு", "pronunciation": "ʋoːʈʈu", "meaning": "vote" },
+      { "word": "சிவோஹம்", "pronunciation": "siʋoːham", "meaning": "I am Shiva (philosophy)" }
+    ]
+  },
+  {
+    "glyphon": "வௌ",
+    "interphon": "ʋau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "வௌவால்", "pronunciation": "ʋau̯ʋaːl", "meaning": "bat" },
+      { "word": "அவௌஷதம்", "pronunciation": "aʋau̯ʂat̪am", "meaning": "medicine (dialectal Sanskrit)" }
+    ]
+  },
+  {
+    "glyphon": "ழ",
+    "interphon": "ɻa",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழகரம்", "pronunciation": "ɻaɣaɾam", "meaning": "the letter ழ" },
+      { "word": "தமிழ்", "pronunciation": "t̪amiɻ", "meaning": "Tamil" }
+    ]
+  },
+  {
+    "glyphon": "ழா",
+    "interphon": "ɻaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழாதை", "pronunciation": "ɻaːt̪ai̯", "meaning": "Jatayu (mythological bird, rare)" },
+      { "word": "வழாமுயல்", "pronunciation": "vaɻaːmujal", "meaning": "never failing attempt (literary)" }
+    ]
+  },
+  {
+    "glyphon": "ழி",
+    "interphon": "ɻi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழித்தல்", "pronunciation": "ɻit̪t̪al", "meaning": "scraping (rare)" },
+      { "word": "வழிபாடு", "pronunciation": "vaɻipaːɖu", "meaning": "worship" }
+    ]
+  },
+  {
+    "glyphon": "ழீ",
+    "interphon": "ɻiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழீங்குதல்", "pronunciation": "ɻiːŋgut̪al", "meaning": "to drain (archaic)" },
+      { "word": "விழீம்", "pronunciation": "viɻiːm", "meaning": "festive (rare)" }
+    ]
+  },
+  {
+    "glyphon": "ழு",
+    "interphon": "ɻu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழுதை", "pronunciation": "ɻut̪ai̯", "meaning": "donkey (rare)" },
+      { "word": "கழுத்து", "pronunciation": "kaɻut̪t̪u", "meaning": "neck" }
+    ]
+  },
+  {
+    "glyphon": "ழூ",
+    "interphon": "ɻuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழூடு", "pronunciation": "ɻuːɖu", "meaning": "pushing (archaic)" },
+      { "word": "உழூல்", "pronunciation": "uɻuːl", "meaning": "stirring (literary)" }
+    ]
+  },
+  {
+    "glyphon": "ழெ",
+    "interphon": "ɻe",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழெண்டு", "pronunciation": "ɻeɳɖu", "meaning": "two (dialectal)" },
+      { "word": "எழெனல்", "pronunciation": "eɻenal", "meaning": "to rise (literary)" }
+    ]
+  },
+  {
+    "glyphon": "ழே",
+    "interphon": "ɻeː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழேலம்", "pronunciation": "ɻeːlam", "meaning": "auction (dialectal)" },
+      { "word": "வழேந்து", "pronunciation": "vaɻeːn̪t̪u", "meaning": "worshipping (poetic)" }
+    ]
+  },
+  {
+    "glyphon": "ழை",
+    "interphon": "ɻai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழைதல்", "pronunciation": "ɻai̯t̪al", "meaning": "entering (literary)" },
+      { "word": "உழைப்பு", "pronunciation": "uɻai̯ppu", "meaning": "hard work" }
+    ]
+  },
+  {
+    "glyphon": "ழொ",
+    "interphon": "ɻo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழொட்டு", "pronunciation": "ɻoʈʈu", "meaning": "sticking (dialectal)" },
+      { "word": "மழொலி", "pronunciation": "maɻoli", "meaning": "rain sound (poetic)" }
+    ]
+  },
+  {
+    "glyphon": "ழோ",
+    "interphon": "ɻoː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழோரை", "pronunciation": "ɻoːɾai̯", "meaning": "slowness (dialectal)" },
+      { "word": "எழோந்து", "pronunciation": "eɻoːn̪t̪u", "meaning": "rising up (poetic)" }
+    ]
+  },
+  {
+    "glyphon": "ழௌ",
+    "interphon": "ɻau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ழௌகம்", "pronunciation": "ɻau̯ɣam", "meaning": "light (archaic)" },
+      { "word": "சிழௌதி", "pronunciation": "siɻau̯t̪i", "meaning": "young woman (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ள",
+    "interphon": "ɭa",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளகரம்", "pronunciation": "ɭaɣaɾam", "meaning": "the letter ள" },
+      { "word": "களம்", "pronunciation": "kaɭam", "meaning": "field/arena" }
+    ]
+  },
+  {
+    "glyphon": "ளா",
+    "interphon": "ɭaː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளாகவம்", "pronunciation": "ɭaːɣaʋam", "meaning": "lightness (rare)" },
+      { "word": "கிளாசு", "pronunciation": "kiɭaːsu", "meaning": "class (colloquial)" }
+    ]
+  },
+  {
+    "glyphon": "ளி",
+    "interphon": "ɭi",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளிகை", "pronunciation": "ɭiɣai̯", "meaning": "dance step (archaic)" },
+      { "word": "வெளி", "pronunciation": "veɭi", "meaning": "outside" }
+    ]
+  },
+  {
+    "glyphon": "ளீ",
+    "interphon": "ɭiː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளீலை", "pronunciation": "ɭiːlai̯", "meaning": "play (uncommon form)" },
+      { "word": "மளீயம்", "pronunciation": "maɭiːjam", "meaning": "temple (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ளு",
+    "interphon": "ɭu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளுவை", "pronunciation": "ɭuʋai̯", "meaning": "that which is small (archaic)" },
+      { "word": "முளুக்கு", "pronunciation": "muɭukku", "meaning": "to dive (dialectal)" }
+    ]
+  },
+  {
+    "glyphon": "ளூ",
+    "interphon": "ɭuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளூசல்", "pronunciation": "ɭuːsal", "meaning": "dance (rare)" },
+      { "word": "மளூகம்", "pronunciation": "maɭuːɣam", "meaning": "temple inner chamber (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ளெ",
+    "interphon": "ɭe",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளெட்டு", "pronunciation": "ɭeʈʈu", "meaning": "eight (dialectal)" },
+      { "word": "களெபரம்", "pronunciation": "kaɭepaɾam", "meaning": "body (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ளே",
+    "interphon": "ɭeː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளேறு", "pronunciation": "ɭeːru", "meaning": "young bull (archaic)" },
+      { "word": "களேபரம்", "pronunciation": "kaɭeːpaɾam", "meaning": "corpus" }
+    ]
+  },
+  {
+    "glyphon": "ளை",
+    "interphon": "ɭai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளைக்கல்", "pronunciation": "ɭai̯kkal", "meaning": "to exhaust (archaic)" },
+      { "word": "களைகட்டுதல்", "pronunciation": "kaɭai̯kaʈʈut̪al", "meaning": "to energize" }
+    ]
+  },
+  {
+    "glyphon": "ளொ",
+    "interphon": "ɭo",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளொட்டு", "pronunciation": "ɭoʈʈu", "meaning": "spot (archaic)" },
+      { "word": "களொலி", "pronunciation": "kaɭoli", "meaning": "battlefield sound (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ளோ",
+    "interphon": "ɭoː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளோகம்", "pronunciation": "ɭoːɣam", "meaning": "world (archaic)" },
+      { "word": "களோச்சியம்", "pronunciation": "kaɭoːt͡ʃt͡ʃijam", "meaning": "happiness (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ளௌ",
+    "interphon": "ɭau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "ளௌவியம்", "pronunciation": "ɭau̯vijam", "meaning": "youth (archaic)" },
+      { "word": "களௌடம்", "pronunciation": "kaɭau̯ɖam", "meaning": "craftsmanship (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ற",
+    "interphon": "ra",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றவம்", "pronunciation": "ravam", "meaning": "noise (archaic)" },
+      { "word": "மறம்", "pronunciation": "maram", "meaning": "bravery" }
+    ]
+  },
+  {
+    "glyphon": "றா",
+    "interphon": "raː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றால்", "pronunciation": "raːl", "meaning": "prawn (colloquial)" },
+      { "word": "மறாமத்து", "pronunciation": "maraːmat̪t̪u", "meaning": "repair" }
+    ]
+  },
+  {
+    "glyphon": "றி",
+    "interphon": "ri",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றிஞ்சுதல்", "pronunciation": "riɲt͡ʃut̪al", "meaning": "to exceed (colloquial)" },
+      { "word": "குறிப்பு", "pronunciation": "kurippu", "meaning": "note/hint" }
+    ]
+  },
+  {
+    "glyphon": "றீ",
+    "interphon": "riː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றீங்காரம்", "pronunciation": "riːŋkaːɾam", "meaning": "buzz (rare)" },
+      { "word": "பெறீஇய", "pronunciation": "periːija", "meaning": "obtained (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "று",
+    "interphon": "ru",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "றுக்கு", "pronunciation": "rukku", "meaning": "small piece (colloquial)" },
+      { "word": "சிறு", "pronunciation": "siru", "meaning": "small" }
+    ]
+  },
+  {
+    "glyphon": "றூ",
+    "interphon": "ruː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றூமம்", "pronunciation": "ruːmam", "meaning": "Rome (archaic)" },
+      { "word": "புறூரம்", "pronunciation": "puruːɾam", "meaning": "exterior (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "றெ",
+    "interphon": "re",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றெடி", "pronunciation": "reɖi", "meaning": "ready (colloquial)" },
+      { "word": "பெறெறவே", "pronunciation": "pereraveː", "meaning": "to obtain (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "றே",
+    "interphon": "reː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றேடியோ", "pronunciation": "reːɖijoː", "meaning": "radio (colloquial)" },
+      { "word": "கிறேசியம்", "pronunciation": "kireːsijam", "meaning": "grace (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "றை",
+    "interphon": "rai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றைல்", "pronunciation": "rai̯l", "meaning": "rail (colloquial)" },
+      { "word": "பிறைநுதல்", "pronunciation": "pirai̯nut̪al", "meaning": "crescent-forehead" }
+    ]
+  },
+  {
+    "glyphon": "றொ",
+    "interphon": "ro",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றொம்ப", "pronunciation": "romba", "meaning": "very much (colloquial)" },
+      { "word": "கறொல்", "pronunciation": "karol", "meaning": "to call out (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "றோ",
+    "interphon": "roː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றோடு", "pronunciation": "roːɖu", "meaning": "road (colloquial)" },
+      { "word": "முறோடு", "pronunciation": "muroːɖu", "meaning": "break (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "றௌ",
+    "interphon": "rau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "றௌதி", "pronunciation": "rau̯t̪i", "meaning": "ruffian (dialectal)" },
+      { "word": "முறௌசு", "pronunciation": "murau̯su", "meaning": "loud cry (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "ன",
+    "interphon": "na",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னம்", "pronunciation": "nam", "meaning": "good (archaic)" },
+      { "word": "இனம்", "pronunciation": "inam", "meaning": "kind/group" }
+    ]
+  },
+  {
+    "glyphon": "னா",
+    "interphon": "naː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னாங்கள்", "pronunciation": "naːŋkaɭ", "meaning": "we (colloquial)" },
+      { "word": "கனாகரம்", "pronunciation": "kanaːkaɾam", "meaning": "dream house" }
+    ]
+  },
+  {
+    "glyphon": "னி",
+    "interphon": "ni",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னிதம்", "pronunciation": "nit̪am", "meaning": "daily (archaic)" },
+      { "word": "தனிமை", "pronunciation": "tanimai̯", "meaning": "loneliness" }
+    ]
+  },
+  {
+    "glyphon": "னீ",
+    "interphon": "niː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னீளம்", "pronunciation": "niːɭam", "meaning": "length (dialectal)" },
+      { "word": "மனீதன்", "pronunciation": "maniːt̪an", "meaning": "man (dialectal)" }
+    ]
+  },
+  {
+    "glyphon": "னு",
+    "interphon": "nu",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னுகம்", "pronunciation": "nuɣam", "meaning": "yoke (archaic)" },
+      { "word": "கனுவாய்", "pronunciation": "kanuʋaːj", "meaning": "mouth of a well (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "னூ",
+    "interphon": "nuː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னூபுரம்", "pronunciation": "nuːpuɾam", "meaning": "anklet (archaic)" },
+      { "word": "கனூல்", "pronunciation": "kanuːl", "meaning": "dream book (rare)" }
+    ]
+  },
+  {
+    "glyphon": "னெ",
+    "interphon": "ne",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னெடுகல்", "pronunciation": "neɖuɣal", "meaning": "hero stone (archaic)" },
+      { "word": "கனெவு", "pronunciation": "kaneʋu", "meaning": "dream (dialectal)" }
+    ]
+  },
+  {
+    "glyphon": "னே",
+    "interphon": "neː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னேசம்", "pronunciation": "neːsam", "meaning": "love (archaic)" },
+      { "word": "மனேரம்", "pronunciation": "maneːɾam", "meaning": "pleasant time (archaic)" }
+    ]
+  },
+  {
+    "glyphon": "னை",
+    "interphon": "nai̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னைதல்", "pronunciation": "nai̯t̪al", "meaning": "to be wet (archaic)" },
+      { "word": "கனைத்தல்", "pronunciation": "kanai̯t̪t̪al", "meaning": "roaring" }
+    ]
+  },
+  {
+    "glyphon": "னொ",
+    "interphon": "no",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னொடிகை", "pronunciation": "noɖiɣai̯", "meaning": "moment (archaic)" },
+      { "word": "கனொலி", "pronunciation": "kanoli", "meaning": "pleasant sound (dialectal)" }
+    ]
+  },
+  {
+    "glyphon": "னோ",
+    "interphon": "noː",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னோவு", "pronunciation": "noːʋu", "meaning": "pain (dialectal)" },
+      { "word": "கனோபவம்", "pronunciation": "kanoːpavam", "meaning": "dream experience (rare)" }
+    ]
+  },
+  {
+    "glyphon": "னௌ",
+    "interphon": "nau̯",
+    "orthoset": "tami1289-modern",
+    "context": ["initial", "medial"],
+    "examples": [
+      { "word": "னௌகை", "pronunciation": "nau̯ɣai̯", "meaning": "ship (archaic)" },
+      { "word": "கனௌசு", "pronunciation": "kanau̯su", "meaning": "dream (dialectal)" }
+    ]
+  }
+]
