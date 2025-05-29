@@ -10,6 +10,16 @@
     ]
   },
   {
+    "glyphon": "ء",
+    "interphon": "ʔ",
+    "orthoset": "stan1318-msa",
+    "context": ["medial", "final", "standalone"],
+    "examples": [
+      { "word": "ماء", "pronunciation": "maːʔ", "meaning": "water" },
+      { "word": "جزء", "pronunciation": "ʒuzʔ", "meaning": "part" }
+    ]
+  },
+  {
     "glyphon": "ب",
     "interphon": "b",
     "orthoset": "stan1318-msa",
@@ -121,6 +131,15 @@
     ]
   },
   {
+    "glyphon": "ش",
+    "interphon": "ʧ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "شارع", "pronunciation": "ʧaːriʕ", "meaning": "street (dialectal)" }
+    ]
+  },
+  {
     "glyphon": "ص",
     "interphon": "sˁ",
     "orthoset": "stan1318-msa",
@@ -154,6 +173,15 @@
     "context": ["initial", "medial", "final"],
     "examples": [
       { "word": "ظلام", "pronunciation": "ðˁalaːm", "meaning": "darkness" }
+    ]
+  },
+  {
+    "glyphon": "ظ",
+    "interphon": "zˁ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ظهر", "pronunciation": "zˁuhr", "meaning": "noon (alternative pronunciation)" }
     ]
   },
   {
@@ -401,6 +429,24 @@
     ]
   },
   {
+    "glyphon": "8",
+    "interphon": "ɣ",
+    "orthoset": "stan1318-chat",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "8azal", "pronunciation": "ɣazaːl", "meaning": "gazelle (chat spelling)" }
+    ]
+  },
+  {
+    "glyphon": "4",
+    "interphon": "θ",
+    "orthoset": "stan1318-chat",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "4alj", "pronunciation": "θalʒ", "meaning": "snow (chat spelling)" }
+    ]
+  },
+  {
     "glyphon": "ḥ",
     "interphon": "ħ",
     "orthoset": "stan1318-ungegn",
@@ -491,12 +537,39 @@
     ]
   },
   {
+    "glyphon": "ẓ",
+    "interphon": "zˁ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ẓuhr", "pronunciation": "zˁuhr", "meaning": "noon (UN Romanization alternative)" }
+    ]
+  },
+  {
     "glyphon": "ġ",
     "interphon": "ɣ",
     "orthoset": "stan1318-ungegn",
     "context": ["initial", "medial", "final"],
     "examples": [
       { "word": "ġazāl", "pronunciation": "ɣazaːl", "meaning": "gazelle (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "q",
+    "interphon": "q",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "qamar", "pronunciation": "qamar", "meaning": "moon (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "ğ",
+    "interphon": "ʒ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ğamal", "pronunciation": "ʒamal", "meaning": "camel (UN Romanization)" }
     ]
   }
 ]
