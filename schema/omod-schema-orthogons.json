@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OMOD Orthogons",
+  "description": "Orthographic-phonetic mappings for a languoid",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "glyphon": { 
+        "type": "string",
+        "description": "The written form/character(s)",
+        "minLength": 1
+      },
+      "interphon": { 
+        "type": "string",
+        "description": "IPA phonetic representation",
+        "pattern": "^[\\/\\[].+[\\/\\]]$|^.+$"
+      },
+      "orthoset": {
+        "type": "string",
+        "description": "ID of the orthographic set this mapping belongs to",
+        "pattern": "^[a-z]{3,4}-[a-z0-9-]+$"
+      },
+      "context": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "enum": ["initial", "medial", "final", "standalone", "allophonic", "neutral"]
+        },
+        "minItems": 1,
+        "uniqueItems": true,
+        "description": "Positions where this mapping applies"
+      },
+      "examples": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "word": { 
+              "type": "string",
+              "description": "Example word containing the glyphon"
+            },
+            "pronunciation": { 
+              "type": "string",
+              "description": "IPA pronunciation of the full word"
+            },
+            "meaning": { 
+              "type": "string",
+              "description": "English translation or explanation"
+            },
+            "context": {
+              "type": "string",
+              "description": "Optional: specific context for this example"
+            }
+          },
+          "required": ["word", "pronunciation"],
+          "additionalProperties": false
+        },
+        "minItems": 0,
+        "description": "Example words demonstrating the mapping"
+      },
+      "notes": {
+        "type": "string",
+        "description": "Optional linguistic notes about this mapping"
+      }
+    },
+    "required": ["glyphon", "interphon", "orthoset", "context"],
+    "additionalProperties": false
+  },
+  "minItems": 1
+}
