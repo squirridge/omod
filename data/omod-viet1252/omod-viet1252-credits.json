@@ -49,7 +49,7 @@
       "notes": "Original fieldwork and documentation of Southern Vietnamese pronunciation patterns"
     }
   ],
-  "license": "CC BY-SA 4.0",
+  "license": "MIT License",
   "version": "1.0.0",
   "notes": "This dataset represents the Saigon (Southern Vietnamese) dialect specifically. Pronunciation patterns may differ significantly from Northern (Hanoi) and Central (Huế) dialects. Data excludes English loanwords and focuses on traditional Vietnamese vocabulary. Future versions may include additional dialectal variants and expanded contextual information."
 }
