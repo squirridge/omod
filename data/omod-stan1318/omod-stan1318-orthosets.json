@@ -1,0 +1,74 @@
+[
+  {
+    "id": "stan1318-msa",
+    "name": "Modern Standard Arabic",
+    "script": "Arabic",
+    "direction": "rtl",
+    "status": "current",
+    "period": {
+      "from": 1800,
+      "to": null
+    },
+    "region": "Middle East and North Africa",
+    "description": "The contemporary standard form of Arabic script used in formal writing, education, media, and official documents across the Arab world. Based on Classical Arabic script but adapted for modern usage with standardized orthographic conventions."
+  },
+  {
+    "id": "stan1318-classical",
+    "name": "Classical Arabic Script",
+    "script": "Arabic",
+    "direction": "rtl",
+    "status": "historical",
+    "period": {
+      "from": 600,
+      "to": 1800
+    },
+    "region": "Middle East and North Africa",
+    "description": "The traditional Arabic script as used in classical Islamic texts, poetry, and literature. Features more conservative orthographic practices and may include archaic letter forms and spelling conventions."
+  },
+  {
+    "id": "stan1318-maghrebi",
+    "name": "Maghrebi Script Variant",
+    "script": "Arabic",
+    "direction": "rtl",
+    "status": "regional",
+    "period": {
+      "from": 1000,
+      "to": null
+    },
+    "region": "North Africa (Morocco, Algeria, Tunisia, Libya)",
+    "description": "Regional variant of Arabic script used in North African countries, featuring distinctive letter forms and calligraphic traditions that differ from Middle Eastern Arabic script conventions.",
+    "parent": "stan1318-classical"
+  },
+  {
+    "id": "stan1318-chat",
+    "name": "Arabic Chat Alphabet",
+    "script": "Latin",
+    "direction": "ltr",
+    "status": "informal",
+    "period": {
+      "from": 1990,
+      "to": null
+    },
+    "region": "Global (Arabic diaspora and digital communities)",
+    "description": "Informal romanization system using Latin letters and numerals to represent Arabic sounds in digital communication. Numbers like 7, 3, 2, 5, 9, 6 substitute for Arabic letters without Latin equivalents. Widely used in SMS, social media, and online chat."
+  },
+  {
+    "id": "stan1318-ungegn",
+    "name": "UN Romanization System",
+    "script": "Latin",
+    "direction": "ltr",
+    "status": "standardized",
+    "period": {
+      "from": 1972,
+      "to": null
+    },
+    "region": "International (academic and cartographic use)",
+    "description": "Official romanization system for Arabic established by the United Nations Group of Experts on Geographical Names (UNGEGN). Uses diacritical marks to represent Arabic sounds precisely and is employed in international geographic names, academic transcription, and official documentation.",
+    "source": {
+      "title": "Arabic Romanization System",
+      "author": "United Nations Group of Experts on Geographical Names",
+      "year": 1972,
+      "url": "https://unstats.un.org/unsd/geoinfo/UNGEGN/"
+    }
+  }
+]
