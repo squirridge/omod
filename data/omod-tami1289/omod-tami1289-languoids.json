@@ -1,14 +1,24 @@
 [
-    {
-        "glottocode": "tami1289",
-        "name": "Tamil",
-        "endonym": "தமிழ்",
-        "iso639_3": "tam",
-        "family": "Dravidian",
-        "region": "South Asia",
-        "population": 75000000,
-        "status": "Not endangered",
-        "description": "Tamil is a Dravidian language natively spoken by the Tamil people of South Asia.",
-        "endoscription": "[TBA]"
-    }
+  {
+    "glottocode": "tami1289",
+    "name": "Tamil",
+    "endonym": "தமிழ்",
+    "iso639_3": "tam",
+    "family": "Dravidian",
+    "region": "South Asia",
+    "countries": [
+      "India",
+      "Sri Lanka",
+      "Singapore",
+      "Malaysia",
+      "Mauritius",
+      "Canada"
+    ],
+    "population": 75000000,
+    "status": "Not endangered",
+    "writing_systems": [
+      "Tamil"
+    ],
+    "description": "Tamil is a Dravidian language natively spoken by the Tamil people of South Asia. Tamil is an official language of the Indian state of Tamil Nadu, the sovereign nations of Sri Lanka and Singapore, and the Indian territory of Puducherry. It is also spoken by significant minorities in Malaysia, Mauritius, and other countries. Tamil is one of the longest-surviving classical languages in the world with a literary tradition spanning over 2,000 years."
+  }
 ]
