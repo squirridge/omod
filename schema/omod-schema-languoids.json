@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OMOD Languoids",
+  "description": "Language metadata following Glottolog standards",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "glottocode": {
+        "type": "string",
+        "pattern": "^[a-z]{4}[0-9]{4}$",
+        "description": "Official Glottolog identifier"
+      },
+      "name": {
+        "type": "string",
+        "description": "English name of the language"
+      },
+      "endonym": {
+        "type": "string",
+        "description": "Native name in the language's script"
+      },
+      "iso639_3": {
+        "type": "string",
+        "pattern": "^[a-z]{3}$",
+        "description": "ISO 639-3 three-letter code"
+      },
+      "family": {
+        "type": "string",
+        "description": "Top-level language family"
+      },
+      "subfamily": {
+        "type": "string",
+        "description": "Immediate subfamily or branch"
+      },
+      "region": {
+        "type": "string",
+        "description": "Primary geographic region"
+      },
+      "countries": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Countries where officially recognized or widely spoken"
+      },
+      "population": {
+        "type": "integer",
+        "minimum": 0,
+        "description": "Approximate number of speakers"
+      },
+      "status": {
+        "type": "string",
+        "enum": ["Not endangered", "Vulnerable", "Endangered", "Critically endangered", "Extinct"],
+        "description": "Language vitality status"
+      },
+      "writing_systems": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Scripts used to write this language"
+      },
+      "description": {
+        "type": "string",
+        "description": "Brief description of the language"
+      }
+    },
+    "required": ["glottocode", "name", "iso639_3", "family", "region", "description"],
+    "additionalProperties": false
+  },
+  "minItems": 1
+}
