@@ -1,1 +1,502 @@
-
+[
+  {
+    "glyphon": "أ",
+    "interphon": "ʔ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      { "word": "أمل", "pronunciation": "ʔamal", "meaning": "hope" },
+      { "word": "قرأت", "pronunciation": "qaraʔt", "meaning": "I read" }
+    ]
+  },
+  {
+    "glyphon": "ب",
+    "interphon": "b",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "باب", "pronunciation": "baːb", "meaning": "door" },
+      { "word": "حبيب", "pronunciation": "ħabiːb", "meaning": "beloved" }
+    ]
+  },
+  {
+    "glyphon": "ت",
+    "interphon": "t",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "تفاح", "pronunciation": "tuffaːħ", "meaning": "apple" },
+      { "word": "بيت", "pronunciation": "beːt", "meaning": "house" }
+    ]
+  },
+  {
+    "glyphon": "ث",
+    "interphon": "θ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ثلج", "pronunciation": "θalʒ", "meaning": "snow" }
+    ]
+  },
+  {
+    "glyphon": "ج",
+    "interphon": "ʒ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "جمل", "pronunciation": "ʒamal", "meaning": "camel" }
+    ]
+  },
+  {
+    "glyphon": "ح",
+    "interphon": "ħ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "حبيب", "pronunciation": "ħabiːb", "meaning": "beloved" }
+    ]
+  },
+  {
+    "glyphon": "خ",
+    "interphon": "x",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "خبز", "pronunciation": "xubz", "meaning": "bread" }
+    ]
+  },
+  {
+    "glyphon": "د",
+    "interphon": "d",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "دار", "pronunciation": "daːr", "meaning": "house" }
+    ]
+  },
+  {
+    "glyphon": "ذ",
+    "interphon": "ð",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ذهب", "pronunciation": "ðahab", "meaning": "gold" }
+    ]
+  },
+  {
+    "glyphon": "ر",
+    "interphon": "r",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "رمل", "pronunciation": "raml", "meaning": "sand" }
+    ]
+  },
+  {
+    "glyphon": "ز",
+    "interphon": "z",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "زمن", "pronunciation": "zaman", "meaning": "time" }
+    ]
+  },
+  {
+    "glyphon": "س",
+    "interphon": "s",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "سلام", "pronunciation": "salaːm", "meaning": "peace" }
+    ]
+  },
+  {
+    "glyphon": "ش",
+    "interphon": "ʃ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "شمس", "pronunciation": "ʃams", "meaning": "sun" },
+      { "word": "مشرق", "pronunciation": "maʃriq", "meaning": "east" }
+    ]
+  },
+  {
+    "glyphon": "ص",
+    "interphon": "sˁ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "صباح", "pronunciation": "sˁabaːħ", "meaning": "morning" }
+    ]
+  },
+  {
+    "glyphon": "ط",
+    "interphon": "tˁ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "طعام", "pronunciation": "tˁaʕaːm", "meaning": "food" }
+    ]
+  },
+  {
+    "glyphon": "ض",
+    "interphon": "dˁ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ضوء", "pronunciation": "dˁawʔ", "meaning": "light" }
+    ]
+  },
+  {
+    "glyphon": "ظ",
+    "interphon": "ðˁ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ظلام", "pronunciation": "ðˁalaːm", "meaning": "darkness" }
+    ]
+  },
+  {
+    "glyphon": "ع",
+    "interphon": "ʕ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "علم", "pronunciation": "ʕilm", "meaning": "knowledge" }
+    ]
+  },
+  {
+    "glyphon": "غ",
+    "interphon": "ɣ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "غزال", "pronunciation": "ɣazaːl", "meaning": "gazelle" },
+      { "word": "مغلق", "pronunciation": "muɣlaq", "meaning": "closed" }
+    ]
+  },
+  {
+    "glyphon": "ف",
+    "interphon": "f",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "فيل", "pronunciation": "fiːl", "meaning": "elephant" }
+    ]
+  },
+  {
+    "glyphon": "ق",
+    "interphon": "q",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "قمر", "pronunciation": "qamar", "meaning": "moon" }
+    ]
+  },
+  {
+    "glyphon": "ك",
+    "interphon": "k",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "كتاب", "pronunciation": "kitaːb", "meaning": "book" }
+    ]
+  },
+  {
+    "glyphon": "گ",
+    "interphon": "ɡ",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "گاز", "pronunciation": "ɡaːz", "meaning": "gas" }
+    ]
+  },
+  {
+    "glyphon": "ل",
+    "interphon": "l",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ليل", "pronunciation": "leːl", "meaning": "night" }
+    ]
+  },
+  {
+    "glyphon": "م",
+    "interphon": "m",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ماء", "pronunciation": "maːʔ", "meaning": "water" }
+    ]
+  },
+  {
+    "glyphon": "ن",
+    "interphon": "n",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "نور", "pronunciation": "nuːr", "meaning": "light" }
+    ]
+  },
+  {
+    "glyphon": "ه",
+    "interphon": "h",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "هواء", "pronunciation": "hawaːʔ", "meaning": "air" }
+    ]
+  },
+  {
+    "glyphon": "و",
+    "interphon": "w",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ورد", "pronunciation": "ward", "meaning": "rose" }
+    ]
+  },
+  {
+    "glyphon": "ي",
+    "interphon": "j",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "يد", "pronunciation": "jad", "meaning": "hand" }
+    ]
+  },
+  {
+    "glyphon": "ڤ",
+    "interphon": "v",
+    "orthoset": "stan1318-msa",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ڤيديو", "pronunciation": "viːdio", "meaning": "video" }
+    ]
+  },
+  {
+    "glyphon": "ا",
+    "interphon": "aː",
+    "orthoset": "stan1318-msa",
+    "context": ["medial", "final"],
+    "examples": [
+      { "word": "باب", "pronunciation": "baːb", "meaning": "door" }
+    ]
+  },
+  {
+    "glyphon": "ي",
+    "interphon": "iː",
+    "orthoset": "stan1318-msa",
+    "context": ["final"],
+    "examples": [
+      { "word": "حبيبي", "pronunciation": "ħabiːbiː", "meaning": "my beloved" }
+    ]
+  },
+  {
+    "glyphon": "ي",
+    "interphon": "eː",
+    "orthoset": "stan1318-msa",
+    "context": ["final"],
+    "examples": [
+      { "word": "ليلة", "pronunciation": "leːla", "meaning": "night" }
+    ]
+  },
+  {
+    "glyphon": "و",
+    "interphon": "uː",
+    "orthoset": "stan1318-msa",
+    "context": ["final"],
+    "examples": [
+      { "word": "نور", "pronunciation": "nuːr", "meaning": "light" }
+    ]
+  },
+  {
+    "glyphon": "و",
+    "interphon": "oː",
+    "orthoset": "stan1318-msa",
+    "context": ["medial"],
+    "examples": [
+      { "word": "موز", "pronunciation": "moːz", "meaning": "banana" }
+    ]
+  },
+  {
+    "glyphon": "َ",
+    "interphon": "a",
+    "orthoset": "stan1318-msa",
+    "context": ["medial"],
+    "examples": [
+      { "word": "كَتَب", "pronunciation": "katab", "meaning": "he wrote" }
+    ]
+  },
+  {
+    "glyphon": "ِ",
+    "interphon": "i",
+    "orthoset": "stan1318-msa",
+    "context": ["medial"],
+    "examples": [
+      { "word": "كِتاب", "pronunciation": "kitaːb", "meaning": "book" }
+    ]
+  },
+  {
+    "glyphon": "ُ",
+    "interphon": "u",
+    "orthoset": "stan1318-msa",
+    "context": ["medial"],
+    "examples": [
+      { "word": "كُتُب", "pronunciation": "kutub", "meaning": "books" }
+    ]
+  },
+  {
+    "glyphon": "7",
+    "interphon": "ħ",
+    "orthoset": "stan1318-chat",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "7abibi", "pronunciation": "ħabiːbi", "meaning": "my dear (chat spelling)" }
+    ]
+  },
+  {
+    "glyphon": "3",
+    "interphon": "ʕ",
+    "orthoset": "stan1318-chat",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "3arab", "pronunciation": "ʕarab", "meaning": "Arabs (chat spelling)" }
+    ]
+  },
+  {
+    "glyphon": "2",
+    "interphon": "ʔ",
+    "orthoset": "stan1318-chat",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "2amal", "pronunciation": "ʔamal", "meaning": "hope (chat spelling)" }
+    ]
+  },
+  {
+    "glyphon": "5",
+    "interphon": "x",
+    "orthoset": "stan1318-chat",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "5ubz", "pronunciation": "xubz", "meaning": "bread (chat spelling)" }
+    ]
+  },
+  {
+    "glyphon": "9",
+    "interphon": "q",
+    "orthoset": "stan1318-chat",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "9amar", "pronunciation": "qamar", "meaning": "moon (chat spelling)" }
+    ]
+  },
+  {
+    "glyphon": "6",
+    "interphon": "tˁ",
+    "orthoset": "stan1318-chat",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "6a3am", "pronunciation": "tˁaʕaːm", "meaning": "food (chat spelling)" }
+    ]
+  },
+  {
+    "glyphon": "ḥ",
+    "interphon": "ħ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ḥabīb", "pronunciation": "ħabiːb", "meaning": "beloved (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "ʿ",
+    "interphon": "ʕ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ʿarabī", "pronunciation": "ʕarabiː", "meaning": "Arabic (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "ḫ",
+    "interphon": "x",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ḫubz", "pronunciation": "xubz", "meaning": "bread (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "ṯ",
+    "interphon": "θ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ṯalağ", "pronunciation": "θalʒ", "meaning": "snow (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "ḏ",
+    "interphon": "ð",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ḏahab", "pronunciation": "ðahab", "meaning": "gold (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "š",
+    "interphon": "ʃ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "šams", "pronunciation": "ʃams", "meaning": "sun (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "ṣ",
+    "interphon": "sˁ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ṣabāḥ", "pronunciation": "sˁabaːħ", "meaning": "morning (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "ṭ",
+    "interphon": "tˁ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ṭaʿām", "pronunciation": "tˁaʕaːm", "meaning": "food (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "ḍ",
+    "interphon": "dˁ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ḍaw'", "pronunciation": "dˁawʔ", "meaning": "light (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "ẓ",
+    "interphon": "ðˁ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ẓalām", "pronunciation": "ðˁalaːm", "meaning": "darkness (UN Romanization)" }
+    ]
+  },
+  {
+    "glyphon": "ġ",
+    "interphon": "ɣ",
+    "orthoset": "stan1318-ungegn",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      { "word": "ġazāl", "pronunciation": "ɣazaːl", "meaning": "gazelle (UN Romanization)" }
+    ]
+  }
+]
