@@ -18,6 +18,15 @@
           "format": "email",
           "description": "Contact email (optional)"
         },
+        "github": { 
+          "type": "string",
+          "description": "GitHub username (optional)"
+        },
+        "website": { 
+          "type": "string",
+          "format": "uri",
+          "description": "Personal or professional website (optional)"
+        },
         "role": { "type": "string" },
         "contribution": { "type": "string" },
         "date": { 
@@ -35,6 +44,8 @@
         "properties": {
           "name": { "type": "string" },
           "orcid": { "type": "string" },
+          "github": { "type": "string" },
+          "website": { "type": "string", "format": "uri" },
           "role": { "type": "string" },
           "contribution": { "type": "string" },
           "date": { "type": "string" }
