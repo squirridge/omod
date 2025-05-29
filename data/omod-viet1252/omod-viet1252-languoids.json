@@ -1,16 +1,21 @@
 [
   {
-    "glottocode": "viet1252",
-    "name": "Vietnamese",
-    "endonym": "Tiếng Việt",
-    "iso639_3": "vie",
-    "family": "Austroasiatic",
-    "subfamily": "Vietic",
-    "region": "Southeast Asia",
-    "countries": ["Vietnam", "Cambodia", "Laos", "Thailand", "United States", "Australia"],
-    "population": 100400000,
-    "status": "Not endangered",
-    "writing_systems": ["Latin"],
-    "description": "Vietnamese is the official language of Vietnam and is spoken by over 100 million people worldwide. It uses a Latin-based alphabet called Quốc ngữ with extensive tone marking diacritics to represent the language's six lexical tones."
+    "id": "viet1252-quocngu",
+    "name": "Vietnamese Quốc Ngữ (Saigon dialect)",
+    "script": "Latin",
+    "direction": "ltr",
+    "status": "current",
+    "period": {
+      "from": 1910,
+      "to": null
+    },
+    "region": "Southern Vietnam (Ho Chi Minh City region)",
+    "description": "Latin-based Vietnamese orthography with tone diacritics, representing the Saigon (Southern Vietnamese) dialect pronunciation. This variety is characterized by specific phonetic realizations that may differ from Northern (Hanoi) and Central Vietnamese dialects.",
+    "source": {
+      "title": "Vietnamese Phonology and Orthography: Southern Dialect",
+      "author": "Various linguistic sources",
+      "year": 2025,
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_alphabet"
+    }
   }
 ]
