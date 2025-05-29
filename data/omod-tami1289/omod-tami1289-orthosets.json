@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tami1289-modern",
+    "orthoset": "Modern Tamil",
+    "endonym": "",
+    "script": "Tamil",
+    "direction": "ltr",
+    "description": "Contemporary Tamil script used in Tamil Nadu, India"
+  },
+  {
+    "id": "sril1244-srilankan",
+    "orthoset": "Sri Lankan Tamil",
+    "endonym": "",
+    "script": "Tamil",
+    "direction": "ltr",
+    "description": "Tamil script variant used in Sri Lanka"
+  }
+]
