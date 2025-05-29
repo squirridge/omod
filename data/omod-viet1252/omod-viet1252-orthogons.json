@@ -1,1 +1,1140 @@
-
+[
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "a",
+        "interphon": "/a˧˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ao", "pronunciation": "/a˧˧o˧˧/", "meaning": "pond" },
+            { "word": "bao", "pronunciation": "/ɓa˧˧o˧˧/", "meaning": "bag" },
+            { "word": "ba", "pronunciation": "/ɓa˧˧/", "meaning": "three" },
+            { "word": "a", "pronunciation": "/a˧˧/", "meaning": "ah" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "á",
+        "interphon": "/a˧˥/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "áo", "pronunciation": "/a˧˥o˧˧/", "meaning": "shirt" },
+            { "word": "báo", "pronunciation": "/ɓa˧˥o˧˧/", "meaning": "newspaper" },
+            { "word": "lá", "pronunciation": "/la˧˥/", "meaning": "leaf" },
+            { "word": "á", "pronunciation": "/a˧˥/", "meaning": "what" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "à",
+        "interphon": "/a˨˩/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ào", "pronunciation": "/a˨˩o˧˧/", "meaning": "loud" },
+            { "word": "cào", "pronunciation": "/ka˨˩o˧˧/", "meaning": "scratch" },
+            { "word": "bà", "pronunciation": "/ɓa˨˩/", "meaning": "grandmother" },
+            { "word": "à", "pronunciation": "/a˨˩/", "meaning": "huh" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ả",
+        "interphon": "/a˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ảo", "pronunciation": "/a˧˩˧o˧˧/", "meaning": "illusory" },
+            { "word": "hảo", "pronunciation": "/ha˧˩˧o˧˧/", "meaning": "good" },
+            { "word": "hả", "pronunciation": "/ha˧˩˧/", "meaning": "really?" },
+            { "word": "ả", "pronunciation": "/a˧˩˧/", "meaning": "that woman" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ã",
+        "interphon": "/a˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ãng", "pronunciation": "/a˧˩˧ŋ/", "meaning": "sound" },
+            { "word": "hãng", "pronunciation": "/ha˧˩˧ŋ/", "meaning": "company" },
+            { "word": "mã", "pronunciation": "/ma˧˩˧/", "meaning": "code" },
+            { "word": "ã", "pronunciation": "/a˧˩˧/", "meaning": "yes (informal)" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ạ",
+        "interphon": "/a˨˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ạng", "pronunciation": "/a˨˧ŋ/", "meaning": "manner" },
+            { "word": "ngại", "pronunciation": "/ŋa˨˧j/", "meaning": "hesitate" },
+            { "word": "dạ", "pronunciation": "/za˨˧/", "meaning": "yes (polite)" },
+            { "word": "ạ", "pronunciation": "/a˨˧/", "meaning": "yes (formal)" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ă",
+        "interphon": "/ă˧˧/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ăn", "pronunciation": "/ăn˧˧/", "meaning": "eat" },
+            { "word": "ngăn", "pronunciation": "/ŋăn˧˧/", "meaning": "prevent" },
+            { "word": "ă", "pronunciation": "/ă˧˧/", "meaning": "ah (short)" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ắ",
+        "interphon": "/ă˧˥/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ắng", "pronunciation": "/ă˧˥ŋ/", "meaning": "settled" },
+            { "word": "ngắn", "pronunciation": "/ŋă˧˥n/", "meaning": "short" },
+            { "word": "ắ", "pronunciation": "/ă˧˥/", "meaning": "ah (rising)" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ằ",
+        "interphon": "/ă˨˩/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ằng", "pronunciation": "/ă˨˩ŋ/", "meaning": "mumbling" },
+            { "word": "bằng", "pronunciation": "/ɓă˨˩ŋ/", "meaning": "equal" },
+            { "word": "ằ", "pronunciation": "/ă˨˩/", "meaning": "mumble" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ẳ",
+        "interphon": "/ă˧˩˧/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ẳng", "pronunciation": "/ă˧˩˧ŋ/", "meaning": "crooked" },
+            { "word": "thẳng", "pronunciation": "/tʰă˧˩˧ŋ/", "meaning": "straight" },
+            { "word": "ẳ", "pronunciation": "/ă˧˩˧/", "meaning": "questioning sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "b",
+        "interphon": "/ɓ/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "ba", "pronunciation": "/ɓa˧˧/", "meaning": "three" },
+            { "word": "bàn", "pronunciation": "/ɓan˨˩/", "meaning": "table" },
+            { "word": "bộ", "pronunciation": "/ɓo˨˧/", "meaning": "set" }
+        ],
+        "notes": "Implosive bilabial stop in Saigon dialect"
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "c",
+        "interphon": "/k/",
+        "context": ["initial", "final"],
+        "examples": [
+            { "word": "cao", "pronunciation": "/ka˧˧o˧˧/", "meaning": "tall" },
+            { "word": "khác", "pronunciation": "/xa˧˥k/", "meaning": "different" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ch",
+        "interphon": "/c/",
+        "context": ["initial", "final"],
+        "examples": [
+            { "word": "chưa", "pronunciation": "/cɨ˨˩/", "meaning": "not yet" },
+            { "word": "cách", "pronunciation": "/ka˧˥c/", "meaning": "way" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "d",
+        "interphon": "/j/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "dùng", "pronunciation": "/ju˨˩ŋ/", "meaning": "use" },
+            { "word": "dạ", "pronunciation": "/ja˨˧/", "meaning": "yes" }
+        ],
+        "notes": "Palatalized consonant in Saigon dialect"
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "đ",
+        "interphon": "/ɗ/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "đúng", "pronunciation": "/ɗu˧˥ŋ/", "meaning": "correct" },
+            { "word": "đi", "pronunciation": "/ɗi˧˧/", "meaning": "go" }
+        ],
+        "notes": "Implosive alveolar stop"
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ẵ",
+        "interphon": "/ă˧˩˧/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ẵm", "pronunciation": "/ă˧˩˧m/", "meaning": "carry in arms" },
+            { "word": "sẵn", "pronunciation": "/ʂă˧˩˧n/", "meaning": "ready" },
+            { "word": "ẵ", "pronunciation": "/ă˧˩˧/", "meaning": "questioning tone" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ặ",
+        "interphon": "/ă˨˧/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ặc", "pronunciation": "/ă˨˧k/", "meaning": "choke" },
+            { "word": "nặng", "pronunciation": "/nă˨˧ŋ/", "meaning": "heavy" },
+            { "word": "ặ", "pronunciation": "/ă˨˧/", "meaning": "exclamation" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "â",
+        "interphon": "/ə̆˧˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "âm", "pronunciation": "/ə̆˧˧m/", "meaning": "sound" },
+            { "word": "ngâm", "pronunciation": "/ŋə̆˧˧m/", "meaning": "soak" },
+            { "word": "â", "pronunciation": "/ə̆˧˧/", "meaning": "ah" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ấ",
+        "interphon": "/ə̆˧˥/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ấm", "pronunciation": "/ə̆˧˥m/", "meaning": "warm" },
+            { "word": "bấm", "pronunciation": "/ɓə̆˧˥m/", "meaning": "press" },
+            { "word": "ấ", "pronunciation": "/ə̆˧˥/", "meaning": "ah (rising)" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ầ",
+        "interphon": "/ə̆˨˩/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ầm", "pronunciation": "/ə̆˨˩m/", "meaning": "noisy" },
+            { "word": "trầm", "pronunciation": "/ʈə̆˨˩m/", "meaning": "deep" },
+            { "word": "ầ", "pronunciation": "/ə̆˨˩/", "meaning": "ah (low)" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ẩ",
+        "interphon": "/ə̆˧˩˧/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ẩm", "pronunciation": "/ə̆˧˩˧m/", "meaning": "humid" },
+            { "word": "thẩm", "pronunciation": "/tʰə̆˧˩˧m/", "meaning": "judge" },
+            { "word": "ẩ", "pronunciation": "/ə̆˧˩˧/", "meaning": "ah (hook)" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ẫ",
+        "interphon": "/ə̆˧˩˧/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ẫm", "pronunciation": "/ə̆˧˩˧m/", "meaning": "understand" },
+            { "word": "ngẫm", "pronunciation": "/ŋə̆˧˩˧m/", "meaning": "contemplate" },
+            { "word": "ẫ", "pronunciation": "/ə̆˧˩˧/", "meaning": "ah (tilde)" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ậ",
+        "interphon": "/ə̆˨˧/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ậm", "pronunciation": "/ə̆˨˧m/", "meaning": "damp" },
+            { "word": "ngập", "pronunciation": "/ŋə̆˨˧p/", "meaning": "flood" },
+            { "word": "ậ", "pronunciation": "/ə̆˨˧/", "meaning": "ah (dot below)" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "e",
+        "interphon": "/ɛ˧˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "em", "pronunciation": "/ɛ˧˧m/", "meaning": "younger sibling" },
+            { "word": "tem", "pronunciation": "/tɛ˧˧m/", "meaning": "stamp" },
+            { "word": "me", "pronunciation": "/mɛ˧˧/", "meaning": "mother" },
+            { "word": "e", "pronunciation": "/ɛ˧˧/", "meaning": "shy" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "é",
+        "interphon": "/ɛ˧˥/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ép", "pronunciation": "/ɛ˧˥p/", "meaning": "press" },
+            { "word": "mém", "pronunciation": "/mɛ˧˥m/", "meaning": "almost" },
+            { "word": "té", "pronunciation": "/tɛ˧˥/", "meaning": "fall" },
+            { "word": "é", "pronunciation": "/ɛ˧˥/", "meaning": "hey" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "è",
+        "interphon": "/ɛ˨˩/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "èo", "pronunciation": "/ɛ˨˩o˧˧/", "meaning": "oh no" },
+            { "word": "mèo", "pronunciation": "/mɛ˨˩o˧˧/", "meaning": "cat" },
+            { "word": "mè", "pronunciation": "/mɛ˨˩/", "meaning": "mother (informal)" },
+            { "word": "è", "pronunciation": "/ɛ˨˩/", "meaning": "exclamation" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ẻ",
+        "interphon": "/ɛ˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ẻo", "pronunciation": "/ɛ˧˩˧o˧˧/", "meaning": "bent" },
+            { "word": "kẻo", "pronunciation": "/kɛ˧˩˧o˧˧/", "meaning": "lest" },
+            { "word": "kẻ", "pronunciation": "/kɛ˧˩˧/", "meaning": "person" },
+            { "word": "ẻ", "pronunciation": "/ɛ˧˩˧/", "meaning": "questioning" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ẽ",
+        "interphon": "/ɛ˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ẽo", "pronunciation": "/ɛ˧˩˧o˧˧/", "meaning": "crooked" },
+            { "word": "bẽn", "pronunciation": "/ɓɛ˧˩˧n/", "meaning": "embarrassed" },
+            { "word": "kẽ", "pronunciation": "/kɛ˧˩˧/", "meaning": "crack" },
+            { "word": "ẽ", "pronunciation": "/ɛ˧˩˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ẹ",
+        "interphon": "/ɛ˨˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ẹo", "pronunciation": "/ɛ˨˧o˧˧/", "meaning": "twisted" },
+            { "word": "kẹo", "pronunciation": "/kɛ˨˧o˧˧/", "meaning": "candy" },
+            { "word": "mẹ", "pronunciation": "/mɛ˨˧/", "meaning": "mother" },
+            { "word": "ẹ", "pronunciation": "/ɛ˨˧/", "meaning": "hey" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ê",
+        "interphon": "/e˧˧/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "êm", "pronunciation": "/e˧˧m/", "meaning": "soft" },
+            { "word": "trên", "pronunciation": "/ʈe˧˧n/", "meaning": "on top" },
+            { "word": "ê", "pronunciation": "/e˧˧/", "meaning": "oh" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ế",
+        "interphon": "/e˧˥/",
+        "context": ["initial", "medial", "standalone"],
+        "examples": [
+            { "word": "ếch", "pronunciation": "/e˧˥c/", "meaning": "frog" },
+            { "word": "chết", "pronunciation": "/ce˧˥t/", "meaning": "die" },
+            { "word": "ế", "pronunciation": "/e˧˥/", "meaning": "unsold" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ề",
+        "interphon": "/e˨˩/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ềnh", "pronunciation": "/e˨˩ɲ/", "meaning": "slow" },
+            { "word": "bền", "pronunciation": "/ɓe˨˩n/", "meaning": "durable" },
+            { "word": "về", "pronunciation": "/ve˨˩/", "meaning": "return" },
+            { "word": "ề", "pronunciation": "/e˨˩/", "meaning": "oh" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ể",
+        "interphon": "/e˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ển", "pronunciation": "/e˧˩˧n/", "meaning": "lazy" },
+            { "word": "uể", "pronunciation": "/ue˧˩˧/", "meaning": "tired" },
+            { "word": "kể", "pronunciation": "/ke˧˩˧/", "meaning": "tell" },
+            { "word": "ể", "pronunciation": "/e˧˩˧/", "meaning": "questioning" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ễ",
+        "interphon": "/e˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ễnh", "pronunciation": "/e˧˩˧ɲ/", "meaning": "arrogant" },
+            { "word": "phễu", "pronunciation": "/fe˧˩˧u˧˧/", "meaning": "funnel" },
+            { "word": "dễ", "pronunciation": "/je˧˩˧/", "meaning": "easy" },
+            { "word": "ễ", "pronunciation": "/e˧˩˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ệ",
+        "interphon": "/e˨˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ệch", "pronunciation": "/e˨˧c/", "meaning": "frog (dim.)" },
+            { "word": "bệnh", "pronunciation": "/ɓe˨˧ɲ/", "meaning": "illness" },
+            { "word": "kệ", "pronunciation": "/ke˨˧/", "meaning": "shelf" },
+            { "word": "ệ", "pronunciation": "/e˨˧/", "meaning": "hey" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "i",
+        "interphon": "/i˧˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "im", "pronunciation": "/i˧˧m/", "meaning": "quiet" },
+            { "word": "phim", "pronunciation": "/fi˧˧m/", "meaning": "film" },
+            { "word": "ghi", "pronunciation": "/ɣi˧˧/", "meaning": "write" },
+            { "word": "i", "pronunciation": "/i˧˧/", "meaning": "small" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "í",
+        "interphon": "/i˧˥/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ít", "pronunciation": "/i˧˥t/", "meaning": "little" },
+            { "word": "tính", "pronunciation": "/ti˧˥ɲ/", "meaning": "calculate" },
+            { "word": "tí", "pronunciation": "/ti˧˥/", "meaning": "tiny" },
+            { "word": "í", "pronunciation": "/i˧˥/", "meaning": "small" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ì",
+        "interphon": "/i˨˩/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ìn", "pronunciation": "/i˨˩n/", "meaning": "sticky" },
+            { "word": "tình", "pronunciation": "/ti˨˩ɲ/", "meaning": "love" },
+            { "word": "bì", "pronunciation": "/ɓi˨˩/", "meaning": "skin" },
+            { "word": "ì", "pronunciation": "/i˨˩/", "meaning": "small" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ỉ",
+        "interphon": "/i˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ỉa", "pronunciation": "/i˧˩˧a˧˧/", "meaning": "defecate" },
+            { "word": "tỉnh", "pronunciation": "/ti˧˩˧ɲ/", "meaning": "province" },
+            { "word": "nghỉ", "pronunciation": "/ŋi˧˩˧/", "meaning": "rest" },
+            { "word": "ỉ", "pronunciation": "/i˧˩˧/", "meaning": "small" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ĩ",
+        "interphon": "/i˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ĩnh", "pronunciation": "/i˧˩˧ɲ/", "meaning": "silent" },
+            { "word": "đĩa", "pronunciation": "/ɗi˧˩˧a˧˧/", "meaning": "plate" },
+            { "word": "nghĩ", "pronunciation": "/ŋi˧˩˧/", "meaning": "think" },
+            { "word": "ĩ", "pronunciation": "/i˧˩˧/", "meaning": "small" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ị",
+        "interphon": "/i˨˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ịt", "pronunciation": "/i˨˧t/", "meaning": "little" },
+            { "word": "địa", "pronunciation": "/ɗi˨˧a˧˧/", "meaning": "place" },
+            { "word": "nghị", "pronunciation": "/ŋi˨˧/", "meaning": "discuss" },
+            { "word": "ị", "pronunciation": "/i˨˧/", "meaning": "small" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "y",
+        "interphon": "/i˧˧/",
+        "context": ["final", "standalone"],
+        "examples": [
+            { "word": "huy", "pronunciation": "/hui˧˧/", "meaning": "medal" },
+            { "word": "y", "pronunciation": "/i˧˧/", "meaning": "medicine" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ý",
+        "interphon": "/i˧˥/",
+        "context": ["final", "standalone"],
+        "examples": [
+            { "word": "ký", "pronunciation": "/ki˧˥/", "meaning": "sign" },
+            { "word": "ý", "pronunciation": "/i˧˥/", "meaning": "idea" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ỳ",
+        "interphon": "/i˨˩/",
+        "context": ["final", "standalone"],
+        "examples": [
+            { "word": "kỳ", "pronunciation": "/ki˨˩/", "meaning": "strange" },
+            { "word": "ỳ", "pronunciation": "/i˨˩/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ỷ",
+        "interphon": "/i˧˩˧/",
+        "context": ["final", "standalone"],
+        "examples": [
+            { "word": "kỷ", "pronunciation": "/ki˧˩˧/", "meaning": "era" },
+            { "word": "ỷ", "pronunciation": "/i˧˩˧/", "meaning": "lean on" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ỹ",
+        "interphon": "/i˧˩˧/",
+        "context": ["final", "standalone"],
+        "examples": [
+            { "word": "kỹ", "pronunciation": "/ki˧˩˧/", "meaning": "skill" },
+            { "word": "ỹ", "pronunciation": "/i˧˩˧/", "meaning": "technique" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ỵ",
+        "interphon": "/i˨˧/",
+        "context": ["final", "standalone"],
+        "examples": [
+            { "word": "kỵ", "pronunciation": "/ki˨˧/", "meaning": "taboo" },
+            { "word": "ỵ", "pronunciation": "/i˨˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "o",
+        "interphon": "/ɔ˧˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ong", "pronunciation": "/ɔ˧˧ŋ/", "meaning": "bee" },
+            { "word": "mong", "pronunciation": "/mɔ˧˧ŋ/", "meaning": "hope" },
+            { "word": "to", "pronunciation": "/tɔ˧˧/", "meaning": "big" },
+            { "word": "o", "pronunciation": "/ɔ˧˧/", "meaning": "oh" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ó",
+        "interphon": "/ɔ˧˥/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "óc", "pronunciation": "/ɔ˧˥k/", "meaning": "brain" },
+            { "word": "tóc", "pronunciation": "/tɔ˧˥k/", "meaning": "hair" },
+            { "word": "bó", "pronunciation": "/ɓɔ˧˥/", "meaning": "tie" },
+            { "word": "ó", "pronunciation": "/ɔ˧˥/", "meaning": "oh" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ò",
+        "interphon": "/ɔ˨˩/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "òi", "pronunciation": "/ɔ˨˩i˧˧/", "meaning": "oh my" },
+            { "word": "còi", "pronunciation": "/kɔ˨˩i˧˧/", "meaning": "whistle" },
+            { "word": "cò", "pronunciation": "/kɔ˨˩/", "meaning": "heron" },
+            { "word": "ò", "pronunciation": "/ɔ˨˩/", "meaning": "oh" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ỏ",
+        "interphon": "/ɔ˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ỏng", "pronunciation": "/ɔ˧˩˧ŋ/", "meaning": "weak" },
+            { "word": "mỏng", "pronunciation": "/mɔ˧˩˧ŋ/", "meaning": "thin" },
+            { "word": "cỏ", "pronunciation": "/kɔ˧˩˧/", "meaning": "grass" },
+            { "word": "ỏ", "pronunciation": "/ɔ˧˩˧/", "meaning": "questioning" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "õ",
+        "interphon": "/ɔ˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "õng", "pronunciation": "/ɔ˧˩˧ŋ/", "meaning": "hollow" },
+            { "word": "mõm", "pronunciation": "/mɔ˧˩˧m/", "meaning": "snout" },
+            { "word": "võ", "pronunciation": "/vɔ˧˩˧/", "meaning": "martial arts" },
+            { "word": "õ", "pronunciation": "/ɔ˧˩˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ọ",
+        "interphon": "/ɔ˨˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ọc", "pronunciation": "/ɔ˨˧k/", "meaning": "vomit" },
+            { "word": "họng", "pronunciation": "/hɔ˨˧ŋ/", "meaning": "throat" },
+            { "word": "bọ", "pronunciation": "/ɓɔ˨˧/", "meaning": "bug" },
+            { "word": "ọ", "pronunciation": "/ɔ˨˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ô",
+        "interphon": "/o˧˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ông", "pronunciation": "/o˧˧ŋ/", "meaning": "grandfather" },
+            { "word": "không", "pronunciation": "/xo˧˧ŋ/", "meaning": "no" },
+            { "word": "cô", "pronunciation": "/ko˧˧/", "meaning": "aunt" },
+            { "word": "ô", "pronunciation": "/o˧˧/", "meaning": "umbrella" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ố",
+        "interphon": "/o˧˥/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ống", "pronunciation": "/o˧˥ŋ/", "meaning": "tube" },
+            { "word": "cống", "pronunciation": "/ko˧˥ŋ/", "meaning": "sewer" },
+            { "word": "cố", "pronunciation": "/ko˧˥/", "meaning": "try" },
+            { "word": "ố", "pronunciation": "/o˧˥/", "meaning": "dirty" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ồ",
+        "interphon": "/o˨˩/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ồn", "pronunciation": "/o˨˩n/", "meaning": "noisy" },
+            { "word": "lồng", "pronunciation": "/lo˨˩ŋ/", "meaning": "cage" },
+            { "word": "đồ", "pronunciation": "/ɗo˨˩/", "meaning": "thing" },
+            { "word": "ồ", "pronunciation": "/o˨˩/", "meaning": "oh" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ổ",
+        "interphon": "/o˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ổn", "pronunciation": "/o˧˩˧n/", "meaning": "stable" },
+            { "word": "hổng", "pronunciation": "/ho˧˩˧ŋ/", "meaning": "hole" },
+            { "word": "cổ", "pronunciation": "/ko˧˩˧/", "meaning": "neck" },
+            { "word": "ổ", "pronunciation": "/o˧˩˧/", "meaning": "nest" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ỗ",
+        "interphon": "/o˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ỗng", "pronunciation": "/o˧˩˧ŋ/", "meaning": "swan" },
+            { "word": "lỗi", "pronunciation": "/lo˧˩˧i˧˧/", "meaning": "error" },
+            { "word": "lỗ", "pronunciation": "/lo˧˩˧/", "meaning": "hole" },
+            { "word": "ỗ", "pronunciation": "/o˧˩˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ộ",
+        "interphon": "/o˨˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ộc", "pronunciation": "/o˨˧k/", "meaning": "shock" },
+            { "word": "phộng", "pronunciation": "/fo˨˧ŋ/", "meaning": "swollen" },
+            { "word": "lộ", "pronunciation": "/lo˨˧/", "meaning": "road" },
+            { "word": "ộ", "pronunciation": "/o˨˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ơ",
+        "interphon": "/ə˧˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ơn", "pronunciation": "/ə˧˧n/", "meaning": "favor" },
+            { "word": "hơn", "pronunciation": "/hə˧˧n/", "meaning": "more" },
+            { "word": "mơ", "pronunciation": "/mə˧˧/", "meaning": "dream" },
+            { "word": "ơ", "pronunciation": "/ə˧˧/", "meaning": "hey" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ớ",
+        "interphon": "/ə˧˥/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ớn", "pronunciation": "/ə˧˥n/", "meaning": "creepy" },
+            { "word": "lớn", "pronunciation": "/lə˧˥n/", "meaning": "big" },
+            { "word": "lớ", "pronunciation": "/lə˧˥/", "meaning": "dumb" },
+            { "word": "ớ", "pronunciation": "/ə˧˥/", "meaning": "hey" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ờ",
+        "interphon": "/ə˨˩/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ời", "pronunciation": "/ə˨˩i˧˧/", "meaning": "oh my" },
+            { "word": "lười", "pronunciation": "/lə˨˩i˧˧/", "meaning": "lazy" },
+            { "word": "lờ", "pronunciation": "/lə˨˩/", "meaning": "ignore" },
+            { "word": "ờ", "pronunciation": "/ə˨˩/", "meaning": "hmm" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ở",
+        "interphon": "/ə˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ởi", "pronunciation": "/ə˧˩˧i˧˧/", "meaning": "oh" },
+            { "word": "cởi", "pronunciation": "/kə˧˩˧i˧˧/", "meaning": "take off" },
+            { "word": "mở", "pronunciation": "/mə˧˩˧/", "meaning": "open" },
+            { "word": "ở", "pronunciation": "/ə˧˩˧/", "meaning": "at" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ỡ",
+        "interphon": "/ə˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ỡn", "pronunciation": "/ə˧˩˧n/", "meaning": "disgusting" },
+            { "word": "lưỡi", "pronunciation": "/lə˧˩˧i˧˧/", "meaning": "tongue" },
+            { "word": "mỡ", "pronunciation": "/mə˧˩˧/", "meaning": "fat" },
+            { "word": "ỡ", "pronunciation": "/ə˧˩˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ợ",
+        "interphon": "/ə˨˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ợn", "pronunciation": "/ə˨˧n/", "meaning": "disgusting" },
+            { "word": "lượm", "pronunciation": "/lə˨˧m/", "meaning": "pick up" },
+            { "word": "mợ", "pronunciation": "/mə˨˧/", "meaning": "sister-in-law" },
+            { "word": "ợ", "pronunciation": "/ə˨˧/", "meaning": "burp" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "u",
+        "interphon": "/u˧˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ui", "pronunciation": "/u˧˧i˧˧/", "meaning": "oh" },
+            { "word": "vui", "pronunciation": "/vu˧˧i˧˧/", "meaning": "happy" },
+            { "word": "ru", "pronunciation": "/ru˧˧/", "meaning": "lullaby" },
+            { "word": "u", "pronunciation": "/u˧˧/", "meaning": "tumor" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ú",
+        "interphon": "/u˧˥/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "út", "pronunciation": "/u˧˥t/", "meaning": "youngest" },
+            { "word": "rút", "pronunciation": "/ru˧˥t/", "meaning": "withdraw" },
+            { "word": "cú", "pronunciation": "/ku˧˥/", "meaning": "kick" },
+            { "word": "ú", "pronunciation": "/u˧˥/", "meaning": "oh" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ù",
+        "interphon": "/u˨˩/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ùng", "pronunciation": "/u˨˩ŋ/", "meaning": "swollen" },
+            { "word": "lùn", "pronunciation": "/lu˨˩n/", "meaning": "short" },
+            { "word": "dù", "pronunciation": "/ju˨˩/", "meaning": "umbrella" },
+            { "word": "ù", "pronunciation": "/u˨˩/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ủ",
+        "interphon": "/u˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ủa", "pronunciation": "/u˧˩˧a˧˧/", "meaning": "huh" },
+            { "word": "của", "pronunciation": "/ku˧˩˧a˧˧/", "meaning": "of" },
+            { "word": "củ", "pronunciation": "/ku˧˩˧/", "meaning": "tuber" },
+            { "word": "ủ", "pronunciation": "/u˧˩˧/", "meaning": "ferment" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ũ",
+        "interphon": "/u˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ũng", "pronunciation": "/u˧˩˧ŋ/", "meaning": "pool" },
+            { "word": "trũng", "pronunciation": "/ʈu˧˩˧ŋ/", "meaning": "depression" },
+            { "word": "cũ", "pronunciation": "/ku˧˩˧/", "meaning": "old" },
+            { "word": "ũ", "pronunciation": "/u˧˩˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ụ",
+        "interphon": "/u˨˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ụng", "pronunciation": "/u˨˧ŋ/", "meaning": "abscess" },
+            { "word": "bụng", "pronunciation": "/ɓu˨˧ŋ/", "meaning": "belly" },
+            { "word": "cụ", "pronunciation": "/ku˨˧/", "meaning": "elder" },
+            { "word": "ụ", "pronunciation": "/u˨˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ư",
+        "interphon": "/ɨ˧˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ưng", "pronunciation": "/ɨ˧˧ŋ/", "meaning": "agree" },
+            { "word": "lưng", "pronunciation": "/lɨ˧˧ŋ/", "meaning": "back" },
+            { "word": "cư", "pronunciation": "/kɨ˧˧/", "meaning": "reside" },
+            { "word": "ư", "pronunciation": "/ɨ˧˧/", "meaning": "yes" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ứ",
+        "interphon": "/ɨ˧˥/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ức", "pronunciation": "/ɨ˧˥k/", "meaning": "chest" },
+            { "word": "nứng", "pronunciation": "/nɨ˧˥ŋ/", "meaning": "crack" },
+            { "word": "tứ", "pronunciation": "/tɨ˧˥/", "meaning": "four" },
+            { "word": "ứ", "pronunciation": "/ɨ˧˥/", "meaning": "yes" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ừ",
+        "interphon": "/ɨ˨˩/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ừng", "pronunciation": "/ɨ˨˩ŋ/", "meaning": "turmeric" },
+            { "word": "rừng", "pronunciation": "/rɨ˨˩ŋ/", "meaning": "forest" },
+            { "word": "từ", "pronunciation": "/tɨ˨˩/", "meaning": "from" },
+            { "word": "ừ", "pronunciation": "/ɨ˨˩/", "meaning": "yes" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ử",
+        "interphon": "/ɨ˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ửng", "pronunciation": "/ɨ˧˩˧ŋ/", "meaning": "reddish" },
+            { "word": "tửng", "pronunciation": "/tɨ˧˩˧ŋ/", "meaning": "each" },
+            { "word": "tử", "pronunciation": "/tɨ˧˩˧/", "meaning": "death" },
+            { "word": "ử", "pronunciation": "/ɨ˧˩˧/", "meaning": "questioning" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ữ",
+        "interphon": "/ɨ˧˩˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ững", "pronunciation": "/ɨ˧˩˧ŋ/", "meaning": "proud" },
+            { "word": "bữa", "pronunciation": "/ɓɨ˧˩˧a˧˧/", "meaning": "meal" },
+            { "word": "lữ", "pronunciation": "/lɨ˧˩˧/", "meaning": "travel" },
+            { "word": "ữ", "pronunciation": "/ɨ˧˩˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ự",
+        "interphon": "/ɨ˨˧/",
+        "context": ["initial", "medial", "final", "standalone"],
+        "examples": [
+            { "word": "ực", "pronunciation": "/ɨ˨˧k/", "meaning": "force" },
+            { "word": "mực", "pronunciation": "/mɨ˨˧k/", "meaning": "ink" },
+            { "word": "bự", "pronunciation": "/ɓɨ˨˧/", "meaning": "big" },
+            { "word": "ự", "pronunciation": "/ɨ˨˧/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "g",
+        "interphon": "/ɣ/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "gào", "pronunciation": "/ɣa˨˩o˧˧/", "meaning": "rice" },
+            { "word": "gấu", "pronunciation": "/ɣə̆˧˥u˧˧/", "meaning": "bear" },
+            { "word": "gọi", "pronunciation": "/ɣɔ˨˧i˧˧/", "meaning": "call" }
+        ],
+        "notes": "Voiced fricative in Saigon dialect"
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "gh",
+        "interphon": "/ɣ/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "ghim", "pronunciation": "/ɣi˧˧m/", "meaning": "pin" },
+            { "word": "ghế", "pronunciation": "/ɣe˧˥/", "meaning": "chair" },
+            { "word": "ghen", "pronunciation": "/ɣe˧˧n/", "meaning": "jealous" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "gi",
+        "interphon": "/j/",
+        "context": ["initial", "standalone"],
+        "examples": [
+            { "word": "giang", "pronunciation": "/ja˧˧ŋ/", "meaning": "river" },
+            { "word": "giá", "pronunciation": "/ja˧˥/", "meaning": "price" },
+            { "word": "gì", "pronunciation": "/ji˨˩/", "meaning": "what" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "h",
+        "interphon": "/h/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "huỳnh", "pronunciation": "/huj˨˩ɲ/", "meaning": "surname" },
+            { "word": "hoa", "pronunciation": "/hɔ˧˧a˧˧/", "meaning": "flower" },
+            { "word": "hết", "pronunciation": "/he˧˥t/", "meaning": "end" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "k",
+        "interphon": "/k/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "kình", "pronunciation": "/ki˨˩ɲ/", "meaning": "respectful" },
+            { "word": "khi", "pronunciation": "/xi˧˧/", "meaning": "when" },
+            { "word": "kem", "pronunciation": "/ke˧˧m/", "meaning": "ice cream" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "kh",
+        "interphon": "/x/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "khóc", "pronunciation": "/xɔ˧˥k/", "meaning": "cry" },
+            { "word": "khi", "pronunciation": "/xi˧˧/", "meaning": "when" },
+            { "word": "khăn", "pronunciation": "/xăn˧˧/", "meaning": "towel" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "l",
+        "interphon": "/l/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "lòng", "pronunciation": "/lo˨˩ŋ/", "meaning": "heart" },
+            { "word": "lá", "pronunciation": "/la˧˥/", "meaning": "leaf" },
+            { "word": "lên", "pronunciation": "/le˧˧n/", "meaning": "up" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "m",
+        "interphon": "/m/",
+        "context": ["initial", "final"],
+        "examples": [
+            { "word": "mong", "pronunciation": "/mɔ˧˧ŋ/", "meaning": "hope" },
+            { "word": "mồm", "pronunciation": "/mo˧˧m/", "meaning": "mouth" },
+            { "word": "âm", "pronunciation": "/ə̆˧˧m/", "meaning": "sound" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "n",
+        "interphon": "/n/",
+        "context": ["initial", "final"],
+        "examples": [
+            { "word": "nóng", "pronunciation": "/nɔ˧˥ŋ/", "meaning": "hot" },
+            { "word": "nón", "pronunciation": "/no˧˥n/", "meaning": "hat" },
+            { "word": "ăn", "pronunciation": "/ăn˧˧/", "meaning": "eat" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ng",
+        "interphon": "/ŋ/",
+        "context": ["initial", "final"],
+        "examples": [
+            { "word": "nghĩ", "pronunciation": "/ŋi˧˩˧/", "meaning": "think" },
+            { "word": "mang", "pronunciation": "/ma˧˧ŋ/", "meaning": "carry" },
+            { "word": "ăng", "pronunciation": "/ă˧˧ŋ/", "meaning": "manner" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ngh",
+        "interphon": "/ŋ/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "nghiêm", "pronunciation": "/ŋie˧˧m/", "meaning": "strict" },
+            { "word": "nghệ", "pronunciation": "/ŋe˨˧/", "meaning": "art" },
+            { "word": "nghĩ", "pronunciation": "/ŋi˧˩˧/", "meaning": "think" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "nh",
+        "interphon": "/ɲ/",
+        "context": ["initial", "final"],
+        "examples": [
+            { "word": "nhà", "pronunciation": "/ɲa˨˩/", "meaning": "house" },
+            { "word": "nhỏ", "pronunciation": "/ɲɔ˧˩˧/", "meaning": "small" },
+            { "word": "tình", "pronunciation": "/ti˨˩ɲ/", "meaning": "love" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "p",
+        "interphon": "/p/",
+        "context": ["initial", "final"],
+        "examples": [
+            { "word": "pin", "pronunciation": "/pi˧˧n/", "meaning": "battery" },
+            { "word": "lớp", "pronunciation": "/lə˧˥p/", "meaning": "class" },
+            { "word": "cấp", "pronunciation": "/kə̆˧˥p/", "meaning": "level" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "ph",
+        "interphon": "/f/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "phúc", "pronunciation": "/fu˧˥k/", "meaning": "fortune" },
+            { "word": "phố", "pronunciation": "/fo˧˥/", "meaning": "street" },
+            { "word": "phim", "pronunciation": "/fi˧˧m/", "meaning": "film" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "qu",
+        "interphon": "/w/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "quần", "pronunciation": "/wə̆˧˧n/", "meaning": "pants" },
+            { "word": "qua", "pronunciation": "/wa˧˧/", "meaning": "through" },
+            { "word": "quý", "pronunciation": "/wi˧˥/", "meaning": "precious" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "r",
+        "interphon": "/r/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "rừng", "pronunciation": "/rɨ˨˩ŋ/", "meaning": "forest" },
+            { "word": "rau", "pronunciation": "/ra˧˧u˧˧/", "meaning": "vegetable" },
+            { "word": "rót", "pronunciation": "/rɔ˧˥t/", "meaning": "pour" }
+        ],
+        "notes": "Alveolar trill in Saigon dialect"
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "s",
+        "interphon": "/ʂ/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "sóc", "pronunciation": "/ʂɔ˧˥k/", "meaning": "squirrel" },
+            { "word": "sao", "pronunciation": "/ʂa˧˧o˧˧/", "meaning": "star" },
+            { "word": "số", "pronunciation": "/ʂo˧˥/", "meaning": "number" }
+        ],
+        "notes": "Retroflex fricative in Saigon dialect"
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "t",
+        "interphon": "/t/",
+        "context": ["initial", "final"],
+        "examples": [
+            { "word": "tôi", "pronunciation": "/toj˧˧/", "meaning": "I" },
+            { "word": "Tết", "pronunciation": "/te˧˥t/", "meaning": "New Year" },
+            { "word": "mất", "pronunciation": "/mə̆˧˥t/", "meaning": "lose" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "th",
+        "interphon": "/tʰ/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "thắng", "pronunciation": "/tʰă˧˥ŋ/", "meaning": "win" },
+            { "word": "thời", "pronunciation": "/tʰə˧˧j/", "meaning": "time" },
+            { "word": "thể", "pronunciation": "/tʰe˧˩˧/", "meaning": "body" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "tr",
+        "interphon": "/ʈ/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "trường", "pronunciation": "/ʈɨ˨˩ŋ/", "meaning": "school" },
+            { "word": "trời", "pronunciation": "/ʈə˧˧j/", "meaning": "sky" },
+            { "word": "trọng", "pronunciation": "/ʈɔ˨˧ŋ/", "meaning": "important" }
+        ],
+        "notes": "Retroflex stop in Saigon dialect"
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "v",
+        "interphon": "/v/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "vui", "pronunciation": "/vu˧˧j/", "meaning": "happy" },
+            { "word": "về", "pronunciation": "/ve˨˩/", "meaning": "return" },
+            { "word": "văn", "pronunciation": "/vən˧˧/", "meaning": "literature" }
+        ]
+    },
+    {
+        "orthoset": "viet1252-quocngu",
+        "glyphon": "x",
+        "interphon": "/s/",
+        "context": ["initial"],
+        "examples": [
+            { "word": "xinh", "pronunciation": "/si˧˧ɲ/", "meaning": "pretty" },
+            { "word": "xem", "pronunciation": "/se˧˧m/", "meaning": "see" },
+            { "word": "xanh", "pronunciation": "/sa˧˧ɲ/", "meaning": "green" }
+        ]
+    }
+]
