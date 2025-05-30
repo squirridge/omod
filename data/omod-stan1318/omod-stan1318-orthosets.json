@@ -10,34 +10,41 @@
       "to": null
     },
     "region": "Middle East and North Africa",
-    "description": "The contemporary standard form of Arabic script used in formal writing, education, media, and official documents across the Arab world. Based on Classical Arabic script but adapted for modern usage with standardized orthographic conventions."
-  },
-  {
-    "id": "stan1318-classical",
-    "name": "Classical Arabic Script",
-    "script": "Arabic",
-    "direction": "rtl",
-    "status": "historical",
-    "period": {
-      "from": 600,
-      "to": 1800
-    },
-    "region": "Middle East and North Africa",
-    "description": "The traditional Arabic script as used in classical Islamic texts, poetry, and literature. Features more conservative orthographic practices and may include archaic letter forms and spelling conventions."
-  },
-  {
-    "id": "stan1318-maghrebi",
-    "name": "Maghrebi Script Variant",
-    "script": "Arabic",
-    "direction": "rtl",
-    "status": "regional",
-    "period": {
-      "from": 1000,
-      "to": null
-    },
-    "region": "North Africa (Morocco, Algeria, Tunisia, Libya)",
-    "description": "Regional variant of Arabic script used in North African countries, featuring distinctive letter forms and calligraphic traditions that differ from Middle Eastern Arabic script conventions.",
-    "parent": "stan1318-classical"
+    "alphabet_orders": [
+      {
+        "order_type": "traditional",
+        "sequence": [
+          "ا", "ب", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر", "ز", "س", "ش", 
+          "ص", "ض", "ط", "ظ", "ع", "غ", "ف", "ق", "ك", "ل", "م", "ن", "ه", 
+          "و", "ي", "ء", "أ", "ؤ", "إ", "ئ", "آ", "ة", "ى"
+        ],
+        "groups": [
+          {
+            "name": "base_letters",
+            "members": ["ا", "ب", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ع", "غ", "ف", "ق", "ك", "ل", "م", "ن", "ه", "و", "ي"]
+          },
+          {
+            "name": "hamza_forms",
+            "members": ["ء", "أ", "ؤ", "إ", "ئ"]
+          },
+          {
+            "name": "special_forms",
+            "members": ["آ", "ة", "ى"]
+          }
+        ],
+        "notes": "Modern alphabetical order (hijāʾī) as used in dictionaries"
+      },
+      {
+        "order_type": "dictionary",
+        "sequence": [
+          "ء", "أ", "ؤ", "إ", "ئ", "آ", "ا", "ب", "ت", "ة", "ث", "ج", "ح", 
+          "خ", "د", "ذ", "ر", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ع", "غ", 
+          "ف", "ق", "ك", "گ", "ل", "م", "ن", "ه", "و", "ي", "ى", "ڤ"
+        ],
+        "notes": "Dictionary order grouping hamza forms at start, includes loan letters"
+      }
+    ],
+    "description": "The contemporary standard form of Arabic script used in formal writing, education, media, and official documents across the Arab world."
   },
   {
     "id": "stan1318-chat",
@@ -50,7 +57,32 @@
       "to": null
     },
     "region": "Global (Arabic diaspora and digital communities)",
-    "description": "Informal romanization system using Latin letters and numerals to represent Arabic sounds in digital communication. Numbers like 7, 3, 2, 5, 9, 6 substitute for Arabic letters without Latin equivalents. Widely used in SMS, social media, and online chat."
+    "alphabet_orders": [
+      {
+        "order_type": "traditional",
+        "sequence": [
+          "a", "b", "t", "4", "g", "7", "5", "d", "z", "r", "z", "s", "sh", 
+          "9", "9'", "6", "6'", "3", "8", "f", "9", "k", "l", "m", "n", "h", 
+          "w", "y", "2"
+        ],
+        "groups": [
+          {
+            "name": "letters",
+            "members": ["a", "b", "t", "g", "d", "z", "r", "z", "s", "f", "k", "l", "m", "n", "h", "w", "y"]
+          },
+          {
+            "name": "numbers",
+            "members": ["2", "3", "4", "5", "6", "7", "8", "9"]
+          },
+          {
+            "name": "compounds",
+            "members": ["sh", "6'", "9'"]
+          }
+        ],
+        "notes": "Common ordering following Arabic alphabet with number substitutions"
+      }
+    ],
+    "description": "Informal romanization system using Latin letters and numerals to represent Arabic sounds in digital communication."
   },
   {
     "id": "stan1318-ungegn",
@@ -63,7 +95,18 @@
       "to": null
     },
     "region": "International (academic and cartographic use)",
-    "description": "Official romanization system for Arabic established by the United Nations Group of Experts on Geographical Names (UNGEGN). Uses diacritical marks to represent Arabic sounds precisely and is employed in international geographic names, academic transcription, and official documentation.",
+    "alphabet_orders": [
+      {
+        "order_type": "traditional",
+        "sequence": [
+          "ʾ", "b", "t", "ṯ", "ğ", "ḥ", "ḫ", "d", "ḏ", "r", "z", "s", "š", 
+          "ṣ", "ḍ", "ṭ", "ẓ", "ʿ", "ġ", "f", "q", "k", "l", "m", "n", "h", 
+          "w", "y", "ā", "ī", "ū"
+        ],
+        "notes": "Following Arabic alphabetical order with diacritical marks"
+      }
+    ],
+    "description": "Official romanization system for Arabic established by the United Nations Group of Experts on Geographical Names (UNGEGN).",
     "source": {
       "title": "Arabic Romanization System",
       "author": "United Nations Group of Experts on Geographical Names",
