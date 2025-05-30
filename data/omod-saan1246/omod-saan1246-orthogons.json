@@ -3,14 +3,15 @@
     "glyphon": "A",
     "interphon": "/e/",
     "orthoset": "saan1246-penac",
-    "context": ["neutral"]
+    "context": ["neutral"],
+    "notes": "Only occurs before uvular consonants: Ḵ, K, Ḱ, ₭, X, X̱"
   },
   {
     "glyphon": "Á",
     "interphon": "/e/",
     "orthoset": "saan1246-penac",
     "context": ["neutral"],
-    "notes": "Stressed variant of A"
+    "notes": "Stressed variant of A; never occurs before uvular consonants"
   },
   {
     "glyphon": "Ⱥ",
@@ -270,13 +271,14 @@
     "interphon": "/ɛ/",
     "orthoset": "saan1246-montler",
     "context": ["neutral"],
-    "notes": "Can also be realized as /æ/"
+    "notes": "Can also be realized as /æ/; only occurs before uvular consonants: Ḵ, K, Ḱ, ₭, X, X̱"
   },
   {
     "glyphon": "Á",
     "interphon": "/e/",
     "orthoset": "saan1246-montler",
-    "context": ["neutral"]
+    "context": ["neutral"],
+    "notes": "Never occurs before uvular consonants"
   },
   {
     "glyphon": "Ⱥ",
@@ -382,8 +384,8 @@
     "glyphon": "L¸",
     "interphon": "/lʼ/",
     "orthoset": "saan1246-montler",
-    "context": ["neutral"],
-    "notes": "Glottalized lateral approximant"
+    "context": ["medial", "final"],
+    "notes": "Glottalized lateral approximant; never occurs word-initially"
   },
   {
     "glyphon": "Ƚ",
@@ -402,8 +404,8 @@
     "glyphon": "M¸",
     "interphon": "/mʼ/",
     "orthoset": "saan1246-montler",
-    "context": ["neutral"],
-    "notes": "Glottalized bilabial nasal"
+    "context": ["medial", "final"],
+    "notes": "Glottalized bilabial nasal; never occurs word-initially"
   },
   {
     "glyphon": "N",
@@ -415,8 +417,8 @@
     "glyphon": "N¸",
     "interphon": "/nʼ/",
     "orthoset": "saan1246-montler",
-    "context": ["neutral"],
-    "notes": "Glottalized alveolar nasal"
+    "context": ["medial", "final"],
+    "notes": "Glottalized alveolar nasal; never occurs word-initially"
   },
   {
     "glyphon": "Ṉ",
@@ -429,8 +431,8 @@
     "glyphon": "Ṉ¸",
     "interphon": "/ŋʼ/",
     "orthoset": "saan1246-montler",
-    "context": ["neutral"],
-    "notes": "Glottalized velar nasal; can also be realized as /ɴʼ/"
+    "context": ["medial", "final"],
+    "notes": "Glottalized velar nasal; can also be realized as /ɴʼ/; never occurs word-initially"
   },
   {
     "glyphon": "O",
@@ -502,8 +504,8 @@
     "glyphon": "U¸",
     "interphon": "/əwʼ/",
     "orthoset": "saan1246-montler",
-    "context": ["neutral"],
-    "notes": "Can also be realized as /uʔ/"
+    "context": ["medial", "final"],
+    "notes": "Can also be realized as /uʔ/; never occurs word-initially"
   },
   {
     "glyphon": "W",
@@ -543,8 +545,8 @@
     "glyphon": "Y¸",
     "interphon": "/jʼ/",
     "orthoset": "saan1246-montler",
-    "context": ["neutral"],
-    "notes": "Glottalized palatal approximant"
+    "context": ["medial", "final"],
+    "notes": "Glottalized palatal approximant; never occurs word-initially"
   },
   {
     "glyphon": "₭",
@@ -559,5 +561,26 @@
     "orthoset": "saan1246-montler",
     "context": ["neutral"],
     "notes": "Glottal stop (standalone cedilla)"
+  },
+  {
+    "glyphon": "OO",
+    "interphon": "/oː/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Long O vowel; appears in about 100 words including borrowed terms"
+  },
+  {
+    "glyphon": "OO",
+    "interphon": "/oː/",
+    "orthoset": "saan1246-montler",
+    "context": ["neutral"],
+    "notes": "Long O vowel; appears in about 100 words including borrowed terms"
+  },
+  {
+    "glyphon": "I¸",
+    "interphon": "/iʔ/",
+    "orthoset": "saan1246-montler",
+    "context": ["medial", "final"],
+    "notes": "Reduced form of Í¸ when unstressed; never occurs word-initially"
   }
 ]
