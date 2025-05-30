@@ -1,0 +1,22 @@
+[
+  {
+    "glottocode": "saan1246",
+    "name": "Saanich",
+    "endonym": "SENĆOŦEN",
+    "iso639_3": "str",
+    "family": "Salishan",
+    "subfamily": "Coast Salish",
+    "region": "North Salish Straits",
+    "countries": [
+      "Canada",
+      "USA"
+    ],
+    "population": 1000,
+    "status": "Revitalising",
+    "writing_systems": [
+      "PENÁĆ",
+      "Latin"
+    ],
+    "description": "SENĆOŦEN is part of the North Straits Salish dialect continuum, and is the mother tongue of the W̱SÁNEĆ Nation."
+  }
+]
