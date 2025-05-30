@@ -1,1 +1,268 @@
-
+[
+  {
+    "glyphon": "A",
+    "interphon": "/e/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "Á",
+    "interphon": "/e/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Stressed variant of A"
+  },
+  {
+    "glyphon": "Ⱥ",
+    "interphon": "/ej/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "B",
+    "interphon": "/pʼ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Ejective bilabial stop"
+  },
+  {
+    "glyphon": "C",
+    "interphon": "/k/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "Ć",
+    "interphon": "/ʧ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Voiceless postalveolar affricate"
+  },
+  {
+    "glyphon": "Ȼ",
+    "interphon": "/kʷ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Labialized velar stop"
+  },
+  {
+    "glyphon": "D",
+    "interphon": "/tʼ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Ejective alveolar stop"
+  },
+  {
+    "glyphon": "E",
+    "interphon": "/ə/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Schwa"
+  },
+  {
+    "glyphon": "H",
+    "interphon": "/h/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "I",
+    "interphon": "/i/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "Í",
+    "interphon": "/əj/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Can also be realized as /aj/"
+  },
+  {
+    "glyphon": "J",
+    "interphon": "/ʧʼ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Ejective postalveolar affricate"
+  },
+  {
+    "glyphon": "K",
+    "interphon": "/qʼ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Ejective uvular stop"
+  },
+  {
+    "glyphon": "Ḱ",
+    "interphon": "/qʷ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Labialized uvular stop"
+  },
+  {
+    "glyphon": "Ḵ",
+    "interphon": "/q/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Plain uvular stop"
+  },
+  {
+    "glyphon": "L",
+    "interphon": "/l/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "Ƚ",
+    "interphon": "/ɬ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Voiceless lateral fricative"
+  },
+  {
+    "glyphon": "M",
+    "interphon": "/m/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "N",
+    "interphon": "/n/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "Ṉ",
+    "interphon": "/ŋ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Velar nasal"
+  },
+  {
+    "glyphon": "O",
+    "interphon": "/a/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "P",
+    "interphon": "/p/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "Q",
+    "interphon": "/kʼʷ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Ejective labialized velar stop"
+  },
+  {
+    "glyphon": "S",
+    "interphon": "/s/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "Ś",
+    "interphon": "/ʃ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Voiceless postalveolar fricative"
+  },
+  {
+    "glyphon": "T",
+    "interphon": "/t/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "Ⱦ",
+    "interphon": "/tʼᶿ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Ejective dental stop"
+  },
+  {
+    "glyphon": "Ṯ",
+    "interphon": "/tɬʼ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Ejective lateral affricate"
+  },
+  {
+    "glyphon": "Ŧ",
+    "interphon": "/θ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Voiceless dental fricative"
+  },
+  {
+    "glyphon": "U",
+    "interphon": "/u/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "W",
+    "interphon": "/w/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"]
+  },
+  {
+    "glyphon": "W̱",
+    "interphon": "/xʷ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Labialized velar fricative"
+  },
+  {
+    "glyphon": "X",
+    "interphon": "/χ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Voiceless uvular fricative"
+  },
+  {
+    "glyphon": "X̱",
+    "interphon": "/χʷ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Labialized uvular fricative"
+  },
+  {
+    "glyphon": "Y",
+    "interphon": "/j/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Palatal approximant"
+  },
+  {
+    "glyphon": "₭",
+    "interphon": "/qʼʷ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Ejective labialized uvular stop"
+  },
+  {
+    "glyphon": ",",
+    "interphon": "/ʔ/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Glottal stop"
+  },
+  {
+    "glyphon": "Z",
+    "interphon": "/z/",
+    "orthoset": "saan1246-penac",
+    "context": ["neutral"],
+    "notes": "Voiced alveolar fricative"
+  },
+  {
+    "glyphon": "s",
+    "interphon": "/s/",
+    "orthoset": "saan1246-penac",
+    "context": ["final"],
+    "notes": "The only lowercase letter in PENÁĆ; used to indicate possessive"
+  }
+]
