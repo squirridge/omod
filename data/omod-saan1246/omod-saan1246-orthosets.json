@@ -10,6 +10,32 @@
       "to": null
     },
     "region": "North America",
+    "alphabet_orders": [
+      {
+        "order_type": "traditional",
+        "sequence": [
+          ",", "A", "Á", "Ⱥ", "B", "C", "Ć", "Ȼ", "D", "E", "H", "I", 
+          "Í", "J", "K", "Ḱ", "Ḵ", "₭", "L", "Ƚ", "M", "N", "Ṉ", "O",  
+          "OO", "P", "Q", "S", "Ś", "T", "Ⱦ", "Ṯ", "Ŧ", "U", "W", "W̱",  
+          "X", "X̱", "Y", "Z", "s"
+        ],
+        "groups": [
+          {
+            "name": "vowels",
+            "members": ["A", "Á", "Ⱥ", "E", "I", "Í", "O", "OO", "U"]
+          },
+          {
+            "name": "consonants",
+            "members": ["B", "C", "Ć", "Ȼ", "D", "H", "J", "K", "Ḱ", "Ḵ", "₭", "L", "Ƚ", "M", "N", "Ṉ", "P", "Q", "S", "Ś", "T", "Ⱦ", "Ṯ", "Ŧ", "W", "W̱", "X", "X̱", "Y", "Z"]
+          },
+          {
+            "name": "special",
+            "members": [",", "s"]
+          }
+        ],
+        "notes": "Traditional ordering as established by PENÁĆ Dave Elliott Sr."
+      }
+    ],
     "description": "A unicase (all-uppercase) Latin script developed by PENÁĆ Dave Elliott Sr., a language keeper who brought together elders in the 1970s and developed a typewriter-friendly script with over-stroke diacritics."
   },
   {
@@ -23,6 +49,18 @@
       "to": null
     },
     "region": "North America",
+    "alphabet_orders": [
+      {
+        "order_type": "dictionary",
+        "sequence": [
+          "¸", "A", "Á", "Ⱥ", "B", "C", "Ć", "Ȼ", "D", "E", "H", "I", "I¸", "Í", 
+          "J", "K", "Ḱ", "Ḵ", "₭", "L", "L¸", "Ƚ", "M", "M¸", "N", "N¸", "Ṉ", "Ṉ¸", 
+          "O", "OO", "P", "Q", "S", "Ś", "T", "Ⱦ", "Ṯ", "Ŧ", "U", "U¸", "W", "W̱", 
+          "X", "X̱", "Y", "Y¸"
+        ],
+        "notes": "Includes glottalized consonants marked with cedilla (¸)"
+      }
+    ],
     "description": "An expanded version of PENÁĆ Dave Elliott Sr.'s script from academic linguist Timothy Montler, distinguished by its use of the cedilla (¸) to denote glottal stops and a set of tightly-voiced consonants not otherwise identified in vernacular use."
   },
   {
@@ -36,6 +74,17 @@
       "to": 2000
     },
     "region": "North America",
-    "description": "An academic usage of Americanist phonetic notation, which is itself adapted somewhat from IPA, to transcribe SENĆOŦEN prior to the development and widespread use of PENÁĆ's alphabet."
+    "alphabet_orders": [
+      {
+        "order_type": "pedagogical",
+        "sequence": [
+          "a", "c", "č", "e", "ə", "h", "i", "k", "kʷ", "l", "ƛ", "ł", "m", 
+          "n", "ŋ", "p", "q", "qʷ", "s", "š", "t", "t̓", "u", "w", "x", "xʷ", 
+          "χ", "χʷ", "y", "ʔ"
+        ],
+        "notes": "Americanist phonetic notation ordering"
+      }
+    ],
+    "description": "An academic usage of Americanist phonetic notation, aka NAPA North American Phonetic Notation, which is itself adapted somewhat from IPA, to transcribe SENĆOŦEN prior to the development and widespread use of PENÁĆ's alphabet."
   }
 ]
