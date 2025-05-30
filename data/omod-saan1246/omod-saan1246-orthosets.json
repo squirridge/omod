@@ -1,1 +1,41 @@
-
+[
+  {
+    "id": "saan1246-penac",
+    "name": "PENÁĆ SENĆOŦEN",
+    "script": "Latin",
+    "direction": "ltr",
+    "status": "current",
+    "period": {
+      "from": 1980,
+      "to": null
+    },
+    "region": "North America",
+    "description": "A unicase (all-uppercase) Latin script developed by PENÁĆ Dave Elliott Sr., a language keeper who brought together elders in the 1970s and developed a typewriter-friendly script with over-stroke diacritics."
+  },
+  {
+    "id": "stan1318-montler",
+    "name": "Expanded Academic SENĆOŦEN",
+    "script": "Latin",
+    "direction": "ltr",
+    "status": "academic",
+    "period": {
+      "from": 2000,
+      "to": null
+    },
+    "region": "North America",
+    "description": "An expanded version of PENÁĆ Dave Elliott Sr.'s script from academic linguist Timothy Montler, distinguished by its use of the cedilla (¸) to denote glottal stops and a set of tightly-voiced consonants not otherwise identified in vernacular use."
+  },
+  {
+    "id": "stan1318-americanist",
+    "name": "Americanist Sənčáθən",
+    "script": "Latin",
+    "direction": "ltr",
+    "status": "historical",
+    "period": {
+      "from": 1900,
+      "to": 2000
+    },
+    "region": "North America",
+    "description": "An academic usage of Americanist phonetic notation, which is itself adapted somewhat from IPA, to transcribe SENĆOŦEN prior to the development and widespread use of PENÁĆ's alphabet."
+  }
+]
