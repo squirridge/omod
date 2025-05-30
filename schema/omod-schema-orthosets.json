@@ -1,14 +1,14 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "OMOD Orthosets",
-  "description": "Orthographic set definitions",
+  "description": "Orthographic set definitions with alphabet ordering",
   "type": "array",
   "items": {
     "type": "object",
     "properties": {
       "id": {
         "type": "string",
-        "pattern": "^[a-z]{3,4}-[a-z0-9-]+$",
+        "pattern": "^[a-z]{3,4}[0-9]{4}-[a-z0-9-]+$",
         "description": "Unique identifier for this orthoset"
       },
       "name": {
@@ -27,7 +27,7 @@
       },
       "status": {
         "type": "string",
-        "enum": ["current", "historical", "informal", "regional", "standardized"],
+        "enum": ["current", "historical", "informal", "regional", "standardized", "academic"],
         "description": "Usage status of this orthographic system"
       },
       "period": {
@@ -47,6 +47,52 @@
       "region": {
         "type": "string",
         "description": "Geographic region or country where used"
+      },
+      "alphabet_orders": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "order_type": {
+              "type": "string",
+              "enum": ["traditional", "unicode", "pedagogical", "dictionary", "frequency"],
+              "description": "Type of ordering system"
+            },
+            "sequence": {
+              "type": "array",
+              "items": { "type": "string" },
+              "minItems": 1,
+              "uniqueItems": true,
+              "description": "Ordered array of glyphons"
+            },
+            "groups": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "name": { 
+                    "type": "string",
+                    "description": "Group name (e.g., 'vowels', 'consonants', 'compounds')"
+                  },
+                  "members": {
+                    "type": "array",
+                    "items": { "type": "string" },
+                    "description": "Glyphons in this group"
+                  }
+                },
+                "required": ["name", "members"]
+              },
+              "description": "Optional grouping of characters"
+            },
+            "notes": {
+              "type": "string",
+              "description": "Notes about this ordering"
+            }
+          },
+          "required": ["order_type", "sequence"],
+          "additionalProperties": false
+        },
+        "description": "Alphabet ordering systems for this orthoset"
       },
       "description": {
         "type": "string",
