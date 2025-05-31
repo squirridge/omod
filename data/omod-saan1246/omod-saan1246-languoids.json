@@ -41,6 +41,11 @@
     "writing_systems": [
       "Latin"
     ],
+    "phonology": {
+      "tonal": false,
+      "syllable_structure": "(C)(C)V(C)(C)",
+      "phoneme_inventory_size": "large"
+    },
     "description": "SENĆOŦEN is part of the North Straits Salish dialect continuum, and is the mother tongue of the W̱SÁNEĆ Nation."
   }
 ]
