@@ -10,7 +10,7 @@
     "countries": ["Vietnam", "Cambodia", "Laos", "Thailand", "United States", "Australia"],
     "population": 100400000,
     "status": "Not endangered",
-    "writing_systems": ["Latin (Quốc ngữ)"],
+    "writing_systems": ["Latin"],
     "description": "Vietnamese is the official language of Vietnam and is spoken by over 100 million people worldwide. It uses a Latin-based alphabet called Quốc ngữ with extensive tone marking diacritics to represent the language's six lexical tones. Vietnamese has three main dialectal groups: Northern (Hanoi), Central (Huế), and Southern (Saigon), with significant phonetic and tonal variations between regions."
   }
 ]
