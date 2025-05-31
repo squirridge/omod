@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "OMOD Languoids",
-  "description": "Language metadata following Glottolog standards",
+  "description": "Language metadata following Glottolog standards with hierarchical classification",
   "type": "array",
   "items": {
     "type": "object",
@@ -24,13 +24,31 @@
         "pattern": "^[a-z]{3}$",
         "description": "ISO 639-3 three-letter code"
       },
-      "family": {
-        "type": "string",
-        "description": "Top-level language family"
-      },
-      "subfamily": {
-        "type": "string",
-        "description": "Immediate subfamily or branch"
+      "classification": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "level": {
+              "type": "string",
+              "enum": ["family", "subfamily", "branch", "subbranch", "group", "subgroup", "complex", "dialect"],
+              "description": "Hierarchical level in the language family tree"
+            },
+            "name": {
+              "type": "string",
+              "description": "Name of this classification level"
+            },
+            "glottocode": {
+              "type": "string",
+              "pattern": "^[a-z]{4}[0-9]{4}$",
+              "description": "Glottocode for this classification level"
+            }
+          },
+          "required": ["level", "name", "glottocode"],
+          "additionalProperties": false
+        },
+        "minItems": 1,
+        "description": "Hierarchical classification from family down to immediate parent"
       },
       "region": {
         "type": "string",
@@ -48,8 +66,8 @@
       },
       "status": {
         "type": "string",
-        "enum": ["Not endangered", "Vulnerable", "Endangered", "Critically endangered", "Extinct"],
-        "description": "Language vitality status"
+        "enum": ["Not endangered", "Vulnerable", "Endangered", "Critically endangered", "Extinct", "Revitalising"],
+        "description": "Language vitality status (added 'Revitalising' for SENĆOŦEN)"
       },
       "writing_systems": {
         "type": "array",
@@ -61,8 +79,8 @@
         "description": "Brief description of the language"
       }
     },
-    "required": ["glottocode", "name", "iso639_3", "family", "region", "description"],
+    "required": ["glottocode", "name", "iso639_3", "classification", "region", "description"],
     "additionalProperties": false
   },
   "minItems": 1
-}
+ }
