@@ -48,6 +48,44 @@
         "type": "string",
         "description": "Geographic region or country where used"
       },
+      "unicode_blocks": {
+        "type": "array",
+        "items": { 
+          "type": "string",
+          "description": "Unicode block name (e.g., 'Basic Latin', 'Arabic', 'Tamil')"
+        },
+        "uniqueItems": true,
+        "description": "Unicode blocks used by this orthographic system"
+      },
+      "character_relationships": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "base": { 
+              "type": "string",
+              "description": "Base character"
+            },
+            "derived": { 
+              "type": "array", 
+              "items": { "type": "string" },
+              "description": "Characters derived from the base"
+            },
+            "relationship": { 
+              "type": "string", 
+              "enum": ["diacritic", "compound", "variant", "ligature"],
+              "description": "Type of relationship"
+            },
+            "notes": {
+              "type": "string",
+              "description": "Additional notes about this relationship"
+            }
+          },
+          "required": ["base", "derived", "relationship"],
+          "additionalProperties": false
+        },
+        "description": "Relationships between characters in this orthoset"
+      },
       "alphabet_orders": {
         "type": "array",
         "items": {
