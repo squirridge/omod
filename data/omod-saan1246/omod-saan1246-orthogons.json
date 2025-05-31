@@ -77,7 +77,15 @@
     "interphon": "/əj/",
     "orthoset": "saan1246-penac",
     "context": ["neutral"],
-    "notes": "Can also be realized as /aj/"
+    "alternates": [
+      {
+        "interphon": "/aj/",
+        "context": ["neutral"],
+        "condition": "Alternative realization",
+        "frequency": "common"
+      }
+    ],
+    "notes": "Diphthong with variable first element"
   },
   {
     "glyphon": "J",
@@ -271,7 +279,15 @@
     "interphon": "/ɛ/",
     "orthoset": "saan1246-montler",
     "context": ["neutral"],
-    "notes": "Can also be realized as /æ/; only occurs before uvular consonants: Ḵ, K, Ḱ, ₭, X, X̱"
+    "alternates": [
+      {
+        "interphon": "/æ/",
+        "context": ["neutral"],
+        "condition": "Free variation in pronunciation",
+        "frequency": "common"
+      }
+    ],
+    "notes": "Only occurs before uvular consonants: Ḵ, K, Ḱ, ₭, X, X̱"
   },
   {
     "glyphon": "Á",
@@ -344,7 +360,15 @@
     "interphon": "/əj/",
     "orthoset": "saan1246-montler",
     "context": ["neutral"],
-    "notes": "Can also be realized as /aj/"
+    "alternates": [
+      {
+        "interphon": "/aj/",
+        "context": ["neutral"],
+        "condition": "Alternative realization",
+        "frequency": "common"
+      }
+    ],
+    "notes": "Diphthong with variable first element"
   },
   {
     "glyphon": "J",
@@ -425,14 +449,30 @@
     "interphon": "/ŋ/",
     "orthoset": "saan1246-montler",
     "context": ["neutral"],
-    "notes": "Velar nasal; can also be realized as /ɴ/ (uvular nasal)"
+    "alternates": [
+      {
+        "interphon": "/ɴ/",
+        "context": ["neutral"],
+        "condition": "Uvular realization, especially near uvular consonants",
+        "frequency": "uncommon"
+      }
+    ],
+    "notes": "Velar nasal with uvular allophone"
   },
   {
     "glyphon": "Ṉ¸",
     "interphon": "/ŋʼ/",
     "orthoset": "saan1246-montler",
     "context": ["medial", "final"],
-    "notes": "Glottalized velar nasal; can also be realized as /ɴʼ/; never occurs word-initially"
+    "alternates": [
+      {
+        "interphon": "/ɴʼ/",
+        "context": ["medial", "final"],
+        "condition": "Uvular realization, especially near uvular consonants",
+        "frequency": "uncommon"
+      }
+    ],
+    "notes": "Glottalized velar nasal; never occurs word-initially"
   },
   {
     "glyphon": "O",
@@ -491,21 +531,45 @@
     "interphon": "/θ/",
     "orthoset": "saan1246-montler",
     "context": ["neutral"],
-    "notes": "Voiceless dental fricative; can also be realized as /s̪/ (dental s)"
+    "alternates": [
+      {
+        "interphon": "/s̪/",
+        "context": ["neutral"],
+        "condition": "Dental fricative realization",
+        "frequency": "dialectal"
+      }
+    ],
+    "notes": "Voiceless dental fricative"
   },
   {
     "glyphon": "U",
     "interphon": "/u/",
     "orthoset": "saan1246-montler",
     "context": ["neutral"],
-    "notes": "Can also be realized as /w/"
+    "alternates": [
+      {
+        "interphon": "/w/",
+        "context": ["medial"],
+        "condition": "Semivocalic realization in rapid speech or certain phonological contexts",
+        "frequency": "common"
+      }
+    ],
+    "notes": "High back rounded vowel with semivocalic variant"
   },
   {
     "glyphon": "U¸",
     "interphon": "/əwʼ/",
     "orthoset": "saan1246-montler",
     "context": ["medial", "final"],
-    "notes": "Can also be realized as /uʔ/; never occurs word-initially"
+    "alternates": [
+      {
+        "interphon": "/uʔ/",
+        "context": ["medial", "final"],
+        "condition": "Alternative realization as glottalized vowel",
+        "frequency": "common"
+      }
+    ],
+    "notes": "Glottalized sequence; never occurs word-initially"
   },
   {
     "glyphon": "W",
@@ -581,6 +645,7 @@
     "interphon": "/iʔ/",
     "orthoset": "saan1246-montler",
     "context": ["medial", "final"],
+    "morphological_context": "inflection",
     "notes": "Reduced form of Í¸ when unstressed; never occurs word-initially"
   }
 ]
