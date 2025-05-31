@@ -4,7 +4,33 @@
     "name": "Tamil",
     "endonym": "தமிழ்",
     "iso639_3": "tam",
-    "family": "Dravidian",
+    "classification": [
+      {
+        "level": "family",
+        "name": "Dravidian",
+        "glottocode": "drav1251"
+      },
+      {
+        "level": "subfamily",
+        "name": "South Dravidian",
+        "glottocode": "sout3133"
+      },
+      {
+        "level": "branch",
+        "name": "Tamil-Kannada",
+        "glottocode": "tami1291"
+      },
+      {
+        "level": "subbranch",
+        "name": "Tamil-Kodagu",
+        "glottocode": "tami1290"
+      },
+      {
+        "level": "group",
+        "name": "Tamil-Malayalam",
+        "glottocode": "tami1292"
+      }
+    ],
     "region": "South Asia",
     "countries": [
       "India",
@@ -18,6 +44,36 @@
     "status": "Not endangered",
     "writing_systems": [
       "Tamil"
+    ],
+    "phonology": {
+      "tonal": false,
+      "syllable_structure": "(C)V(C)",
+      "phoneme_inventory_size": "medium"
+    },
+    "dialects": [
+      {
+        "name": "Literary Tamil",
+        "region": "Pan-Tamil literary tradition",
+        "notes": "Formal register used in literature and formal contexts"
+      },
+      {
+        "name": "Colloquial Tamil",
+        "region": "Tamil Nadu, India",
+        "speakers": 60000000,
+        "notes": "Everyday spoken variety in Tamil Nadu"
+      },
+      {
+        "name": "Sri Lankan Tamil",
+        "region": "Sri Lanka",
+        "speakers": 3000000,
+        "notes": "Distinct variety with some lexical and phonological differences"
+      },
+      {
+        "name": "Malaysian Tamil",
+        "region": "Malaysia and Singapore",
+        "speakers": 2000000,
+        "notes": "Influenced by Malay and English"
+      }
     ],
     "description": "Tamil is a Dravidian language natively spoken by the Tamil people of South Asia. Tamil is an official language of the Indian state of Tamil Nadu, the sovereign nations of Sri Lanka and Singapore, and the Indian territory of Puducherry. It is also spoken by significant minorities in Malaysia, Mauritius, and other countries. Tamil is one of the longest-surviving classical languages in the world with a literary tradition spanning over 2,000 years."
   }
