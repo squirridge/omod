@@ -4,8 +4,33 @@
     "name": "Saanich (North Straits Salish)",
     "endonym": "SENĆOŦEN",
     "iso639_3": "str",
-    "family": "Salishan",
-    "subfamily": "Coast Salish",
+    "classification": [
+      {
+        "level": "family",
+        "name": "Salishan",
+        "glottocode": "sali1255"
+      },
+      {
+        "level": "subfamily",
+        "name": "Coast Salish",
+        "glottocode": "coas1325"
+      },
+      {
+        "level": "branch",
+        "name": "Central Salish",
+        "glottocode": "cent2129"
+      },
+      {
+        "level": "group",
+        "name": "Straits Salish",
+        "glottocode": "stra1246"
+      },
+      {
+        "level": "complex",
+        "name": "North Straits Salish",
+        "glottocode": "stra1244"
+      }
+    ],
     "region": "North America",
     "countries": [
       "Canada",
