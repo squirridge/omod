@@ -31,6 +31,61 @@
         "uniqueItems": true,
         "description": "Positions where this mapping applies"
       },
+      "frequency": {
+        "type": "string",
+        "enum": ["common", "uncommon", "rare", "archaic", "obsolete"],
+        "description": "How commonly this mapping is used"
+      },
+      "morphological_context": {
+        "type": "string",
+        "enum": ["root", "prefix", "suffix", "compound", "inflection", "any"],
+        "description": "Morphological environment where this mapping applies"
+      },
+      "alternates": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "interphon": { 
+              "type": "string",
+              "description": "Alternative IPA pronunciation"
+            },
+            "context": { 
+              "type": "array", 
+              "items": { 
+                "type": "string",
+                "enum": ["initial", "medial", "final", "standalone", "allophonic", "neutral"]
+              },
+              "description": "Contexts where this alternate applies"
+            },
+            "condition": { 
+              "type": "string",
+              "description": "Linguistic condition for this alternate (e.g., 'before uvular consonants')"
+            },
+            "frequency": { 
+              "type": "string", 
+              "enum": ["common", "rare", "archaic", "dialectal"],
+              "description": "How common this alternate pronunciation is"
+            },
+            "examples": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "word": { "type": "string" },
+                  "pronunciation": { "type": "string" },
+                  "meaning": { "type": "string" }
+                },
+                "required": ["word", "pronunciation"]
+              },
+              "description": "Examples of this alternate pronunciation"
+            }
+          },
+          "required": ["interphon"],
+          "additionalProperties": false
+        },
+        "description": "Alternative pronunciations for the same glyphon"
+      },
       "examples": {
         "type": "array",
         "items": {
