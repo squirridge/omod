@@ -4,13 +4,63 @@
     "name": "Vietnamese",
     "endonym": "Tiếng Việt",
     "iso639_3": "vie",
-    "family": "Austroasiatic",
-    "subfamily": "Vietic",
+    "classification": [
+      {
+        "level": "family",
+        "name": "Austroasiatic",
+        "glottocode": "aust1305"
+      },
+      {
+        "level": "subfamily",
+        "name": "Vietic",
+        "glottocode": "viet1250"
+      },
+      {
+        "level": "branch",
+        "name": "Viet-Muong",
+        "glottocode": "viet1251"
+      }
+    ],
     "region": "Southeast Asia",
-    "countries": ["Vietnam", "Cambodia", "Laos", "Thailand", "United States", "Australia"],
+    "countries": [
+      "Vietnam",
+      "Cambodia",
+      "Laos",
+      "Thailand",
+      "United States",
+      "Australia"
+    ],
     "population": 100400000,
     "status": "Not endangered",
-    "writing_systems": ["Latin"],
+    "writing_systems": [
+      "Latin"
+    ],
+    "phonology": {
+      "tonal": true,
+      "tones": 6,
+      "syllable_structure": "(C)(w)V(C)",
+      "phoneme_inventory_size": "large"
+    },
+    "dialects": [
+      {
+        "name": "Northern Vietnamese",
+        "region": "Hanoi and Northern Vietnam",
+        "speakers": 30000000,
+        "notes": "Standard dialect with 6 distinct tones"
+      },
+      {
+        "name": "Central Vietnamese",
+        "region": "Huế and Central Vietnam",
+        "speakers": 15000000,
+        "notes": "Known for distinct phonetic features and vocabulary"
+      },
+      {
+        "name": "Southern Vietnamese",
+        "region": "Saigon/Ho Chi Minh City and Southern Vietnam",
+        "speakers": 35000000,
+        "notes": "Merges some tones, resulting in 5 phonetic tones"
+      }
+    ],
     "description": "Vietnamese is the official language of Vietnam and is spoken by over 100 million people worldwide. It uses a Latin-based alphabet called Quốc ngữ with extensive tone marking diacritics to represent the language's six lexical tones. Vietnamese has three main dialectal groups: Northern (Hanoi), Central (Huế), and Southern (Saigon), with significant phonetic and tonal variations between regions."
   }
 ]
