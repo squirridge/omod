@@ -4,8 +4,33 @@
     "name": "Standard Arabic",
     "endonym": "العربية الفصحى",
     "iso639_3": "arb",
-    "family": "Afro-Asiatic",
-    "subfamily": "Semitic",
+    "classification": [
+      {
+        "level": "family",
+        "name": "Afro-Asiatic",
+        "glottocode": "afro1255"
+      },
+      {
+        "level": "subfamily",
+        "name": "Semitic",
+        "glottocode": "semi1276"
+      },
+      {
+        "level": "branch",
+        "name": "West Semitic",
+        "glottocode": "west2786"
+      },
+      {
+        "level": "subbranch",
+        "name": "Central Semitic",
+        "glottocode": "cent2236"
+      },
+      {
+        "level": "group",
+        "name": "Arabic",
+        "glottocode": "arab1395"
+      }
+    ],
     "region": "Middle East and North Africa",
     "countries": [
       "Saudi Arabia",
@@ -36,6 +61,23 @@
     "writing_systems": [
       "Arabic",
       "Latin"
+    ],
+    "phonology": {
+      "tonal": false,
+      "syllable_structure": "(C)(C)V(C)(C)",
+      "phoneme_inventory_size": "large"
+    },
+    "dialects": [
+      {
+        "name": "Classical Arabic",
+        "region": "Religious and classical texts",
+        "notes": "Language of the Quran and classical literature"
+      },
+      {
+        "name": "Modern Standard Arabic",
+        "region": "Pan-Arab media and formal contexts",
+        "notes": "Contemporary formal register used in media, education, and official communication"
+      }
     ],
     "description": "Standard Arabic is the literary and formal register of Arabic, used in writing, formal speech, news broadcasts, and religious contexts across the Arab world. It serves as the liturgical language of Islam and is the basis for Modern Standard Arabic used in contemporary media and education. While regional spoken dialects vary significantly, Standard Arabic provides a unified written form understood across Arabic-speaking regions."
   }
