@@ -74,6 +74,58 @@
         "items": { "type": "string" },
         "description": "Scripts used to write this language"
       },
+      "dialects": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": { 
+              "type": "string",
+              "description": "Name of the dialect"
+            },
+            "region": { 
+              "type": "string",
+              "description": "Geographic region where spoken"
+            },
+            "speakers": { 
+              "type": "integer",
+              "description": "Approximate number of speakers"
+            },
+            "notes": { 
+              "type": "string",
+              "description": "Additional information about this dialect"
+            }
+          },
+          "required": ["name"],
+          "additionalProperties": false
+        },
+        "description": "Major dialect divisions"
+      },
+      "phonology": {
+        "type": "object",
+        "properties": {
+          "tonal": { 
+            "type": "boolean",
+            "description": "Whether the language uses lexical tone"
+          },
+          "tones": { 
+            "type": "integer",
+            "minimum": 2,
+            "description": "Number of tones if tonal"
+          },
+          "syllable_structure": { 
+            "type": "string",
+            "description": "Typical syllable structure (e.g., 'CV', 'CVC', '(C)(C)V(C)')"
+          },
+          "phoneme_inventory_size": { 
+            "type": "string", 
+            "enum": ["small", "medium", "large"],
+            "description": "Relative size of phoneme inventory"
+          }
+        },
+        "additionalProperties": false,
+        "description": "Basic phonological typology"
+      },
       "description": {
         "type": "string",
         "description": "Brief description of the language"
@@ -83,4 +135,4 @@
     "additionalProperties": false
   },
   "minItems": 1
- }
+}
