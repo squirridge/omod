@@ -10,6 +10,135 @@
       "to": null
     },
     "region": "Southern Vietnam (Ho Chi Minh City region)",
+    "alphabet_orders": [
+      {
+        "order_type": "dictionary",
+        "sequence": [
+          "a", "á", "à", "ả", "ã", "ạ",
+          "ă", "ắ", "ằ", "ẳ", "ẵ", "ặ",
+          "â", "ấ", "ầ", "ẩ", "ẫ", "ậ",
+          "b", "c", "ch", "d", "đ",
+          "e", "é", "è", "ẻ", "ẽ", "ẹ",
+          "ê", "ế", "ề", "ể", "ễ", "ệ",
+          "g", "gh", "gi", "h", 
+          "i", "í", "ì", "ỉ", "ĩ", "ị",
+          "k", "kh", "l", "m", "n", "ng", "ngh", "nh",
+          "o", "ó", "ò", "ỏ", "õ", "ọ",
+          "ô", "ố", "ồ", "ổ", "ỗ", "ộ",
+          "ơ", "ớ", "ờ", "ở", "ỡ", "ợ",
+          "p", "ph", "qu", "r", "s", "t", "th", "tr",
+          "u", "ú", "ù", "ủ", "ũ", "ụ",
+          "ư", "ứ", "ừ", "ử", "ữ", "ự",
+          "v", "x", 
+          "y", "ý", "ỳ", "ỷ", "ỹ", "ỵ"
+        ],
+        "groups": [
+          {
+            "name": "a_variants",
+            "members": ["a", "á", "à", "ả", "ã", "ạ", "ă", "ắ", "ằ", "ẳ", "ẵ", "ặ", "â", "ấ", "ầ", "ẩ", "ẫ", "ậ"]
+          },
+          {
+            "name": "e_variants",
+            "members": ["e", "é", "è", "ẻ", "ẽ", "ẹ", "ê", "ế", "ề", "ể", "ễ", "ệ"]
+          },
+          {
+            "name": "i_y_variants",
+            "members": ["i", "í", "ì", "ỉ", "ĩ", "ị", "y", "ý", "ỳ", "ỷ", "ỹ", "ỵ"]
+          },
+          {
+            "name": "o_variants",
+            "members": ["o", "ó", "ò", "ỏ", "õ", "ọ", "ô", "ố", "ồ", "ổ", "ỗ", "ộ", "ơ", "ớ", "ờ", "ở", "ỡ", "ợ"]
+          },
+          {
+            "name": "u_variants",
+            "members": ["u", "ú", "ù", "ủ", "ũ", "ụ", "ư", "ứ", "ừ", "ử", "ữ", "ự"]
+          },
+          {
+            "name": "consonants",
+            "members": ["b", "c", "ch", "d", "đ", "g", "gh", "gi", "h", "k", "kh", "l", "m", "n", "ng", "ngh", "nh", "p", "ph", "qu", "r", "s", "t", "th", "tr", "v", "x"]
+          },
+          {
+            "name": "digraphs",
+            "members": ["ch", "gh", "gi", "kh", "ng", "ngh", "nh", "ph", "qu", "th", "tr"]
+          }
+        ],
+        "notes": "Standard Vietnamese dictionary order with tones grouped under base letters. Note: 'q' never appears alone, only in 'qu'. 'gi' is treated as a separate digraph from 'g'."
+      },
+      {
+        "order_type": "traditional",
+        "sequence": [
+          "a", "ă", "â", "b", "c", "d", "đ", "e", "ê", "g", "h", "i", "k", "l", "m", "n", "o", "ô", "ơ", "p", "r", "s", "t", "u", "ư", "v", "x", "y",
+          "á", "à", "ả", "ã", "ạ", "ắ", "ằ", "ẳ", "ẵ", "ặ", "ấ", "ầ", "ẩ", "ẫ", "ậ",
+          "é", "è", "ẻ", "ẽ", "ẹ", "ế", "ề", "ể", "ễ", "ệ",
+          "í", "ì", "ỉ", "ĩ", "ị", "ý", "ỳ", "ỷ", "ỹ", "ỵ",
+          "ó", "ò", "ỏ", "õ", "ọ", "ố", "ồ", "ổ", "ỗ", "ộ", "ớ", "ờ", "ở", "ỡ", "ợ",
+          "ú", "ù", "ủ", "ũ", "ụ", "ứ", "ừ", "ử", "ữ", "ự",
+          "ch", "gh", "gi", "kh", "ng", "ngh", "nh", "ph", "qu", "th", "tr"
+        ],
+        "groups": [
+          {
+            "name": "base_letters",
+            "members": ["a", "ă", "â", "b", "c", "d", "đ", "e", "ê", "g", "h", "i", "k", "l", "m", "n", "o", "ô", "ơ", "p", "r", "s", "t", "u", "ư", "v", "x", "y"]
+          },
+          {
+            "name": "tonal_variants",
+            "members": ["á", "à", "ả", "ã", "ạ", "ắ", "ằ", "ẳ", "ẵ", "ặ", "ấ", "ầ", "ẩ", "ẫ", "ậ", "é", "è", "ẻ", "ẽ", "ẹ", "ế", "ề", "ể", "ễ", "ệ", "í", "ì", "ỉ", "ĩ", "ị", "ý", "ỳ", "ỷ", "ỹ", "ỵ", "ó", "ò", "ỏ", "õ", "ọ", "ố", "ồ", "ổ", "ỗ", "ộ", "ớ", "ờ", "ở", "ỡ", "ợ", "ú", "ù", "ủ", "ũ", "ụ", "ứ", "ừ", "ử", "ữ", "ự"]
+          },
+          {
+            "name": "compound_consonants",
+            "members": ["ch", "gh", "gi", "kh", "ng", "ngh", "nh", "ph", "qu", "th", "tr"]
+          }
+        ],
+        "notes": "Traditional alphabet showing base forms, then tonal variants, then compound consonants"
+      },
+      {
+        "order_type": "pedagogical",
+        "sequence": [
+          "a", "o", "e", "i", "u", "y",
+          "m", "n", "l", "t", "s", "h",
+          "b", "d", "đ", "v", "r", "c", "k", "p", "g", "x",
+          "ă", "â", "ê", "ô", "ơ", "ư",
+          "á", "à", "ả", "ã", "ạ",
+          "ch", "gh", "gi", "kh", "ng", "ngh", "nh", "ph", "qu", "th", "tr",
+          "ắ", "ằ", "ẳ", "ẵ", "ặ", "ấ", "ầ", "ẩ", "ẫ", "ậ",
+          "é", "è", "ẻ", "ẽ", "ẹ", "ế", "ề", "ể", "ễ", "ệ",
+          "í", "ì", "ỉ", "ĩ", "ị", "ý", "ỳ", "ỷ", "ỹ", "ỵ",
+          "ó", "ò", "ỏ", "õ", "ọ", "ố", "ồ", "ổ", "ỗ", "ộ", "ớ", "ờ", "ở", "ỡ", "ợ",
+          "ú", "ù", "ủ", "ũ", "ụ", "ứ", "ừ", "ử", "ữ", "ự"
+        ],
+        "groups": [
+          {
+            "name": "basic_vowels",
+            "members": ["a", "o", "e", "i", "u", "y"]
+          },
+          {
+            "name": "easy_consonants",
+            "members": ["m", "n", "l", "t", "s", "h"]
+          },
+          {
+            "name": "harder_consonants",
+            "members": ["b", "d", "đ", "v", "r", "c", "k", "p", "g", "x"]
+          },
+          {
+            "name": "modified_vowels",
+            "members": ["ă", "â", "ê", "ô", "ơ", "ư"]
+          },
+          {
+            "name": "basic_tones",
+            "members": ["á", "à", "ả", "ã", "ạ"]
+          },
+          {
+            "name": "consonant_clusters",
+            "members": ["ch", "gh", "gi", "kh", "ng", "ngh", "nh", "ph", "qu", "th", "tr"]
+          },
+          {
+            "name": "all_tonal_variants",
+            "members": ["ắ", "ằ", "ẳ", "ẵ", "ặ", "ấ", "ầ", "ẩ", "ẫ", "ậ", "é", "è", "ẻ", "ẽ", "ẹ", "ế", "ề", "ể", "ễ", "ệ", "í", "ì", "ỉ", "ĩ", "ị", "ý", "ỳ", "ỷ", "ỹ", "ỵ", "ó", "ò", "ỏ", "õ", "ọ", "ố", "ồ", "ổ", "ỗ", "ộ", "ớ", "ờ", "ở", "ỡ", "ợ", "ú", "ù", "ủ", "ũ", "ụ", "ứ", "ừ", "ử", "ữ", "ự"]
+          }
+        ],
+        "notes": "Teaching order progressing from simple vowels and consonants to modified vowels, tones, and finally all combinations"
+      }
+    ],
     "description": "Latin-based Vietnamese orthography with tone diacritics, representing the Saigon (Southern Vietnamese) dialect pronunciation. This variety is characterized by specific phonetic realizations that may differ from Northern (Hanoi) and Central Vietnamese dialects.",
     "source": {
       "title": "Vietnamese Phonology and Orthography: Southern Dialect",
