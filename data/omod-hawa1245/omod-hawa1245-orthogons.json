@@ -1,0 +1,494 @@
+[
+  {
+    "glyphon": "a",
+    "interphon": "/a/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "aloha", "pronunciation": "/aˈloha/", "meaning": "love, hello, goodbye"},
+      {"word": "papa", "pronunciation": "/ˈpapa/", "meaning": "board, class"},
+      {"word": "ka", "pronunciation": "/ka/", "meaning": "the"}
+    ]
+  },
+  {
+    "glyphon": "ā",
+    "interphon": "/aː/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "lā", "pronunciation": "/laː/", "meaning": "sun, day"},
+      {"word": "kāne", "pronunciation": "/ˈkaːne/", "meaning": "man, male"},
+      {"word": "mālama", "pronunciation": "/maːˈlama/", "meaning": "to care for"}
+    ]
+  },
+  {
+    "glyphon": "e",
+    "interphon": "/e/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final", "standalone"],
+    "alternates": [
+      {
+        "interphon": "/ɛ/",
+        "context": ["medial"],
+        "condition": "In stressed short syllables",
+        "frequency": "common"
+      }
+    ],
+    "examples": [
+      {"word": "hele", "pronunciation": "/ˈhele/", "meaning": "to go"},
+      {"word": "nene", "pronunciation": "/ˈnene/", "meaning": "Hawaiian goose"},
+      {"word": "me", "pronunciation": "/me/", "meaning": "with"}
+    ]
+  },
+  {
+    "glyphon": "ē",
+    "interphon": "/eː/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "kēia", "pronunciation": "/ˈkeːja/", "meaning": "this"},
+      {"word": "lē", "pronunciation": "/leː/", "meaning": "wrong, different"},
+      {"word": "nēnē", "pronunciation": "/ˈneːneː/", "meaning": "Hawaiian goose (variant)"}
+    ]
+  },
+  {
+    "glyphon": "i",
+    "interphon": "/i/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "wiki", "pronunciation": "/ˈwiki/", "meaning": "quick, fast"},
+      {"word": "pili", "pronunciation": "/ˈpili/", "meaning": "to stick, cling"},
+      {"word": "i", "pronunciation": "/i/", "meaning": "to, at"}
+    ]
+  },
+  {
+    "glyphon": "ī",
+    "interphon": "/iː/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "kīhei", "pronunciation": "/ˈkiːhei/", "meaning": "shawl, cape"},
+      {"word": "ī", "pronunciation": "/iː/", "meaning": "to say"},
+      {"word": "wīkī", "pronunciation": "/ˈwiːkiː/", "meaning": "quickly"}
+    ]
+  },
+  {
+    "glyphon": "o",
+    "interphon": "/o/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "loko", "pronunciation": "/ˈloko/", "meaning": "inside, interior"},
+      {"word": "ono", "pronunciation": "/ˈono/", "meaning": "delicious"},
+      {"word": "o", "pronunciation": "/o/", "meaning": "of, or"}
+    ]
+  },
+  {
+    "glyphon": "ō",
+    "interphon": "/oː/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "kōkua", "pronunciation": "/ˈkoːkua/", "meaning": "help, assistance"},
+      {"word": "ʻō", "pronunciation": "/ʔoː/", "meaning": "to answer"},
+      {"word": "lōʻihi", "pronunciation": "/ˈloːʔihi/", "meaning": "long, tall"}
+    ]
+  },
+  {
+    "glyphon": "u",
+    "interphon": "/u/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "hulu", "pronunciation": "/ˈhulu/", "meaning": "feather"},
+      {"word": "kupuna", "pronunciation": "/kuˈpuna/", "meaning": "grandparent, ancestor"},
+      {"word": "pau", "pronunciation": "/ˈpau/", "meaning": "finished"}
+    ]
+  },
+  {
+    "glyphon": "ū",
+    "interphon": "/uː/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "pūʻolo", "pronunciation": "/ˈpuːʔolo/", "meaning": "bundle, package"},
+      {"word": "ū", "pronunciation": "/uː/", "meaning": "breast, udder"},
+      {"word": "kūpuna", "pronunciation": "/ˈkuːpuna/", "meaning": "elder (variant)"}
+    ]
+  },
+  {
+    "glyphon": "h",
+    "interphon": "/h/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial"],
+    "examples": [
+      {"word": "hale", "pronunciation": "/ˈhale/", "meaning": "house"},
+      {"word": "mahalo", "pronunciation": "/maˈhalo/", "meaning": "thank you"},
+      {"word": "aloha", "pronunciation": "/aˈloha/", "meaning": "love"}
+    ]
+  },
+  {
+    "glyphon": "k",
+    "interphon": "/k/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final"],
+    "alternates": [
+      {
+        "interphon": "/t/",
+        "context": ["initial", "medial", "final"],
+        "condition": "Niʻihau dialect",
+        "frequency": "dialectal",
+        "examples": [
+          {"word": "kanaka", "pronunciation": "/taˈnata/", "meaning": "person (Niʻihau)"}
+        ]
+      }
+    ],
+    "examples": [
+      {"word": "kai", "pronunciation": "/ˈkai/", "meaning": "ocean, sea water"},
+      {"word": "akua", "pronunciation": "/aˈkua/", "meaning": "god, deity"},
+      {"word": "moku", "pronunciation": "/ˈmoku/", "meaning": "island, district"}
+    ]
+  },
+  {
+    "glyphon": "l",
+    "interphon": "/l/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final"],
+    "alternates": [
+      {
+        "interphon": "/ɾ/",
+        "context": ["medial"],
+        "condition": "Some speakers in fast speech",
+        "frequency": "rare"
+      }
+    ],
+    "examples": [
+      {"word": "luna", "pronunciation": "/ˈluna/", "meaning": "high, above, supervisor"},
+      {"word": "aloha", "pronunciation": "/aˈloha/", "meaning": "love"},
+      {"word": "pōpōlī", "pronunciation": "/poːˈpoːliː/", "meaning": "depression"}
+    ]
+  },
+  {
+    "glyphon": "m",
+    "interphon": "/m/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      {"word": "manu", "pronunciation": "/ˈmanu/", "meaning": "bird"},
+      {"word": "māmā", "pronunciation": "/ˈmaːmaː/", "meaning": "mother"},
+      {"word": "hiamoe", "pronunciation": "/hiaˈmoe/", "meaning": "sleep"}
+    ]
+  },
+  {
+    "glyphon": "n",
+    "interphon": "/n/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      {"word": "nani", "pronunciation": "/ˈnani/", "meaning": "beautiful"},
+      {"word": "kanaka", "pronunciation": "/kaˈnaka/", "meaning": "person"},
+      {"word": "ʻāina", "pronunciation": "/ˈʔaːina/", "meaning": "land"}
+    ]
+  },
+  {
+    "glyphon": "p",
+    "interphon": "/p/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      {"word": "pua", "pronunciation": "/ˈpua/", "meaning": "flower"},
+      {"word": "papa", "pronunciation": "/ˈpapa/", "meaning": "board, flat surface"},
+      {"word": "hope", "pronunciation": "/ˈhope/", "meaning": "hope, last"}
+    ]
+  },
+  {
+    "glyphon": "w",
+    "interphon": "/w/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial"],
+    "alternates": [
+      {
+        "interphon": "/v/",
+        "context": ["initial", "medial"],
+        "condition": "After /i/ or /e/",
+        "frequency": "common",
+        "examples": [
+          {"word": "Hawaiʻi", "pronunciation": "/haˈvaiʔi/", "meaning": "Hawaii"},
+          {"word": "ʻewa", "pronunciation": "/ˈʔeva/", "meaning": "crooked"}
+        ]
+      },
+      {
+        "interphon": "/v/",
+        "context": ["initial"],
+        "condition": "Word-initial position (variable)",
+        "frequency": "common",
+        "examples": [
+          {"word": "wiki", "pronunciation": "/ˈviki/", "meaning": "quick"}
+        ]
+      }
+    ],
+    "examples": [
+      {"word": "wai", "pronunciation": "/ˈwai/", "meaning": "water"},
+      {"word": "āwili", "pronunciation": "/aːˈwili/", "meaning": "to mix"},
+      {"word": "hāweo", "pronunciation": "/haːˈweo/", "meaning": "to glimmer"}
+    ]
+  },
+  {
+    "glyphon": "ʻ",
+    "interphon": "/ʔ/",
+    "orthoset": "hawa1245-standard",
+    "context": ["initial", "medial"],
+    "examples": [
+      {"word": "ʻono", "pronunciation": "/ˈʔono/", "meaning": "delicious"},
+      {"word": "Hawaiʻi", "pronunciation": "/haˈwaiʔi/", "meaning": "Hawaii"},
+      {"word": "koʻolau", "pronunciation": "/koˈʔolau/", "meaning": "windward"}
+    ],
+    "notes": "The ʻokina (glottal stop) is a consonant letter, not punctuation"
+  },
+  {
+    "glyphon": "a",
+    "interphon": "/a/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "aloha", "pronunciation": "/aˈloha/", "meaning": "love"},
+      {"word": "mahalo", "pronunciation": "/maˈhalo/", "meaning": "thanks"}
+    ],
+    "notes": "No length distinction in casual orthography"
+  },
+  {
+    "glyphon": "e",
+    "interphon": "/e/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "keiki", "pronunciation": "/ˈkeiki/", "meaning": "child"}
+    ]
+  },
+  {
+    "glyphon": "i",
+    "interphon": "/i/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "wiki", "pronunciation": "/ˈwiki/", "meaning": "quick"}
+    ]
+  },
+  {
+    "glyphon": "o",
+    "interphon": "/o/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "kokua", "pronunciation": "/koˈkua/", "meaning": "help"}
+    ]
+  },
+  {
+    "glyphon": "u",
+    "interphon": "/u/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "pau", "pronunciation": "/ˈpau/", "meaning": "finished"}
+    ]
+  },
+  {
+    "glyphon": "h",
+    "interphon": "/h/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial"],
+    "examples": [
+      {"word": "hula", "pronunciation": "/ˈhula/", "meaning": "dance"}
+    ]
+  },
+  {
+    "glyphon": "k",
+    "interphon": "/k/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      {"word": "kapu", "pronunciation": "/ˈkapu/", "meaning": "forbidden"}
+    ]
+  },
+  {
+    "glyphon": "l",
+    "interphon": "/l/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      {"word": "luau", "pronunciation": "/luˈau/", "meaning": "feast"}
+    ]
+  },
+  {
+    "glyphon": "m",
+    "interphon": "/m/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      {"word": "mana", "pronunciation": "/ˈmana/", "meaning": "spiritual power"}
+    ]
+  },
+  {
+    "glyphon": "n",
+    "interphon": "/n/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      {"word": "nui", "pronunciation": "/ˈnui/", "meaning": "big"}
+    ]
+  },
+  {
+    "glyphon": "p",
+    "interphon": "/p/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial", "final"],
+    "examples": [
+      {"word": "pono", "pronunciation": "/ˈpono/", "meaning": "righteousness"}
+    ]
+  },
+  {
+    "glyphon": "w",
+    "interphon": "/w/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial"],
+    "alternates": [
+      {
+        "interphon": "/v/",
+        "context": ["initial", "medial"],
+        "condition": "Variable by speaker",
+        "frequency": "common"
+      }
+    ],
+    "examples": [
+      {"word": "wahine", "pronunciation": "/waˈhine/", "meaning": "woman"}
+    ]
+  },
+  {
+    "glyphon": "'",
+    "interphon": "/ʔ/",
+    "orthoset": "hawa1245-casual",
+    "context": ["initial", "medial"],
+    "frequency": "uncommon",
+    "examples": [
+      {"word": "Hawai'i", "pronunciation": "/haˈwaiʔi/", "meaning": "Hawaii"}
+    ],
+    "notes": "Apostrophe sometimes used for ʻokina in ASCII contexts"
+  },
+  {
+    "glyphon": "a",
+    "interphon": "/a/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final", "standalone"],
+    "examples": [
+      {"word": "aroha", "pronunciation": "/aˈɾoha/", "meaning": "love (missionary spelling)"}
+    ],
+    "notes": "Early missionary orthography: no glottal stop or length marking"
+  },
+  {
+    "glyphon": "e",
+    "interphon": "/e/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final", "standalone"]
+  },
+  {
+    "glyphon": "i",
+    "interphon": "/i/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final", "standalone"]
+  },
+  {
+    "glyphon": "o",
+    "interphon": "/o/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final", "standalone"]
+  },
+  {
+    "glyphon": "u",
+    "interphon": "/u/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final", "standalone"]
+  },
+  {
+    "glyphon": "h",
+    "interphon": "/h/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial"]
+  },
+  {
+    "glyphon": "k",
+    "interphon": "/k/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final"]
+  },
+  {
+    "glyphon": "l",
+    "interphon": "/l/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final"],
+    "alternates": [
+      {
+        "interphon": "/ɾ/",
+        "context": ["initial", "medial", "final"],
+        "condition": "Sometimes written as 'r' in early texts",
+        "frequency": "archaic"
+      }
+    ]
+  },
+  {
+    "glyphon": "m",
+    "interphon": "/m/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final"]
+  },
+  {
+    "glyphon": "n",
+    "interphon": "/n/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final"]
+  },
+  {
+    "glyphon": "p",
+    "interphon": "/p/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final"]
+  },
+  {
+    "glyphon": "w",
+    "interphon": "/w/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial"],
+    "alternates": [
+      {
+        "interphon": "/v/",
+        "context": ["initial", "medial"],
+        "condition": "Sometimes written as 'v' in early texts",
+        "frequency": "archaic"
+      }
+    ]
+  },
+  {
+    "glyphon": "r",
+    "interphon": "/ɾ/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final"],
+    "frequency": "obsolete",
+    "notes": "Used in earliest missionary texts (1820s) before standardization to 'l'"
+  },
+  {
+    "glyphon": "t",
+    "interphon": "/t/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial", "final"],
+    "frequency": "obsolete",
+    "notes": "Used in earliest missionary texts before standardization to 'k'"
+  },
+  {
+    "glyphon": "v",
+    "interphon": "/v/",
+    "orthoset": "hawa1245-missionary",
+    "context": ["initial", "medial"],
+    "frequency": "obsolete",
+    "notes": "Used variably for [w]/[v] sounds before standardization"
+  }
+]
