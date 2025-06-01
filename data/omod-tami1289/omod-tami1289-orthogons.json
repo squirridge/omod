@@ -72,7 +72,7 @@
     "context": ["initial", "medial", "standalone"],
     "examples": [
       { "word": "எல்லாம்", "pronunciation": "ellaːm", "meaning": "all" },
-      { "word": "செய்", "pronunciation": "t͡ʃej", "meaning": "do" },
+      { "word": "செய்", "pronunciation": "ʧej", "meaning": "do" },
       { "word": "எ", "pronunciation": "e", "meaning": "the letter 'e'" }
     ]
   },
@@ -117,7 +117,7 @@
     "examples": [
       { "word": "ஓடு", "pronunciation": "oːɖu", "meaning": "run" },
       { "word": "போ", "pronunciation": "poː", "meaning": "go" },
-      { "word": "சோறு", "pronunciation": "t͡ʃoːru", "meaning": "cooked rice" }
+      { "word": "சோறு", "pronunciation": "ʧoːru", "meaning": "cooked rice" }
     ]
   },
   {
@@ -166,13 +166,13 @@
   },
   {
     "glyphon": "ச்",
-    "interphon": "t͡ʃ",
+    "interphon": "ʧ",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial", "final"],
     "examples": [
-      { "word": "சட்டை", "pronunciation": "t͡ʃaʈʈai̯", "meaning": "shirt" },
-      { "word": "அச்சம்", "pronunciation": "at͡ʃt͡ʃam", "meaning": "fear" },
-      { "word": "மரச்", "pronunciation": "maɾat͡ʃ", "meaning": "wooden (as prefix)" }
+      { "word": "சட்டை", "pronunciation": "ʧaʈʈai̯", "meaning": "shirt" },
+      { "word": "அச்சம்", "pronunciation": "aʧʧam", "meaning": "fear" },
+      { "word": "மரச்", "pronunciation": "maɾaʧ", "meaning": "wooden (as prefix)" }
     ]
   },
   {
@@ -181,8 +181,8 @@
     "orthoset": "tami1289-modern",
     "context": ["medial", "final"],
     "examples": [
-      { "word": "பஞ்சு", "pronunciation": "paɲt͡ʃu", "meaning": "cotton" },
-      { "word": "ஆஞ்சனேயர்", "pronunciation": "aːɲt͡ʃaneːjar", "meaning": "Hanuman" },
+      { "word": "பஞ்சு", "pronunciation": "paɲʧu", "meaning": "cotton" },
+      { "word": "ஆஞ்சனேயர்", "pronunciation": "aːɲʧaneːjar", "meaning": "Hanuman" },
       { "word": "எஞ்", "pronunciation": "eɲ", "meaning": "remain (as prefix)" }
     ]
   },
@@ -215,7 +215,7 @@
     "context": ["initial", "medial", "final"],
     "examples": [
       { "word": "பத்து", "pronunciation": "pat̪t̪u", "meaning": "ten" },
-      { "word": "சித்தம்", "pronunciation": "t͡ʃit̪t̪am", "meaning": "mind" },
+      { "word": "சித்தம்", "pronunciation": "ʧit̪t̪am", "meaning": "mind" },
       { "word": "வித்", "pronunciation": "ʋit̪", "meaning": "seed (as prefix)" }
     ]
   },
@@ -259,7 +259,7 @@
     "context": ["medial", "final"],
     "examples": [
       { "word": "ஐயா", "pronunciation": "ai̯jaː", "meaning": "sir" },
-      { "word": "செய்தி", "pronunciation": "t͡ʃejt̪i", "meaning": "news" },
+      { "word": "செய்தி", "pronunciation": "ʧejt̪i", "meaning": "news" },
       { "word": "பொய்", "pronunciation": "poj", "meaning": "lie/falsehood" }
     ]
   },
@@ -417,7 +417,7 @@
     "context": ["initial", "medial"],
     "examples": [
       { "word": "கேள்வி", "pronunciation": "keːɭʋi", "meaning": "question" },
-      { "word": "மகேசன்", "pronunciation": "makeːt͡ʃan", "meaning": "Mahesan (name)" }
+      { "word": "மகேசன்", "pronunciation": "makeːʧan", "meaning": "Mahesan (name)" }
     ]
   },
   {
@@ -571,122 +571,122 @@
   },
   {
     "glyphon": "ச",
-    "interphon": "t͡ʃa",
+    "interphon": "ʧa",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "சரம்", "pronunciation": "t͡ʃaɾam", "meaning": "garland" },
-      { "word": "அசல்", "pronunciation": "at͡ʃal", "meaning": "original" }
+      { "word": "சரம்", "pronunciation": "ʧaɾam", "meaning": "garland" },
+      { "word": "அசல்", "pronunciation": "aʧal", "meaning": "original" }
     ]
   },
   {
     "glyphon": "சா",
-    "interphon": "t͡ʃaː",
+    "interphon": "ʧaː",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial", "final"],
     "examples": [
-      { "word": "சாலை", "pronunciation": "t͡ʃaːlai̯", "meaning": "road" },
-      { "word": "பசார்", "pronunciation": "pat͡ʃaːr", "meaning": "bazaar" }
+      { "word": "சாலை", "pronunciation": "ʧaːlai̯", "meaning": "road" },
+      { "word": "பசார்", "pronunciation": "paʧaːr", "meaning": "bazaar" }
     ]
   },
   {
     "glyphon": "சி",
-    "interphon": "t͡ʃi",
+    "interphon": "ʧi",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "சிவப்பு", "pronunciation": "t͡ʃivappu", "meaning": "red" },
-      { "word": "கசிவு", "pronunciation": "kat͡ʃivu", "meaning": "leakage" }
+      { "word": "சிவப்பு", "pronunciation": "ʧivappu", "meaning": "red" },
+      { "word": "கசிவு", "pronunciation": "kaʧivu", "meaning": "leakage" }
     ]
   },
   {
     "glyphon": "சீ",
-    "interphon": "t͡ʃiː",
+    "interphon": "ʧiː",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "சீக்கிரம்", "pronunciation": "t͡ʃiːkkiɾam", "meaning": "quickly" },
-      { "word": "நசீம்", "pronunciation": "nat͡ʃiːm", "meaning": "Naseem (name)" }
+      { "word": "சீக்கிரம்", "pronunciation": "ʧiːkkiɾam", "meaning": "quickly" },
+      { "word": "நசீம்", "pronunciation": "naʧiːm", "meaning": "Naseem (name)" }
     ]
   },
   {
     "glyphon": "சு",
-    "interphon": "t͡ʃu",
+    "interphon": "ʧu",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "சுவர்", "pronunciation": "t͡ʃuvar", "meaning": "wall" },
-      { "word": "பசும்", "pronunciation": "pat͡ʃum", "meaning": "green/fresh" }
+      { "word": "சுவர்", "pronunciation": "ʧuvar", "meaning": "wall" },
+      { "word": "பசும்", "pronunciation": "paʧum", "meaning": "green/fresh" }
     ]
   },
   {
     "glyphon": "சூ",
-    "interphon": "t͡ʃuː",
+    "interphon": "ʧuː",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "சூரியன்", "pronunciation": "t͡ʃuːrijan", "meaning": "sun" },
-      { "word": "கசூரம்", "pronunciation": "kat͡ʃuːɾam", "meaning": "defective (rare)" }
+      { "word": "சூரியன்", "pronunciation": "ʧuːrijan", "meaning": "sun" },
+      { "word": "கசூரம்", "pronunciation": "kaʧuːɾam", "meaning": "defective (rare)" }
     ]
   },
   {
     "glyphon": "செ",
-    "interphon": "t͡ʃe",
+    "interphon": "ʧe",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "செய்தி", "pronunciation": "t͡ʃejt̪i", "meaning": "news" },
-      { "word": "அசெளகரியம்", "pronunciation": "at͡ʃeau̯kaɾijam", "meaning": "inconvenience" }
+      { "word": "செய்தி", "pronunciation": "ʧejt̪i", "meaning": "news" },
+      { "word": "அசெளகரியம்", "pronunciation": "aʧeau̯kaɾijam", "meaning": "inconvenience" }
     ]
   },
   {
     "glyphon": "சே",
-    "interphon": "t͡ʃeː",
+    "interphon": "ʧeː",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "சேவல்", "pronunciation": "t͡ʃeːval", "meaning": "rooster" },
-      { "word": "அசேதனம்", "pronunciation": "at͡ʃeːt̪anam", "meaning": "inanimate" }
+      { "word": "சேவல்", "pronunciation": "ʧeːval", "meaning": "rooster" },
+      { "word": "அசேதனம்", "pronunciation": "aʧeːt̪anam", "meaning": "inanimate" }
     ]
   },
   {
     "glyphon": "சை",
-    "interphon": "t͡ʃai̯",
+    "interphon": "ʧai̯",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "சைவம்", "pronunciation": "t͡ʃai̯vam", "meaning": "Shaivism" },
-      { "word": "அசைவு", "pronunciation": "at͡ʃai̯vu", "meaning": "movement" }
+      { "word": "சைவம்", "pronunciation": "ʧai̯vam", "meaning": "Shaivism" },
+      { "word": "அசைவு", "pronunciation": "aʧai̯vu", "meaning": "movement" }
     ]
   },
   {
     "glyphon": "சொ",
-    "interphon": "t͡ʃo",
+    "interphon": "ʧo",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "சொல்", "pronunciation": "t͡ʃol", "meaning": "word" },
-      { "word": "அசொகன்", "pronunciation": "at͡ʃokan", "meaning": "Ashoka (name)" }
+      { "word": "சொல்", "pronunciation": "ʧol", "meaning": "word" },
+      { "word": "அசொகன்", "pronunciation": "aʧokan", "meaning": "Ashoka (name)" }
     ]
   },
   {
     "glyphon": "சோ",
-    "interphon": "t͡ʃoː",
+    "interphon": "ʧoː",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "சோறு", "pronunciation": "t͡ʃoːru", "meaning": "cooked rice" },
-      { "word": "அசோகன்", "pronunciation": "at͡ʃoːkan", "meaning": "Ashoka (name)" }
+      { "word": "சோறு", "pronunciation": "ʧoːru", "meaning": "cooked rice" },
+      { "word": "அசோகன்", "pronunciation": "aʧoːkan", "meaning": "Ashoka (name)" }
     ]
   },
   {
     "glyphon": "சௌ",
-    "interphon": "t͡ʃau̯",
+    "interphon": "ʧau̯",
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "சௌகரியம்", "pronunciation": "t͡ʃau̯kaɾijam", "meaning": "convenience" },
-      { "word": "அசௌகரியம்", "pronunciation": "at͡ʃau̯kaɾijam", "meaning": "inconvenience" }
+      { "word": "சௌகரியம்", "pronunciation": "ʧau̯kaɾijam", "meaning": "convenience" },
+      { "word": "அசௌகரியம்", "pronunciation": "aʧau̯kaɾijam", "meaning": "inconvenience" }
     ]
   },
   {
@@ -1365,7 +1365,7 @@
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "பேச்சு", "pronunciation": "peːt͡ʃt͡ʃu", "meaning": "speech" },
+      { "word": "பேச்சு", "pronunciation": "peːʧʧu", "meaning": "speech" },
       { "word": "அபேதம்", "pronunciation": "apeːt̪am", "meaning": "undifferentiated" }
     ]
   },
@@ -2236,7 +2236,7 @@
     "context": ["initial", "medial"],
     "examples": [
       { "word": "ளோகம்", "pronunciation": "ɭoːɣam", "meaning": "world (archaic)" },
-      { "word": "களோச்சியம்", "pronunciation": "kaɭoːt͡ʃt͡ʃijam", "meaning": "happiness (archaic)" }
+      { "word": "களோச்சியம்", "pronunciation": "kaɭoːʧʧijam", "meaning": "happiness (archaic)" }
     ]
   },
   {
@@ -2275,7 +2275,7 @@
     "orthoset": "tami1289-modern",
     "context": ["initial", "medial"],
     "examples": [
-      { "word": "றிஞ்சுதல்", "pronunciation": "riɲt͡ʃut̪al", "meaning": "to exceed (colloquial)" },
+      { "word": "றிஞ்சுதல்", "pronunciation": "riɲʧut̪al", "meaning": "to exceed (colloquial)" },
       { "word": "குறிப்பு", "pronunciation": "kurippu", "meaning": "note/hint" }
     ]
   },
