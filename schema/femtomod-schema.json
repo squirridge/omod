@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/your-org/omod/femtomod-schema.json",
+  "$id": "https://github.com/squirridge/omod/schema/femtomod-schema.json",
   "title": "Femtomod - Minimal Orthographic-Phonetic Mappings with Orthoset Variants",
   "description": "Lightweight schema supporting multiple orthographic systems via differential encoding. Optimized for phonetic conversion tools, TTS/ASR preprocessing, and mobile applications.",
   "version": "1.0.0",
