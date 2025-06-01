@@ -1,0 +1,160 @@
+[
+  {
+    "id": "hawa1245-standard",
+    "name": "Standard Hawaiian Orthography",
+    "script": "Latin",
+    "direction": "ltr",
+    "status": "current",
+    "period": {
+      "from": 1978,
+      "to": null
+    },
+    "region": "Hawaii, United States",
+    "unicode_blocks": [
+      "Basic Latin",
+      "Latin Extended-A",
+      "Spacing Modifier Letters"
+    ],
+    "character_relationships": [
+      {
+        "base": "a",
+        "derived": ["ā"],
+        "relationship": "diacritic",
+        "notes": "Macron (kahakō) indicates long vowel"
+      },
+      {
+        "base": "e",
+        "derived": ["ē"],
+        "relationship": "diacritic"
+      },
+      {
+        "base": "i",
+        "derived": ["ī"],
+        "relationship": "diacritic"
+      },
+      {
+        "base": "o",
+        "derived": ["ō"],
+        "relationship": "diacritic"
+      },
+      {
+        "base": "u",
+        "derived": ["ū"],
+        "relationship": "diacritic"
+      }
+    ],
+    "alphabet_orders": [
+      {
+        "order_type": "traditional",
+        "sequence": ["a", "ā", "e", "ē", "h", "i", "ī", "k", "l", "m", "n", "o", "ō", "p", "u", "ū", "w", "ʻ"],
+        "groups": [
+          {
+            "name": "vowels",
+            "members": ["a", "ā", "e", "ē", "i", "ī", "o", "ō", "u", "ū"]
+          },
+          {
+            "name": "consonants",
+            "members": ["h", "k", "l", "m", "n", "p", "w", "ʻ"]
+          }
+        ],
+        "notes": "Traditional Hawaiian alphabetical order places vowels before consonants"
+      },
+      {
+        "order_type": "dictionary",
+        "sequence": ["ʻ", "a", "ā", "e", "ē", "h", "i", "ī", "k", "l", "m", "n", "o", "ō", "p", "u", "ū", "w"],
+        "groups": [
+          {
+            "name": "ʻokina",
+            "members": ["ʻ"]
+          },
+          {
+            "name": "vowels",
+            "members": ["a", "ā", "e", "ē", "i", "ī", "o", "ō", "u", "ū"]
+          },
+          {
+            "name": "consonants",
+            "members": ["h", "k", "l", "m", "n", "p", "w"]
+          }
+        ],
+        "notes": "Modern dictionary order places ʻokina first"
+      }
+    ],
+    "description": "Modern standard Hawaiian orthography established in 1978 by the Hawaiian Spelling Project (ʻAhahui ʻŌlelo Hawaiʻi). Uses 13 letters: 5 vowels (with length distinction marked by macron/kahakō) and 8 consonants including the ʻokina (ʻ) for glottal stop.",
+    "source": {
+      "title": "Recommendations and Comments on the Hawaiian Spelling Project",
+      "author": "ʻAhahui ʻŌlelo Hawaiʻi",
+      "year": 1978
+    }
+  },
+  {
+    "id": "hawa1245-casual",
+    "name": "Casual Hawaiian Orthography",
+    "script": "Latin",
+    "direction": "ltr",
+    "status": "informal",
+    "period": {
+      "from": 1820,
+      "to": null
+    },
+    "region": "Hawaii, United States",
+    "unicode_blocks": [
+      "Basic Latin"
+    ],
+    "alphabet_orders": [
+      {
+        "order_type": "traditional",
+        "sequence": ["a", "e", "h", "i", "k", "l", "m", "n", "o", "p", "u", "w"],
+        "groups": [
+          {
+            "name": "vowels",
+            "members": ["a", "e", "i", "o", "u"]
+          },
+          {
+            "name": "consonants",
+            "members": ["h", "k", "l", "m", "n", "p", "w"]
+          }
+        ],
+        "notes": "12-letter alphabet without diacritics"
+      }
+    ],
+    "description": "Informal Hawaiian writing without diacritical marks, used in ASCII-limited contexts like text messages, older computer systems, and casual writing. Omits the ʻokina and kahakō, sometimes using apostrophe (') as a substitute for ʻokina.",
+    "parent": "hawa1245-standard"
+  },
+  {
+    "id": "hawa1245-missionary",
+    "name": "Missionary Hawaiian Orthography",
+    "script": "Latin",
+    "direction": "ltr",
+    "status": "historical",
+    "period": {
+      "from": 1822,
+      "to": 1864
+    },
+    "region": "Hawaiian Kingdom",
+    "unicode_blocks": [
+      "Basic Latin"
+    ],
+    "alphabet_orders": [
+      {
+        "order_type": "traditional",
+        "sequence": ["a", "e", "h", "i", "k", "l", "m", "n", "o", "p", "r", "t", "u", "v", "w"],
+        "groups": [
+          {
+            "name": "vowels",
+            "members": ["a", "e", "i", "o", "u"]
+          },
+          {
+            "name": "consonants_retained",
+            "members": ["h", "k", "l", "m", "n", "p", "w"]
+          },
+          {
+            "name": "consonants_dropped",
+            "members": ["r", "t", "v"]
+          }
+        ],
+        "notes": "Early alphabet included letters later removed"
+      }
+    ],
+    "description": "Early orthography developed by American missionaries starting in 1822. Initially used 17 letters including r, t, and v which were eliminated by 1826. Did not mark glottal stops or vowel length. Used in early Hawaiian newspapers and the first Hawaiian Bible translation."
+  }
+]
