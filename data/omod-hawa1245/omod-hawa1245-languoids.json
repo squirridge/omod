@@ -1,0 +1,70 @@
+[
+  {
+    "glottocode": "hawa1245",
+    "name": "Hawaiian",
+    "endonym": "ʻŌlelo Hawaiʻi",
+    "iso639_3": "haw",
+    "classification": [
+      {
+        "level": "family",
+        "name": "Austronesian",
+        "glottocode": "aust1307"
+      },
+      {
+        "level": "subfamily",
+        "name": "Malayo-Polynesian",
+        "glottocode": "mala1545"
+      },
+      {
+        "level": "branch",
+        "name": "Oceanic",
+        "glottocode": "ocea1241"
+      },
+      {
+        "level": "subbranch",
+        "name": "Central Pacific",
+        "glottocode": "cent2060"
+      },
+      {
+        "level": "group",
+        "name": "East Polynesian",
+        "glottocode": "east2449"
+      }
+    ],
+    "region": "Pacific",
+    "countries": [
+      "United States"
+    ],
+    "population": 24000,
+    "status": "Critically endangered",
+    "writing_systems": [
+      "Latin"
+    ],
+    "dialects": [
+      {
+        "name": "Standard Hawaiian",
+        "region": "All Hawaiian islands (educational standard)",
+        "speakers": 20000,
+        "notes": "Modern standardized form taught in schools and universities"
+      },
+      {
+        "name": "Niʻihau Hawaiian",
+        "region": "Niʻihau island",
+        "speakers": 130,
+        "notes": "Only dialect with unbroken intergenerational transmission; preserves [t] for standard [k]"
+      },
+      {
+        "name": "Molokaʻi-Lānaʻi Hawaiian",
+        "region": "Molokaʻi and Lānaʻi islands",
+        "speakers": 50,
+        "notes": "Nearly extinct regional variety"
+      }
+    ],
+    "phonology": {
+      "tonal": false,
+      "syllable_structure": "(C)V",
+      "phoneme_inventory_size": "small"
+    },
+    "description": "Hawaiian is a Polynesian language native to the Hawaiian Islands. Following severe decline after 1896 English-only education laws, it has experienced significant revitalization since 1978 when it became co-official with English. The language has one of the world's smallest phoneme inventories with only 8 consonants and 5 vowels (plus length distinction)."
+  }
+]
