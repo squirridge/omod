@@ -54,13 +54,24 @@
             "description": "Primary IPA phoneme using standard IPA characters (no slashes/brackets)"
           },
           "c": {
-            "type": "array",
-            "items": {
-              "type": "string",
-              "enum": ["i", "m", "f", "s"]
-            },
-            "uniqueItems": true,
-            "description": "Context: i=initial, m=medial, f=final, s=standalone"
+            "oneOf": [
+              {
+                "type": "string",
+                "enum": ["i", "m", "f", "s", "n"],
+                "description": "Single context or n=neutral (all contexts)"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": ["i", "m", "f", "s"]
+                },
+                "uniqueItems": true,
+                "minItems": 1,
+                "description": "Multiple specific contexts"
+              }
+            ],
+            "description": "Context: i=initial, m=medial, f=final, s=standalone, n=neutral (all contexts), or array for combinations"
           },
           "f": {
             "type": "string",
@@ -90,14 +101,6 @@
             "pattern": "^[a-z][a-z0-9-]*$",
             "description": "Orthoset variant identifier (lowercase alphanumeric with hyphens)"
           },
-          "n": {
-            "type": "string",
-            "description": "Human-readable variant name"
-          },
-          "t": {
-            "type": "string",
-            "description": "Time period or usage context"
-          },
           "o": {
             "type": "array",
             "items": {
@@ -105,8 +108,8 @@
               "properties": {
                 "x": {
                   "type": "string",
-                  "enum": ["add", "del", "mod", "map"],
-                  "description": "Operation: add new mapping, delete mapping, modify existing, or remap grapheme"
+                  "enum": ["a", "d", "m", "r"],
+                  "description": "Operation: a=add new mapping, d=delete mapping, m=modify existing, r=remap grapheme"
                 },
                 "g": {
                   "type": "string",
@@ -114,26 +117,38 @@
                 },
                 "r": {
                   "type": "string",
-                  "description": "For 'map' op: maps this glyphon to existing base glyphon"
+                  "description": "For 'r' op: maps this glyphon to existing base glyphon"
                 },
                 "p": {
                   "type": "string",
                   "pattern": "^[^/\\[\\]]+$",
                   "minLength": 1,
-                  "description": "For 'add'/'mod' ops: IPA phoneme (clean notation, no slashes/brackets)"
+                  "description": "For 'a'/'m' ops: IPA phoneme (clean notation, no slashes/brackets)"
                 },
                 "c": {
-                  "type": "array",
-                  "items": {
-                    "type": "string",
-                    "enum": ["i", "m", "f", "s"]
-                  },
-                  "description": "For 'add'/'mod' ops: new contexts"
+                  "oneOf": [
+                    {
+                      "type": "string",
+                      "enum": ["i", "m", "f", "s", "n"],
+                      "description": "Single context or n=neutral (all contexts)"
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": ["i", "m", "f", "s"]
+                      },
+                      "uniqueItems": true,
+                      "minItems": 1,
+                      "description": "Multiple specific contexts"
+                    }
+                  ],
+                  "description": "For 'a'/'m' ops: context (i=initial, m=medial, f=final, s=standalone, n=neutral/all, or array for combinations)"
                 },
                 "f": {
                   "type": "string",
                   "enum": ["c", "u", "r", "a", "o"],
-                  "description": "For 'add'/'mod' ops: frequency (c=common, u=uncommon, r=rare, a=archaic, o=obsolete)"
+                  "description": "For 'a'/'m' ops: frequency (c=common, u=uncommon, r=rare, a=archaic, o=obsolete)"
                 }
               },
               "required": ["x", "g"],
@@ -161,33 +176,5 @@
   },
   "then": {
     "required": ["l", "s", "b", "m", "v"]
-  },
-  "examples": [
-    {
-      "l": "hawa1245",
-      "s": "Latn",
-      "b": "standard",
-      "m": [
-        {"g": "a", "p": "a", "c": ["i", "m", "f", "s"]},
-        {"g": "k", "p": "k", "c": ["i", "m", "f"], "a": "t"}
-      ],
-      "v": [
-        {
-          "i": "casual",
-          "n": "Casual Hawaiian",
-          "o": [
-            {"x": "add", "g": "'", "p": "ʔ", "c": ["i", "m"]}
-          ]
-        }
-      ]
-    },
-    {
-      "l": "tami1289",
-      "s": "Taml",
-      "m": [
-        {"g": "அ", "p": "a", "c": ["i", "m", "s"]},
-        {"g": "க", "p": "ka", "c": ["i", "m"]}
-      ]
-    }
-  ]
+  }
 }
