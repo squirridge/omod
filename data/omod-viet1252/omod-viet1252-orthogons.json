@@ -50,7 +50,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ã",
-        "interphon": "/a˧˩˧/",
+        "interphon": "/a˨˧˩/",
         "context": ["initial", "medial", "final", "standalone"],
         "examples": [
             { "word": "ãng", "pronunciation": "/a˧˩˧ŋ/", "meaning": "sound" },
@@ -172,7 +172,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ẵ",
-        "interphon": "/ă˧˩˧/",
+        "interphon": "/ă˨˧˩/",
         "context": ["initial", "medial", "standalone"],
         "examples": [
             { "word": "ẵm", "pronunciation": "/ă˧˩˧m/", "meaning": "carry in arms" },
@@ -238,7 +238,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ẫ",
-        "interphon": "/ə̆˧˩˧/",
+        "interphon": "/ə̆˨˧˩/",
         "context": ["initial", "medial", "standalone"],
         "examples": [
             { "word": "ẫm", "pronunciation": "/ə̆˧˩˧m/", "meaning": "understand" },
@@ -308,7 +308,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ẽ",
-        "interphon": "/ɛ˧˩˧/",
+        "interphon": "/ɛ˨˧˩/",
         "context": ["initial", "medial", "final", "standalone"],
         "examples": [
             { "word": "ẽo", "pronunciation": "/ɛ˧˩˧o˧˧/", "meaning": "crooked" },
@@ -378,7 +378,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ễ",
-        "interphon": "/e˧˩˧/",
+        "interphon": "/e˨˧˩/",
         "context": ["initial", "medial", "final", "standalone"],
         "examples": [
             { "word": "ễnh", "pronunciation": "/e˧˩˧ɲ/", "meaning": "arrogant" },
@@ -450,7 +450,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ĩ",
-        "interphon": "/i˧˩˧/",
+        "interphon": "/i˨˧˩/",
         "context": ["initial", "medial", "final", "standalone"],
         "examples": [
             { "word": "ĩnh", "pronunciation": "/i˧˩˧ɲ/", "meaning": "silent" },
@@ -514,7 +514,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ỹ",
-        "interphon": "/i˧˩˧/",
+        "interphon": "/i˨˧˩/",
         "context": ["final", "standalone"],
         "examples": [
             { "word": "kỹ", "pronunciation": "/ki˧˩˧/", "meaning": "skill" },
@@ -582,7 +582,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "õ",
-        "interphon": "/ɔ˧˩˧/",
+        "interphon": "/ɔ˨˧˩/",
         "context": ["initial", "medial", "final", "standalone"],
         "examples": [
             { "word": "õng", "pronunciation": "/ɔ˧˩˧ŋ/", "meaning": "hollow" },
@@ -654,7 +654,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ỗ",
-        "interphon": "/o˧˩˧/",
+        "interphon": "/o˨˧˩/",
         "context": ["initial", "medial", "final", "standalone"],
         "examples": [
             { "word": "ỗng", "pronunciation": "/o˧˩˧ŋ/", "meaning": "swan" },
@@ -726,7 +726,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ỡ",
-        "interphon": "/ə˧˩˧/",
+        "interphon": "/ə˨˧˩/",
         "context": ["initial", "medial", "final", "standalone"],
         "examples": [
             { "word": "ỡn", "pronunciation": "/ə˧˩˧n/", "meaning": "disgusting" },
@@ -798,7 +798,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ũ",
-        "interphon": "/u˧˩˧/",
+        "interphon": "/u˨˧˩/",
         "context": ["initial", "medial", "final", "standalone"],
         "examples": [
             { "word": "ũng", "pronunciation": "/u˧˩˧ŋ/", "meaning": "pool" },
@@ -870,7 +870,7 @@
     {
         "orthoset": "viet1252-quocngu",
         "glyphon": "ữ",
-        "interphon": "/ɨ˧˩˧/",
+        "interphon": "/ɨ˨˧˩/",
         "context": ["initial", "medial", "final", "standalone"],
         "examples": [
             { "word": "ững", "pronunciation": "/ɨ˧˩˧ŋ/", "meaning": "proud" },
