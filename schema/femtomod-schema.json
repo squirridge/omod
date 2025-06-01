@@ -1,9 +1,9 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/squirridge/omod/schema/femtomod-schema.json",
+  "$id": "https://github.com/your-org/omod/femtomod-schema.json",
   "title": "Femtomod - Minimal Orthographic-Phonetic Mappings with Orthoset Variants",
   "description": "Lightweight schema supporting multiple orthographic systems via differential encoding. Optimized for phonetic conversion tools, TTS/ASR preprocessing, and mobile applications.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "object",
   "properties": {
     "l": {
@@ -79,10 +79,26 @@
             "description": "Frequency: c=common, u=uncommon, r=rare, a=archaic, o=obsolete"
           },
           "a": {
-            "type": "string",
-            "pattern": "^[^/\\[\\]]+$",
-            "minLength": 1,
-            "description": "Single most common alternate pronunciation (clean IPA notation)"
+            "oneOf": [
+              {
+                "type": "string",
+                "pattern": "^[^/\\[\\]]+$",
+                "minLength": 1,
+                "description": "Single alternate pronunciation"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^[^/\\[\\]]+$",
+                  "minLength": 1
+                },
+                "uniqueItems": true,
+                "minItems": 1,
+                "description": "Multiple alternate pronunciations"
+              }
+            ],
+            "description": "Alternate pronunciation(s) - single string or array of clean IPA notation"
           }
         },
         "required": ["g", "p", "c"],
@@ -100,6 +116,28 @@
             "type": "string",
             "pattern": "^[a-z][a-z0-9-]*$",
             "description": "Orthoset variant identifier (lowercase alphanumeric with hyphens)"
+          },
+          "s": {
+            "type": "string",
+            "enum": [
+              "Adlm", "Ahom", "Arab", "Armi", "Armn", "Avst", "Bali", "Bamu", "Bass", "Batk",
+              "Beng", "Bhks", "Bopo", "Brah", "Brai", "Bugi", "Buhd", "Cakm", "Cans", "Cari",
+              "Cham", "Cher", "Chrs", "Copt", "Cprt", "Cyrl", "Deva", "Dogr", "Dsrt", "Dupl",
+              "Egyp", "Elba", "Elym", "Ethi", "Geor", "Glag", "Gong", "Gonm", "Goth", "Gran",
+              "Grek", "Gujr", "Guru", "Hang", "Hani", "Hano", "Hans", "Hant", "Hatr", "Hebr",
+              "Hira", "Hluw", "Hmng", "Hmnp", "Hrkt", "Hung", "Ital", "Java", "Jpan", "Kali",
+              "Kana", "Khar", "Khmr", "Khoj", "Kits", "Knda", "Kore", "Kthi", "Lana", "Laoo",
+              "Latn", "Lepc", "Limb", "Lina", "Linb", "Lisu", "Lyci", "Lydi", "Mahj", "Maka",
+              "Mand", "Mani", "Marc", "Medf", "Mend", "Merc", "Mero", "Mlym", "Modi", "Mong",
+              "Mroo", "Mtei", "Mult", "Mymr", "Nand", "Narb", "Nbat", "Newa", "Nkoo", "Nshu",
+              "Ogam", "Olck", "Orkh", "Orya", "Osge", "Osma", "Palm", "Pauc", "Perm", "Phag",
+              "Phli", "Phlp", "Phnx", "Plrd", "Prti", "Qaag", "Rjng", "Rohg", "Runr", "Samr",
+              "Sarb", "Saur", "Sgnw", "Shaw", "Shrd", "Sidd", "Sind", "Sinh", "Sogd", "Sogo",
+              "Sora", "Soyo", "Sund", "Sylo", "Syrc", "Tagb", "Takr", "Tale", "Talu", "Taml",
+              "Tang", "Tavt", "Telu", "Tfng", "Tglg", "Thaa", "Thai", "Tibt", "Tirh", "Ugar",
+              "Vaii", "Wara", "Wcho", "Xpeo", "Xsux", "Yezi", "Yiii", "Zanb", "Zinh", "Zyyy"
+            ],
+            "description": "Script override for this variant (ISO 15924 code). If omitted, inherits from base."
           },
           "o": {
             "type": "array",
@@ -149,6 +187,28 @@
                   "type": "string",
                   "enum": ["c", "u", "r", "a", "o"],
                   "description": "For 'a'/'m' ops: frequency (c=common, u=uncommon, r=rare, a=archaic, o=obsolete)"
+                },
+                "a": {
+                  "oneOf": [
+                    {
+                      "type": "string",
+                      "pattern": "^[^/\\[\\]]+$",
+                      "minLength": 1,
+                      "description": "Single alternate pronunciation"
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "pattern": "^[^/\\[\\]]+$",
+                        "minLength": 1
+                      },
+                      "uniqueItems": true,
+                      "minItems": 1,
+                      "description": "Multiple alternate pronunciations"
+                    }
+                  ],
+                  "description": "For 'a'/'m' ops: alternate pronunciation(s) - single string or array"
                 }
               },
               "required": ["x", "g"],
